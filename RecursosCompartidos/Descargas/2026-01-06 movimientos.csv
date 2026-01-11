@@ -1,0 +1,1202 @@
+ID,Fecha,Cuenta ID,Cuenta,Tercero ID,Tercero,Grupo ID,Grupo,Concepto ID,Concepto,Valor,Moneda ID,Moneda,Valor USD,TRM,Detalle,Descripción,Referencia,Creación
+1896,2026-01-05,1,Efectivo,40,D1,29,Mercado,175,Mercado,-50000,1,Pesos,,,,,,2026-01-05T16:03:27
+1895,2026-01-04,1,Efectivo,40,D1,29,Mercado,175,Mercado,-74000,1,Pesos,,,,,,2026-01-04T19:05:30
+1894,2026-01-03,1,Efectivo,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,300000,1,Pesos,,,,,,2026-01-03T17:13:43
+1893,2026-01-03,1,Efectivo,4,AgroBolivar,32,Perros,299,Cuido,-175000,1,Pesos,,,,,,2026-01-03T13:42:58
+1892,2026-01-02,1,Efectivo,144,Maritza Milena Posada,9,Bosques.Terrarios,64,Plantas,-74000,1,Pesos,,,,,,2026-01-02T19:40:34
+1881,2025-12-31,2,Ahorros,170,Parcelación Montemadero,24,Komorebi,127,Administración,-669118,1,Pesos,,,,Transferencia Cta Suc,37594048360,2026-01-01T09:42:03
+1879,2025-12-31,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,500000,1,Pesos,,,,Transferencia Desde Luis Londono 6834,,2026-01-01T09:42:03
+1878,2025-12-31,2,Ahorros,45,Dian,22,Impuestos,117,4xMil,-5926.98,1,Pesos,,,,Impto Gobierno 4X1000,,2026-01-01T09:42:03
+1883,2025-12-31,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,1.54,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1882,2025-12-31,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,0.18,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1574,2025-12-30,4,Mc Pesos,96,Ikea,9,Bosques.Terrarios,56,Frascos,-249950,1,Pesos,,,,Ikea Envigado,,2026-01-01T08:26:24
+1575,2025-12-30,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-194555,1,Pesos,,,,Pricesmart,,2026-01-01T08:26:24
+1576,2025-12-30,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-86720,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:26:24
+1875,2025-12-30,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,7.02,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1871,2025-12-29,2,Ahorros,19,Bancolombia,4,Bancolombia,17,Ajustes,574.19,1,Pesos,,,,Dev Cuota Manejo Tarj,,2026-01-01T09:42:03
+1872,2025-12-29,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,6.38,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1873,2025-12-29,2,Ahorros,45,Dian,22,Impuestos,119,Impuestos,2.3,1,Pesos,,,ajuste,Rev Impto Gobierno,,2026-01-01T09:42:03
+1866,2025-12-27,2,Ahorros,266,Juan Fernando Mejía,9,Bosques.Terrarios,67,Ventas,150000,1,Pesos,,,,Transferencia Cta Suc,10282163178,2026-01-01T09:42:03
+1479,2025-12-27,1,Efectivo,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,,,2026-01-01T08:22:40
+1870,2025-12-27,2,Ahorros,160,Natalia Villa Martin,40,Restaurantes,328,Restaurantes,-34400,1,Pesos,,,,Transf Qr Rossther Ambrosia Viva Ceja,,2026-01-01T09:42:03
+1865,2025-12-27,2,Ahorros,235,Pollo al Carbón,40,Restaurantes,328,Restaurantes,-28000,1,Pesos,,,,Pago Qr Pollo Al Carb,987331222,2026-01-01T09:42:03
+1868,2025-12-27,2,Ahorros,45,Dian,22,Impuestos,117,4xMil,-4569.6,1,Pesos,,,,Impto Gobierno 4X1000,,2026-01-01T09:42:03
+1869,2025-12-27,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,4.55,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1573,2025-12-27,5,Mc Dolars,15,Apple,24,Komorebi,129,Celular,0,1,Pesos,-3.43,,,Apple.Com/Bill,,2026-01-01T08:26:24
+1571,2025-12-26,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-576864,1,Pesos,,,,Pricesmart,,2026-01-01T08:26:24
+1569,2025-12-26,4,Mc Pesos,10,Amazon,9,Bosques.Terrarios,813,Equipos,-80220,1,Pesos,,,,Amazon.Com,,2026-01-01T08:26:24
+1570,2025-12-26,4,Mc Pesos,172,Pasteur,43,Salud,342,Drogas,-61856,1,Pesos,,,,Drogueria Pasteur Terp,,2026-01-01T08:26:24
+1572,2025-12-26,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-35640,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:26:24
+1864,2025-12-26,2,Ahorros,45,Dian,22,Impuestos,117,4xMil,-800,1,Pesos,,,,Impto Gobierno 4X1000,,2026-01-01T09:42:03
+1503,2025-12-26,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,-230.13,1,Pesos,,,,"0,",005736,2026-01-01T08:25:16
+1863,2025-12-26,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,3.46,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1859,2025-12-25,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,2000000,1,Pesos,,,,Transferencia Desde Luis Londono 6834,,2026-01-01T09:42:03
+1568,2025-12-25,4,Mc Pesos,75,FlyPass,10,Carro,80,Peajes,-100000,1,Pesos,,,,Flypass,,2026-01-01T08:26:24
+1860,2025-12-25,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,1.44,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1563,2025-12-24,4,Mc Pesos,17,Autoland,10,Carro,72,ICar 03,-1561890,1,Pesos,,,,Autoland ,,2026-01-01T08:26:24
+1561,2025-12-24,4,Mc Pesos,17,Autoland,10,Carro,72,ICar 03,-1117000,1,Pesos,,,Tapetes,Autoland,,2026-01-01T08:26:24
+1565,2025-12-24,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-121276,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:26:24
+1560,2025-12-24,4,Mc Pesos,210,Tigo,24,Komorebi,130,Celular e Internet,-109900,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:26:24
+1566,2025-12-24,4,Mc Pesos,51,DollarCity,29,Mercado,175,Mercado,-66000,1,Pesos,,,,Dollarcity Viva La Cej,,2026-01-01T08:26:24
+1564,2025-12-24,4,Mc Pesos,219,Vivero Chuscalito,40,Restaurantes,328,Restaurantes,-32200,1,Pesos,,,,Vivero Chuscalito,,2026-01-01T08:26:24
+1562,2025-12-24,4,Mc Pesos,253,Smar Fit,13,Deporte,89,Gym,-19900,1,Pesos,,,,Smart Fit 20 De Julio,,2026-01-01T08:26:24
+1567,2025-12-24,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-1700,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:26:24
+1858,2025-12-23,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,812,Luis Fernando Londoño,-3928000,1,Pesos,,,compra celular,Transferencia Cta Suc,01661951733,2026-01-01T09:42:03
+1854,2025-12-23,2,Ahorros,103,Jackson Mosquera,33,PH360,304,Desarrollo,-3500000,1,Pesos,,,arriendo,Transferencia Cta Suc,01512988021,2026-01-01T09:42:03
+1857,2025-12-23,2,Ahorros,139,Margarita Lalinde,39,Regalos,324,Familia,-400000,1,Pesos,,,aguinaldos,Transferencia Cta Suc,20455805909,2026-01-01T09:42:03
+1855,2025-12-23,2,Ahorros,45,Dian,22,Impuestos,117,4xMil,-31312,1,Pesos,,,,Impto Gobierno 4X1000,,2026-01-01T09:42:03
+1856,2025-12-23,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,11.49,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1850,2025-12-22,2,Ahorros,181,Protección,31,Pensión,298,Mesada,5478230,1,Pesos,,,,Pago De Nomi Proteccion,900379921,2026-01-01T09:42:03
+1853,2025-12-22,2,Ahorros,42,Deacua Sas,9,Bosques.Terrarios,67,Ventas,2500000,1,Pesos,,,,Transferencia Cta Suc,17753699252,2026-01-01T09:42:03
+1559,2025-12-22,4,Mc Pesos,252,Comodisimos,24,Komorebi,140,Menaje,-385700,1,Pesos,,,,Comodisimos Viva La Ce,,2026-01-01T08:26:24
+1852,2025-12-22,2,Ahorros,120,Juan José Jaramillo,29,Mercado,175,Mercado,-140000,1,Pesos,,,Proteina,Transf A Juan Jose Ja,,2026-01-01T09:42:03
+1851,2025-12-22,2,Ahorros,236,A la brasa con sabor caleño,40,Restaurantes,328,Restaurantes,-84000,1,Pesos,,,,Pago Qr A La Brasa Co,935247832,2026-01-01T09:42:03
+1558,2025-12-22,4,Mc Pesos,51,DollarCity,29,Mercado,175,Mercado,-40000,1,Pesos,,,,Dollarcity Viva La Cej,,2026-01-01T08:26:24
+1848,2025-12-22,2,Ahorros,45,Dian,22,Impuestos,117,4xMil,-896,1,Pesos,,,,Impto Gobierno 4X1000,,2026-01-01T09:42:03
+1849,2025-12-22,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,1.74,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1557,2025-12-21,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-105010,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:26:05
+1556,2025-12-21,4,Mc Pesos,229,YouTube,16,Educación,105,YouTube,-41900,1,Pesos,,,,Dlo*Google Youtubeprem,,2026-01-01T08:26:05
+1844,2025-12-20,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,600000,1,Pesos,,,,Transferencia Desde Luis Londono 6834,,2026-01-01T09:42:03
+1846,2025-12-20,2,Ahorros,243,David,9,Bosques.Terrarios,62,Musgos,-150000,1,Pesos,,,musgos y orquideas,Transferencias A Nequi,,2026-01-01T09:42:03
+1555,2025-12-20,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-69960,1,Pesos,,,,Tienda D1 Carmen Tezen,,2026-01-01T08:26:05
+1847,2025-12-20,2,Ahorros,45,Dian,22,Impuestos,117,4xMil,-600,1,Pesos,,,,Impto Gobierno 4X1000,,2026-01-01T09:42:03
+1845,2025-12-20,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,0.25,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1840,2025-12-19,2,Ahorros,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-145000,1,Pesos,,,,Transferencia Cta Suc,00190644952,2026-01-01T09:42:03
+1843,2025-12-19,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-100000,1,Pesos,,,,Transferencias A Nequi,,2026-01-01T09:42:03
+1554,2025-12-19,4,Mc Pesos,151,Mercolanta,40,Restaurantes,328,Restaurantes,-89100,1,Pesos,,,,Mercolanta Monte,,2026-01-01T08:26:05
+1842,2025-12-19,2,Ahorros,45,Dian,22,Impuestos,117,4xMil,-980,1,Pesos,,,,Impto Gobierno 4X1000,,2026-01-01T09:42:03
+1841,2025-12-19,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,1.18,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1551,2025-12-18,4,Mc Pesos,210,Tigo,37,RC Gastos,312,Celular,-49900,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:26:05
+1552,2025-12-18,4,Mc Pesos,172,Pasteur,32,Perros,300,Drogas,-34218,1,Pesos,,,,Drogueria Pasteur Terp,,2026-01-01T08:26:05
+1548,2025-12-17,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-43530,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:26:05
+1549,2025-12-17,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-40910,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:26:05
+1550,2025-12-17,4,Mc Pesos,251,Cosechas,40,Restaurantes,328,Restaurantes,-10000,1,Pesos,,,,Bold*Cosechas,,2026-01-01T08:26:05
+1839,2025-12-17,2,Ahorros,45,Dian,22,Impuestos,117,4xMil,-3996.46,1,Pesos,,,,Impto Gobierno 4X1000,,2026-01-01T09:42:03
+1838,2025-12-17,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,0.59,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1547,2025-12-16,4,Mc Pesos,201,Suramericana,43,Salud,347,Prepagada,-1340957,1,Pesos,,,,Suramericana Seguros D,,2026-01-01T08:26:05
+1833,2025-12-16,2,Ahorros,211,Tita,39,Regalos,324,Familia,350000,1,Pesos,,,aguinaldo,Transf A Sergio Lalin Null,,2026-01-01T09:42:03
+1544,2025-12-16,4,Mc Pesos,65,EPM,24,Komorebi,147,Servicios Públicos,-188539,1,Pesos,,,,Epm Servicios Publicos,,2026-01-01T08:26:05
+1546,2025-12-16,4,Mc Pesos,10,Amazon,41,Ropa,331,Chaquetas,-158039,1,Pesos,,,Chaqueta amarilla,Amazon.Com,,2026-01-01T08:26:05
+1832,2025-12-16,2,Ahorros,45,Dian,22,Impuestos,117,4xMil,-16523.61,1,Pesos,,,,Impto Gobierno 4X1000,,2026-01-01T09:42:03
+1500,2025-12-16,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,-520.2,1,Pesos,,,,"0,",012996,2026-01-01T08:25:16
+1831,2025-12-16,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,2.22,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1890,2025-12-15,1,Efectivo,17,Autoland,10,Carro,72,ICar 03,-20000000,1,Pesos,,,,,,2026-01-02T13:13:11
+1825,2025-12-15,2,Ahorros,234,Zona 4,10,Carro,77,Mantenimiento,-341000,1,Pesos,,,cambio de aceite,Pago Qr Colegiatura D,939179189,2026-01-01T09:42:03
+1542,2025-12-15,4,Mc Pesos,36,Corpaul,15,Donaciones,94,Corpaul,-100000,1,Pesos,,,,Corpaul,,2026-01-01T08:26:05
+1543,2025-12-15,4,Mc Pesos,151,Mercolanta,40,Restaurantes,328,Restaurantes,-44200,1,Pesos,,,,Mercolanta Monte,,2026-01-01T08:26:05
+1498,2025-12-15,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,-206.18,1,Pesos,,,,"0,",005149,2026-01-01T08:25:16
+1827,2025-12-15,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,2.64,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1540,2025-12-14,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-59230,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:25:49
+1823,2025-12-13,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,500000,1,Pesos,,,,Transferencia Desde Luis Londono 6834,,2026-01-01T09:42:03
+1536,2025-12-13,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-119130,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:25:49
+1537,2025-12-13,4,Mc Pesos,151,Mercolanta,40,Restaurantes,328,Restaurantes,-44200,1,Pesos,,,,Mercolanta Monte,,2026-01-01T08:25:49
+1535,2025-12-13,4,Mc Pesos,2,Adobe,21,Fotografía,110,Adobe,-29374,1,Pesos,,,,Adobe,,2026-01-01T08:25:49
+1539,2025-12-13,4,Mc Pesos,250,Juan Valdez,40,Restaurantes,328,Restaurantes,-19200,1,Pesos,,,,Juan Valdez Viva La Ce,,2026-01-01T08:25:49
+1822,2025-12-13,2,Ahorros,19,Bancolombia,4,Bancolombia,21,Cuota de manejo,-17800,1,Pesos,,,,Cuota Manejo Trj Deb 12 Manejo Tarjeta Deb 12 25,,2026-01-01T09:42:03
+1538,2025-12-13,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-11490,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:25:49
+1821,2025-12-13,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,1.32,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1824,2025-12-13,2,Ahorros,19,Bancolombia,4,Bancolombia,17,Ajustes,-0.03,1,Pesos,,,,Ajuste Interes Ahorros,,2026-01-01T09:42:03
+1533,2025-12-12,4,Mc Pesos,10,Amazon,41,Ropa,331,Chaquetas,-181751,1,Pesos,,,Chaqueta verde,Amazon.Com,,2026-01-01T08:25:49
+1531,2025-12-12,4,Mc Pesos,137,MacroDrogas,43,Salud,342,Drogas,-153700,1,Pesos,,,,Inversiones Ramej Sas,,2026-01-01T08:25:49
+1534,2025-12-12,4,Mc Pesos,10,Amazon,24,Komorebi,140,Menaje,-77684,1,Pesos,,,Hilo dental agua,Amazon.Com,,2026-01-01T08:25:49
+1532,2025-12-12,4,Mc Pesos,137,MacroDrogas,43,Salud,342,Drogas,-58300,1,Pesos,,,,Inversiones Ramej Sas,,2026-01-01T08:25:49
+1530,2025-12-12,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-26950,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:25:49
+1528,2025-12-12,5,Mc Dolars,9,AliExpress,9,Bosques.Terrarios,59,Lámparas,0,1,Pesos,-60.84,,,Aliexpress,,2026-01-01T08:25:49
+1529,2025-12-12,5,Mc Dolars,9,AliExpress,9,Bosques.Terrarios,59,Lámparas,0,1,Pesos,-25.25,,,Aliexpress,,2026-01-01T08:25:49
+1527,2025-12-11,4,Mc Pesos,157,Municipio de la Ceja,24,Komorebi,144,Predial,-4119180,1,Pesos,,,,Municipio De La Ceja,,2026-01-01T08:25:49
+1819,2025-12-11,2,Ahorros,233,Grupo Clinico,43,Salud,811,Odontologia,-120000,1,Pesos,,,limpieza,Pago Qr Grupo Clinico,945494911,2026-01-01T09:42:03
+1820,2025-12-11,2,Ahorros,235,Pollo al Carbón,40,Restaurantes,328,Restaurantes,-48000,1,Pesos,,,,Pago Qr Pollo Al Carb,987331222,2026-01-01T09:42:03
+1818,2025-12-11,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,0.89,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1811,2025-12-10,2,Ahorros,,,,,,,-64000,1,Pesos,,,,Transferencia Cta Suc,10132956230,2026-01-01T09:42:03
+1496,2025-12-10,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,-130.87,1,Pesos,,,,"0,",003269,2026-01-01T08:25:16
+1816,2025-12-10,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,0.3,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1807,2025-12-09,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,56,Frascos,-280000,1,Pesos,,,Cúpulas,Transferencias A Nequi,,2026-01-01T09:42:03
+1522,2025-12-09,4,Mc Pesos,75,FlyPass,10,Carro,80,Peajes,-100000,1,Pesos,,,,Flypass,,2026-01-01T08:25:49
+1809,2025-12-09,2,Ahorros,,,,,,,-80000,1,Pesos,,,,Transferencia Cta Suc,02379110978,2026-01-01T09:42:03
+1808,2025-12-09,2,Ahorros,239,Superoriente sas,40,Restaurantes,328,Restaurantes,-34000,1,Pesos,,,,Transferencia Cta Suc,24500000743,2026-01-01T09:42:03
+1525,2025-12-09,4,Mc Pesos,151,Mercolanta,29,Mercado,175,Mercado,-30900,1,Pesos,,,,Mercolanta Monte,,2026-01-01T08:25:49
+1523,2025-12-09,4,Mc Pesos,79,Fundación Hospital San Vicente,43,Salud,340,Copagos,-22900,1,Pesos,,,,Fund Hosp S/Vicente Pa,,2026-01-01T08:25:49
+1524,2025-12-09,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-8250,1,Pesos,,,,Tienda D1 Carmen Tezen,,2026-01-01T08:25:49
+1526,2025-12-09,4,Mc Pesos,36,Corpaul,10,Carro,79,Parqueadero,-4300,1,Pesos,,,,Corpaul Husvf Rionegro,,2026-01-01T08:25:49
+1810,2025-12-09,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,0.83,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1806,2025-12-08,2,Ahorros,88,Halis León Galindo,8,Bosques.Cuadros,45,MO Halis,-200000,1,Pesos,,,,Transferencia Cta Suc,00190644952,2026-01-01T09:42:03
+1805,2025-12-08,2,Ahorros,143,Maria Paula Zuluaga,29,Mercado,175,Mercado,-60000,1,Pesos,,,Masa pizzas,Transferencias A Nequi,,2026-01-01T09:42:03
+1804,2025-12-08,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-50000,1,Pesos,,,,Transferencias A Nequi,,2026-01-01T09:42:03
+1803,2025-12-08,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,1.26,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1802,2025-12-07,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,1.31,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1520,2025-12-06,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-245150,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:25:33
+1799,2025-12-06,2,Ahorros,221,William Vanegas,24,Komorebi,138,Jardín,-200000,1,Pesos,,,,Transferencia Cta Suc,02399359743,2026-01-01T09:42:03
+1798,2025-12-06,2,Ahorros,88,Halis León Galindo,8,Bosques.Cuadros,45,MO Halis,-170000,1,Pesos,,,,Transferencia Cta Suc,00190644952,2026-01-01T09:42:03
+1796,2025-12-06,2,Ahorros,144,Maritza Milena Posada,9,Bosques.Terrarios,64,Plantas,-98000,1,Pesos,,,,Pago Qr Maritza Milen,950067842,2026-01-01T09:42:03
+1521,2025-12-06,4,Mc Pesos,10,Amazon,9,Bosques.Terrarios,59,Lámparas,-38316,1,Pesos,,,,Amazon.Com,,2026-01-01T08:25:49
+1797,2025-12-06,2,Ahorros,269,Manuel Adan Arroyave,9,Bosques.Terrarios,67,Ventas,30000,1,Pesos,,,,Transferencia Cta Suc,27511607189,2026-01-01T09:42:03
+1800,2025-12-06,2,Ahorros,267,Antonio Esteban Gomez Agnoli,9,Bosques.Terrarios,67,Ventas,30000,1,Pesos,,,,Transferencia Cta Suc,10070097034,2026-01-01T09:42:03
+1795,2025-12-06,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,7.48,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1514,2025-12-05,4,Mc Pesos,10,Amazon,24,Komorebi,140,Menaje,-91245,1,Pesos,,,Colcha habitación principal,Amazon.Com,,2026-01-01T08:25:33
+1519,2025-12-05,4,Mc Pesos,43,Delolita,40,Restaurantes,328,Restaurantes,-42600,1,Pesos,,,,Delolita San Vicente R,,2026-01-01T08:25:33
+1515,2025-12-05,4,Mc Pesos,79,Fundación Hospital San Vicente,43,Salud,340,Copagos,-22900,1,Pesos,,,,Fund Hosp S/Vicente Pa,,2026-01-01T08:25:33
+1517,2025-12-05,4,Mc Pesos,36,Corpaul,10,Carro,79,Parqueadero,-4300,1,Pesos,,,,Corpaul Husvf Rionegro,,2026-01-01T08:25:33
+1512,2025-12-05,5,Mc Dolars,15,Apple,16,Educación,98,Gemini,0,1,Pesos,-5.76,,,Apple.Com/Bill,,2026-01-01T08:25:33
+1791,2025-12-02,2,Ahorros,209,Tidavi SAS,24,Komorebi,138,Jardín,-1000000,1,Pesos,,,,Transferencia Cta Suc,02300029020,2026-01-01T09:42:03
+1792,2025-12-02,2,Ahorros,237,Esneider Gonzalez Caro,43,Salud,340,Copagos,-23000,1,Pesos,,,Reclamo y copago,Transferencia Cta Suc,23019875482,2026-01-01T09:42:03
+1794,2025-12-02,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,4.92,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T09:42:03
+1510,2025-12-02,5,Mc Dolars,15,Apple,16,Educación,98,Gemini,0,1,Pesos,-20.94,,,Apple.Com/Bill,,2026-01-01T08:25:33
+1787,2025-12-01,2,Ahorros,258,Almacen Agropecuario,24,Komorebi,138,Jardín,-206000,1,Pesos,,,,Pago Qr Almacen Agrop,,2026-01-01T09:42:03
+1785,2025-12-01,2,Ahorros,,,,,,,-182000,1,Pesos,,,,Transferencia Cta Suc,34441384353,2026-01-01T09:42:03
+1784,2025-12-01,2,Ahorros,88,Halis León Galindo,8,Bosques.Cuadros,45,MO Halis,-120000,1,Pesos,,,,Transferencia Cta Suc,00190644952,2026-01-01T09:42:03
+1786,2025-12-01,2,Ahorros,143,Maria Paula Zuluaga,29,Mercado,175,Mercado,-60000,1,Pesos,,,Masa Pizzas,Transferencias A Nequi,,2026-01-01T09:42:03
+1478,2025-11-30,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,991,1,Pesos,,,,,,2026-01-01T08:22:40
+1477,2025-11-29,2,Ahorros,133,Luis Fernando Londoño,8,Bosques.Cuadros,48,Ventas,800000,1,Pesos,,,,Transferencia Desde Nequi,LUIS LONDONO 6834,2026-01-01T08:22:40
+1465,2025-11-29,2,Ahorros,170,Parcelación Montemadero,24,Komorebi,127,Administración,-669118,1,Pesos,,,,Transferencia Cta Suc Virtual,37594048360,2026-01-01T08:22:40
+1474,2025-11-29,2,Ahorros,133,Luis Fernando Londoño,8,Bosques.Cuadros,48,Ventas,500000,1,Pesos,,,,,,2026-01-01T08:22:40
+1467,2025-11-29,2,Ahorros,18,Avianca,50,Vacaciones,402,Paseos,-488400,1,Pesos,,,,,,2026-01-01T08:22:40
+1508,2025-11-29,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-439247,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:25:33
+1475,2025-11-29,1,Efectivo,218,Vitrales,9,Bosques.Terrarios,69,Vitrales,-400000,1,Pesos,,,,,,2026-01-01T08:22:40
+1509,2025-11-29,4,Mc Pesos,212,Tns Viva,29,Mercado,175,Mercado,-347600,1,Pesos,,,,Inversiones Tns Viva L,,2026-01-01T08:25:33
+1507,2025-11-29,4,Mc Pesos,256,Cueros Velez,39,Regalos,325,RC,-300850,1,Pesos,,,Botas,Velez Viva La Ceja,,2026-01-01T08:25:33
+1468,2025-11-29,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-200000,1,Pesos,,,,Transferencias A Nequi,,2026-01-01T08:22:40
+1469,2025-11-29,2,Ahorros,45,Dian,22,Impuestos,117,4xMil,-183038,1,Pesos,,,,Impto Gobierno 4X1000,,2026-01-01T08:22:40
+1506,2025-11-29,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-149250,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:25:33
+1470,2025-11-29,2,Ahorros,84,Gregorio Lalinde,39,Regalos,326,Regalos,-125000,1,Pesos,,,,,,2026-01-01T08:22:40
+1476,2025-11-29,1,Efectivo,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-100000,1,Pesos,,,,,,2026-01-01T08:22:40
+1471,2025-11-29,2,Ahorros,84,Gregorio Lalinde,39,Regalos,326,Regalos,-88000,1,Pesos,,,,,,2026-01-01T08:22:40
+1505,2025-11-29,4,Mc Pesos,51,DollarCity,29,Mercado,175,Mercado,-52000,1,Pesos,,,,Dollarcity Viva La Cej,,2026-01-01T08:25:33
+1472,2025-11-29,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,81,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T08:22:40
+1462,2025-11-28,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,600000,1,Pesos,,,,Transferencia Desde Nequi,LUIS LONDONO 6834,2026-01-01T08:22:40
+1460,2025-11-28,2,Ahorros,221,William Vanegas,24,Komorebi,138,Jardín,-200000,1,Pesos,,,,Transferencia Cta Suc Virtual,02399359743,2026-01-01T08:22:40
+1459,2025-11-28,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-200000,1,Pesos,,,,,,2026-01-01T08:22:40
+1461,2025-11-28,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencias A Nequi,3046365107,2026-01-01T08:22:40
+1457,2025-11-27,5,Mc Dolars,15,Apple,24,Komorebi,129,Celular,0,1,Pesos,-3,,,Apple.Com/Bill,11/30/2025,2026-01-01T08:22:40
+1456,2025-11-27,1,Efectivo,178,PolyMaster Sas,9,Bosques.Terrarios,58,Impresión 3D,-800000,1,Pesos,,,,,,2026-01-01T08:22:40
+1455,2025-11-27,2,Ahorros,130,Lina María Molina Velez,9,Bosques.Terrarios,69,Vitrales,-800000,1,Pesos,,,,Transferencia Cta Suc Virtual,02928061194,2026-01-01T08:22:40
+1458,2025-11-27,4,Mc Pesos,137,MacroDrogas,43,Salud,342,Drogas,-146700,1,Pesos,,,,Inversiones Ramej Sas,11/30/2025,2026-01-01T08:22:40
+1448,2025-11-26,2,Ahorros,181,Protección,31,Pensión,298,Mesada,11703560,1,Pesos,,,,Pago De Nomi Proteccion,900379921,2026-01-01T08:22:40
+1451,2025-11-26,1,Efectivo,28,Capiro Vivero,9,Bosques.Terrarios,67,Ventas,916000,1,Pesos,,,,,,2026-01-01T08:22:40
+1452,2025-11-26,4,Mc Pesos,49,Diez y Ocho Lab,40,Restaurantes,328,Restaurantes,-215900,1,Pesos,,,,Bold*Diez Y Ocho Lab,11/30/2025,2026-01-01T08:22:40
+1449,2025-11-26,1,Efectivo,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-120000,1,Pesos,,,,,,2026-01-01T08:22:40
+1453,2025-11-26,4,Mc Pesos,79,Fundación Hospital San Vicente,43,Salud,340,Copagos,-50500,1,Pesos,,,,Fund Hosp S/Vicente Pa,11/30/2025,2026-01-01T08:22:40
+1454,2025-11-26,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-49940,1,Pesos,,,,Tienda D1 Cantarrana,11/30/2025,2026-01-01T08:22:40
+1450,2025-11-26,1,Efectivo,133,Luis Fernando Londoño,9,Bosques.Terrarios,66,Trasporte,-30000,1,Pesos,,,,,,2026-01-01T08:22:40
+1447,2025-11-25,4,Mc Pesos,137,MacroDrogas,43,Salud,342,Drogas,-25600,1,Pesos,,,,Inversiones Ramej Sas,11/30/2025,2026-01-01T08:22:40
+1443,2025-11-24,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-150000,1,Pesos,,,,Transferencias A Nequi,3233936834,2026-01-01T08:22:40
+1446,2025-11-24,4,Mc Pesos,210,Tigo,24,Komorebi,130,Celular e Internet,-109900,1,Pesos,,,,Tigo Servicios Hogar Y,11/30/2025,2026-01-01T08:22:40
+1442,2025-11-22,4,Mc Pesos,10,Amazon,24,Komorebi,140,Menaje,-147818,1,Pesos,,,,Amazon.Com,11/30/2025,2026-01-01T08:22:40
+1440,2025-11-22,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencias A Nequi,3046365107,2026-01-01T08:22:40
+1441,2025-11-22,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-50000,1,Pesos,,,,Transferencias A Nequi,,2026-01-01T08:22:40
+1434,2025-11-21,2,Ahorros,103,Jackson Mosquera,33,PH360,304,Desarrollo,-7000000,1,Pesos,,,,Transferencia Cta Suc Virtual,69300030432,2026-01-01T08:22:40
+1435,2025-11-21,2,Ahorros,103,Jackson Mosquera,33,PH360,304,Desarrollo,-3500000,1,Pesos,,,,Transferencia Cta Suc Virtual,01512988021,2026-01-01T08:22:40
+1436,2025-11-21,2,Ahorros,221,William Vanegas,24,Komorebi,138,Jardín,-200000,1,Pesos,,,,Transferencias A Nequi,3233936834,2026-01-01T08:22:40
+1437,2025-11-21,2,Ahorros,88,Halis León Galindo,24,Komorebi,139,Mantenimiento,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+1439,2025-11-21,4,Mc Pesos,229,YouTube,16,Educación,105,YouTube,-41900,1,Pesos,,,,Dlo*Google Youtubeprem,11/30/2025,2026-01-01T08:22:40
+1432,2025-11-20,2,Ahorros,221,William Vanegas,24,Komorebi,138,Jardín,-200000,1,Pesos,,,,,,2026-01-01T08:22:40
+1427,2025-11-19,1,Efectivo,88,Halis León Galindo,8,Bosques.Cuadros,45,MO Halis,-360000,1,Pesos,,,,,,2026-01-01T08:22:40
+1428,2025-11-19,1,Efectivo,133,Luis Fernando Londoño,8,Bosques.Cuadros,49,Trasporte,-200000,1,Pesos,,,,,,2026-01-01T08:22:40
+1425,2025-11-19,2,Ahorros,175,Plantas del Tambo,9,Bosques.Terrarios,64,Plantas,-188400,1,Pesos,,,,Transferencia Cta Suc Virtual,02323938924,2026-01-01T08:22:40
+1429,2025-11-19,1,Efectivo,133,Luis Fernando Londoño,8,Bosques.Cuadros,47,Otros,-110000,1,Pesos,,,,,,2026-01-01T08:22:40
+1431,2025-11-19,4,Mc Pesos,65,EPM,24,Komorebi,147,Servicios Públicos,-84913,1,Pesos,,,,Epm Servicios Publicos,11/30/2025,2026-01-01T08:22:40
+1430,2025-11-19,1,Efectivo,133,Luis Fernando Londoño,8,Bosques.Cuadros,46,Musgos,-70000,1,Pesos,,,,,,2026-01-01T08:22:40
+1426,2025-11-19,2,Ahorros,125,La Tienda del Ebanista,24,Komorebi,139,Mantenimiento,-16000,1,Pesos,,,,Pago Qr La Tienda Del,949169501,2026-01-01T08:22:40
+1420,2025-11-18,4,Mc Pesos,201,Suramericana,43,Salud,347,Prepagada,-890020,1,Pesos,,,,Suramericana Seguros D,11/30/2025,2026-01-01T08:22:40
+1421,2025-11-18,4,Mc Pesos,151,Mercolanta,40,Restaurantes,328,Restaurantes,-81600,1,Pesos,,,,Mercolanta Monte Mader,11/30/2025,2026-01-01T08:22:40
+1422,2025-11-18,4,Mc Pesos,133,Luis Fernando Londoño,37,RC Gastos,312,Celular,-49900,1,Pesos,,,,Tigo Servicios Hogar Y,11/30/2025,2026-01-01T08:22:40
+1490,2025-11-18,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,-54.36,1,Pesos,,,,"0,",001340,2026-01-01T08:25:16
+1407,2025-11-17,2,Ahorros,172,Pasteur,43,Salud,342,Drogas,-42206,1,Pesos,,,,Transferencia Cta Suc Virtual,10022150893,2026-01-01T08:22:40
+1408,2025-11-17,4,Mc Pesos,137,MacroDrogas,43,Salud,342,Drogas,-30600,1,Pesos,,,,Inversiones Ramej Sas,11/30/2025,2026-01-01T08:22:40
+1404,2025-11-16,2,Ahorros,88,Halis León Galindo,8,Bosques.Cuadros,45,MO Halis,-240000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+1405,2025-11-16,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencias A Nequi,3046365107,2026-01-01T08:22:40
+1406,2025-11-16,2,Ahorros,133,Luis Fernando Londoño,8,Bosques.Cuadros,44,Insumos,-74000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+1400,2025-11-15,2,Ahorros,19,Bancolombia,4,Bancolombia,17,Ajustes,0,1,Pesos,,,,Ajuste Interes Ahorros Db,,2026-01-01T08:22:40
+1402,2025-11-15,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-167320,1,Pesos,,,,Tienda D1 Cantarrana,11/30/2025,2026-01-01T08:22:40
+1403,2025-11-15,4,Mc Pesos,36,Corpaul,15,Donaciones,94,Corpaul,-100000,1,Pesos,,,,Corpaul,11/30/2025,2026-01-01T08:22:40
+1399,2025-11-15,2,Ahorros,19,Bancolombia,4,Bancolombia,21,Cuota de manejo,-16990,1,Pesos,,,,Cuota Manejo Trj Deb 11 25,MANEJO TARJETA DEB 11 25,2026-01-01T08:22:40
+1395,2025-11-14,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,350000,1,Pesos,,,,Transferencia Desde Nequi,LUIS LONDONO 6834,2026-01-01T08:22:40
+1391,2025-11-14,2,Ahorros,221,William Vanegas,24,Komorebi,138,Jardín,-100000,1,Pesos,,,,Transferencia Cta Suc Virtual,02399359743,2026-01-01T08:22:40
+1393,2025-11-14,2,Ahorros,46,Diana SIerra Toro,29,Mercado,175,Mercado,-97000,1,Pesos,,,,Transferencia Cta Suc Virtual,00511404410,2026-01-01T08:22:40
+1392,2025-11-14,2,Ahorros,221,William Vanegas,24,Komorebi,140,Menaje,-85000,1,Pesos,,,,Transferencia Cta Suc Virtual,02399359743,2026-01-01T08:22:40
+1394,2025-11-14,2,Ahorros,114,Juan Carlos Gómez,29,Mercado,175,Mercado,-20000,1,Pesos,,,,Transferencias A Nequi,3182800674,2026-01-01T08:22:40
+1389,2025-11-13,4,Mc Pesos,2,Adobe,21,Fotografía,110,Adobe,-29374,1,Pesos,,,,Adobe,11/30/2025,2026-01-01T08:22:40
+1382,2025-11-12,2,Ahorros,66,Estafa,19,Estafa,108,Estafa,-160000,1,Pesos,,,,Transferencias A Nequi,3182753588,2026-01-01T08:22:40
+1383,2025-11-12,2,Ahorros,88,Halis León Galindo,8,Bosques.Cuadros,45,MO Halis,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+1384,2025-11-12,2,Ahorros,179,Por identificar,29,Mercado,175,Mercado,60000,1,Pesos,,,,Transf A Margarita Ma,null,2026-01-01T08:22:40
+1486,2025-11-12,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,-440.26,1,Pesos,,,,"0,",010809,2026-01-01T08:25:16
+1378,2025-11-11,2,Ahorros,88,Halis León Galindo,8,Bosques.Cuadros,44,Insumos,-188000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+1380,2025-11-11,4,Mc Pesos,137,MacroDrogas,43,Salud,342,Drogas,-142400,1,Pesos,,,,Inversiones Ramej Sas,11/30/2025,2026-01-01T08:22:40
+1379,2025-11-11,2,Ahorros,108,Jhon David,25,Libido,148,Libido,-10000,1,Pesos,,,,Transferencias A Nequi,3146913819,2026-01-01T08:22:40
+1374,2025-11-10,2,Ahorros,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+1376,2025-11-10,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-46121,1,Pesos,,,,Exito La Ceja,11/30/2025,2026-01-01T08:22:40
+1375,2025-11-10,2,Ahorros,133,Luis Fernando Londoño,8,Bosques.Cuadros,44,Insumos,-33000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+1377,2025-11-10,4,Mc Pesos,131,Locatel,43,Salud,342,Drogas,-8100,1,Pesos,,,,Locatel La Ceja,11/30/2025,2026-01-01T08:22:40
+1370,2025-11-08,2,Ahorros,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+1371,2025-11-08,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencias A Nequi,3046365107,2026-01-01T08:22:40
+1372,2025-11-08,2,Ahorros,133,Luis Fernando Londoño,8,Bosques.Cuadros,44,Insumos,-50000,1,Pesos,,,,,,2026-01-01T08:22:40
+1363,2025-11-07,2,Ahorros,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-205000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+1364,2025-11-07,2,Ahorros,221,William Vanegas,24,Komorebi,138,Jardín,-200000,1,Pesos,,,,Retiro Cajero,CAJERO MALL PLAZA CANTARRANA,2026-01-01T08:22:40
+1365,2025-11-07,2,Ahorros,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-120000,1,Pesos,,,,,,2026-01-01T08:22:40
+1366,2025-11-07,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,59,Lámparas,-120000,1,Pesos,,,,,,2026-01-01T08:22:40
+1367,2025-11-07,2,Ahorros,133,Luis Fernando Londoño,8,Bosques.Cuadros,44,Insumos,-25000,1,Pesos,,,,,,2026-01-01T08:22:40
+1484,2025-11-07,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,-230.06,1,Pesos,,,,"0,",005650,2026-01-01T08:25:16
+1361,2025-11-06,4,Mc Pesos,17,Autoland,10,Carro,72,ICar 03,-9000000,1,Pesos,,,,Autoland S A S,11/30/2025,2026-01-01T08:22:40
+1355,2025-11-06,1,Efectivo,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-120000,1,Pesos,,,,,,2026-01-01T08:22:40
+1356,2025-11-06,1,Efectivo,88,Halis León Galindo,24,Komorebi,141,Muebles,-100000,1,Pesos,,,,,,2026-01-01T08:22:40
+1357,2025-11-06,1,Efectivo,218,Vitrales,9,Bosques.Terrarios,66,Trasporte,-67000,1,Pesos,,,,,,2026-01-01T08:22:40
+1358,2025-11-06,1,Efectivo,40,D1,29,Mercado,175,Mercado,-45000,1,Pesos,,,,,,2026-01-01T08:22:40
+1359,2025-11-06,1,Efectivo,133,Luis Fernando Londoño,8,Bosques.Cuadros,49,Trasporte,-30000,1,Pesos,,,,,,2026-01-01T08:22:40
+1362,2025-11-06,4,Mc Pesos,172,Pasteur,43,Salud,342,Drogas,-11000,1,Pesos,,,,Drogueria Pasteur Terp,11/30/2025,2026-01-01T08:22:40
+1481,2025-11-06,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,-266.24,1,Pesos,,,,"0,",006544,2026-01-01T08:25:16
+1343,2025-11-05,2,Ahorros,120,Juan José Jaramillo,29,Mercado,175,Mercado,-150000,1,Pesos,,,,Transf A Juan Jose Ja,@jjt055,2026-01-01T08:22:40
+1344,2025-11-05,2,Ahorros,143,Maria Paula Zuluaga,29,Mercado,175,Mercado,-60000,1,Pesos,,,,Transferencias A Nequi,3192826084,2026-01-01T08:22:40
+1338,2025-11-04,2,Ahorros,209,Tidavi SAS,24,Komorebi,138,Jardín,-1000000,1,Pesos,,,,Transferencia Cta Suc Virtual,02300029020,2026-01-01T08:22:40
+1339,2025-11-04,2,Ahorros,88,Halis León Galindo,24,Komorebi,141,Muebles,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+1342,2025-11-04,4,Mc Pesos,10,Amazon,24,Komorebi,140,Menaje,-118244,1,Pesos,,,,Amazon.Com,11/30/2025,2026-01-01T08:22:40
+1340,2025-11-04,2,Ahorros,204,Tecniflush sas,10,Carro,77,Mantenimiento,-80000,1,Pesos,,,,Transferencia Cta Suc Virtual,02300002888,2026-01-01T08:22:40
+1335,2025-11-03,4,Mc Pesos,151,Mercolanta,29,Mercado,175,Mercado,-441350,1,Pesos,,,,Mercolanta Monte Mader,11/30/2025,2026-01-01T08:22:40
+1336,2025-11-03,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-201643,1,Pesos,,,,Exito La Ceja,11/30/2025,2026-01-01T08:22:40
+1337,2025-11-03,4,Mc Pesos,68,Éxito,32,Perros,299,Cuido,-188000,1,Pesos,,,,Exito La Ceja,11/30/2025,2026-01-01T08:22:40
+1333,2025-11-02,2,Ahorros,92,Hernan Castrillon,14,Diversiones,93,Fiestas,250000,1,Pesos,,,,Transferencia Cta Suc Virtual,34200005188,2026-01-01T08:22:40
+1334,2025-11-02,5,Mc Dolars,15,Apple,16,Educación,98,Gemini,-75295,1,Pesos,-20,3764.77,,Apple.Com/Bill,11/30/2025,2026-01-01T08:22:40
+1326,2025-10-31,1,Efectivo,133,Luis Fernando Londoño,8,Bosques.Cuadros,48,Ventas,1350000,1,Pesos,,,,,,2026-01-01T08:22:40
+1325,2025-10-31,1,Efectivo,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,480000,1,Pesos,,,,,,2026-01-01T08:22:40
+1310,2025-10-31,1,Efectivo,221,William Vanegas,24,Komorebi,138,Jardín,-400000,1,Pesos,,,,,,2026-01-01T08:22:40
+1309,2025-10-31,2,Ahorros,221,William Vanegas,24,Komorebi,138,Jardín,-300000,1,Pesos,,,,Transferencias A Nequi,,2026-01-01T08:22:40
+1311,2025-10-31,1,Efectivo,218,Vitrales,9,Bosques.Terrarios,69,Vitrales,-280000,1,Pesos,,,,,,2026-01-01T08:22:40
+1312,2025-10-31,1,Efectivo,133,Luis Fernando Londoño,8,Bosques.Cuadros,44,Insumos,-270000,1,Pesos,,,,,,2026-01-01T08:22:40
+1327,2025-10-31,4,Mc Pesos,10,Amazon,28,Menaje,158,Equipos,-267374,1,Pesos,,,,Amazon.Com,11/30/2025,2026-01-01T08:22:40
+1314,2025-10-31,1,Efectivo,133,Luis Fernando Londoño,40,Restaurantes,328,Restaurantes,-250000,1,Pesos,,,,,,2026-01-01T08:22:40
+1315,2025-10-31,1,Efectivo,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-240000,1,Pesos,,,,,,2026-01-01T08:22:40
+1316,2025-10-31,1,Efectivo,227,Yolima Baquero,24,Komorebi,128,Aseo,-210000,1,Pesos,,,,,,2026-01-01T08:22:40
+1329,2025-10-31,4,Mc Pesos,10,Amazon,39,Regalos,326,Regalos,-150505,1,Pesos,,,,Amazon.Com,11/30/2025,2026-01-01T08:22:40
+1317,2025-10-31,1,Efectivo,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-120000,1,Pesos,,,,,,2026-01-01T08:22:40
+1318,2025-10-31,1,Efectivo,88,Halis León Galindo,8,Bosques.Cuadros,45,MO Halis,-120000,1,Pesos,,,,,,2026-01-01T08:22:40
+1319,2025-10-31,1,Efectivo,133,Luis Fernando Londoño,8,Bosques.Cuadros,44,Insumos,-109000,1,Pesos,,,,,,2026-01-01T08:22:40
+1321,2025-10-31,1,Efectivo,133,Luis Fernando Londoño,29,Mercado,175,Mercado,-100000,1,Pesos,,,,,,2026-01-01T08:22:40
+1322,2025-10-31,1,Efectivo,133,Luis Fernando Londoño,29,Mercado,175,Mercado,-70000,1,Pesos,,,,,,2026-01-01T08:22:40
+1323,2025-10-31,1,Efectivo,133,Luis Fernando Londoño,8,Bosques.Cuadros,44,Insumos,-60000,1,Pesos,,,,,,2026-01-01T08:22:40
+1324,2025-10-31,1,Efectivo,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-50000,1,Pesos,,,,,,2026-01-01T08:22:40
+1330,2025-10-31,4,Mc Pesos,10,Amazon,28,Menaje,158,Equipos,-39430,1,Pesos,,,,Amazon.Com,11/30/2025,2026-01-01T08:22:40
+1331,2025-10-31,4,Mc Pesos,35,Comcel,24,Komorebi,131,Celular portada,-10000,1,Pesos,,,,Comcel Recargas  T1 Pa,,2026-01-01T08:22:40
+1332,2025-10-31,4,Mc Pesos,35,Comcel,24,Komorebi,131,Celular portada,-10000,1,Pesos,,,,Comcel Recargas  T1 Pa,11/30/2025,2026-01-01T08:22:40
+1304,2025-10-30,2,Ahorros,118,Juan Fernando Mejía,15,Donaciones,95,Donaciones,-200000,1,Pesos,,,,Transferencia Cta Suc Virtual,10282078854,2026-01-01T08:22:40
+1308,2025-10-30,4,Mc Pesos,10,Amazon,28,Menaje,158,Equipos,-19762,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:40
+1297,2025-10-29,2,Ahorros,181,Protección,31,Pensión,298,Mesada,5478230,1,Pesos,,,,Pago De Nomi Proteccion,900379921,2026-01-01T08:22:40
+1298,2025-10-29,4,Mc Pesos,10,Amazon,28,Menaje,157,Cocina,-329173,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:40
+1299,2025-10-29,4,Mc Pesos,43,Delolita,40,Restaurantes,328,Restaurantes,-123000,1,Pesos,,,,Delolita San Vicente R,,2026-01-01T08:22:40
+1300,2025-10-29,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-44650,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+1301,2025-10-29,4,Mc Pesos,172,Pasteur,43,Salud,342,Drogas,-30324,1,Pesos,,,,Drogueria Pasteur Terp,,2026-01-01T08:22:40
+1296,2025-10-27,5,Mc Dolars,15,Apple,24,Komorebi,129,Celular,-11294,1,Pesos,-3,3764.77,,Apple.Com/Bill,,2026-01-01T08:22:40
+1295,2025-10-26,5,Mc Dolars,10,Amazon,24,Komorebi,134,Equipos,-707777,1,Pesos,-188,3764.77,,Amazon Reta* Nu4Vv02E2,,2026-01-01T08:22:40
+1294,2025-10-25,2,Ahorros,19,Bancolombia,4,Bancolombia,17,Ajustes,548,1,Pesos,,,,Dev Cuota Manejo Tarj Deb,,2026-01-01T08:22:40
+1293,2025-10-24,4,Mc Pesos,210,Tigo,24,Komorebi,130,Celular e Internet,-109900,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:22:40
+1280,2025-10-22,2,Ahorros,103,Jackson Mosquera,33,PH360,304,Desarrollo,-3500000,1,Pesos,,,,Transferencia Cta Suc Virtual,01512988021,2026-01-01T08:22:40
+1282,2025-10-22,2,Ahorros,170,Parcelación Montemadero,24,Komorebi,127,Administración,-1351118,1,Pesos,,,,Transferencia Cta Suc Virtual,37594048360,2026-01-01T08:22:40
+1283,2025-10-22,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-1000000,1,Pesos,,,,Transferencias A Nequi,,2026-01-01T08:22:40
+1288,2025-10-22,4,Mc Pesos,150,Mercado Pago,10,Carro,70,Audi Q5,-360000,1,Pesos,,,,Mercado Pago*Walletmco,,2026-01-01T08:22:40
+1289,2025-10-22,4,Mc Pesos,95,II Forno,40,Restaurantes,328,Restaurantes,-134826,1,Pesos,,,,Il Forno La Ceja,,2026-01-01T08:22:40
+1290,2025-10-22,4,Mc Pesos,10,Amazon,28,Menaje,161,Herramientas,-101127,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:40
+1291,2025-10-22,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-63230,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+1292,2025-10-22,4,Mc Pesos,131,Locatel,43,Salud,342,Drogas,-59750,1,Pesos,,,,Locatel La Ceja,,2026-01-01T08:22:40
+1276,2025-10-21,4,Mc Pesos,10,Amazon,28,Menaje,161,Herramientas,-985612,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:40
+1272,2025-10-21,2,Ahorros,119,Juan José Estrada Velilla,24,Komorebi,140,Menaje,-300000,1,Pesos,,,,Transferencia Cta Suc Virtual,61113637217,2026-01-01T08:22:40
+1277,2025-10-21,4,Mc Pesos,10,Amazon,28,Menaje,161,Herramientas,-105586,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:40
+1278,2025-10-21,4,Mc Pesos,10,Amazon,28,Menaje,161,Herramientas,-66672,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:40
+1279,2025-10-21,4,Mc Pesos,229,YouTube,16,Educación,105,YouTube,-41900,1,Pesos,,,,Dlo*Google Youtubeprem,,2026-01-01T08:22:40
+1274,2025-10-21,5,Mc Dolars,9,AliExpress,9,Bosques.Terrarios,59,Lámparas,-37648,1,Pesos,-10,3764.77,,Aliexpress,,2026-01-01T08:22:40
+1275,2025-10-21,5,Mc Dolars,9,AliExpress,9,Bosques.Terrarios,59,Lámparas,-3765,1,Pesos,-1,3764.77,,Aliexpress,,2026-01-01T08:22:40
+1269,2025-10-19,2,Ahorros,78,Fundación Abrazo un Sueño,15,Donaciones,95,Donaciones,-50000,1,Pesos,,,,Transferencia Cta Suc Virtual,65294622688,2026-01-01T08:22:40
+1266,2025-10-18,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-132740,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+1267,2025-10-18,4,Mc Pesos,137,MacroDrogas,43,Salud,342,Drogas,-58800,1,Pesos,,,,Inversiones Ramej Sas,,2026-01-01T08:22:40
+1268,2025-10-18,4,Mc Pesos,133,Luis Fernando Londoño,37,RC Gastos,312,Celular,-45900,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:22:40
+1265,2025-10-18,2,Ahorros,152,Moga Manjares,40,Restaurantes,328,Restaurantes,-36300,1,Pesos,,,,Pago Qr Moga Manjares,929582558,2026-01-01T08:22:40
+1263,2025-10-17,4,Mc Pesos,17,Autoland,10,Carro,72,ICar 03,-1000000,1,Pesos,,,,Autoland S A S,,2026-01-01T08:22:40
+1264,2025-10-17,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-174100,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:40
+1259,2025-10-17,2,Ahorros,188,Robinson Serna Ortiz,9,Bosques.Terrarios,61,Materiales,-130000,1,Pesos,,,,Transferencia Cta Suc Virtual,58449164201,2026-01-01T08:22:40
+1260,2025-10-17,2,Ahorros,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+1262,2025-10-17,2,Ahorros,179,Por identificar,29,Mercado,175,Mercado,-30000,1,Pesos,,,,Transferencias A Nequi,,2026-01-01T08:22:40
+1261,2025-10-17,2,Ahorros,108,Jhon David,25,Libido,148,Libido,-30000,1,Pesos,,,,Transferencias A Nequi,3146913819,2026-01-01T08:22:40
+1255,2025-10-16,4,Mc Pesos,201,Suramericana,43,Salud,347,Prepagada,-890020,1,Pesos,,,,Suramericana Seguros D,,2026-01-01T08:22:40
+1253,2025-10-16,1,Efectivo,133,Luis Fernando Londoño,9,Bosques.Terrarios,60,Mantenimientos,200000,1,Pesos,,,,,,2026-01-01T08:22:40
+1256,2025-10-16,4,Mc Pesos,79,Fundación Hospital San Vicente,43,Salud,340,Copagos,-130000,1,Pesos,,,,Fund Hosp S/Vicente Pa,,2026-01-01T08:22:40
+1257,2025-10-16,4,Mc Pesos,65,EPM,24,Komorebi,147,Servicios Públicos,-77143,1,Pesos,,,,Epm Servicios Publicos,,2026-01-01T08:22:40
+1258,2025-10-16,4,Mc Pesos,49,Diez y Ocho Lab,40,Restaurantes,328,Restaurantes,-50900,1,Pesos,,,,Bold*Diez Y Ocho Lab,,2026-01-01T08:22:40
+1245,2025-10-15,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencias A Nequi,,2026-01-01T08:22:40
+1246,2025-10-15,2,Ahorros,11,Anderson Montoya,48,Trasporte,400,Trasporte,-70000,1,Pesos,,,,Transferencias A Nequi,3216329974,2026-01-01T08:22:40
+1251,2025-10-15,4,Mc Pesos,36,Corpaul,15,Donaciones,94,Corpaul,-10000,1,Pesos,,,,Corpaul,,2026-01-01T08:22:40
+1240,2025-10-14,4,Mc Pesos,176,Plata Forma Digital,24,Komorebi,134,Equipos,-530000,1,Pesos,,,,Plataforma Digital,,2026-01-01T08:22:40
+1233,2025-10-14,2,Ahorros,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-140000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+1234,2025-10-14,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-100000,1,Pesos,,,,Transferencias A Nequi,,2026-01-01T08:22:40
+1241,2025-10-14,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-60320,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+1238,2025-10-14,5,Mc Dolars,2,Adobe,21,Fotografía,110,Adobe,-19667,1,Pesos,-5,3933.31,,Adobe,,2026-01-01T08:22:40
+1232,2025-10-12,4,Mc Pesos,10,Amazon,24,Komorebi,134,Equipos,-63668,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:40
+1230,2025-10-11,2,Ahorros,19,Bancolombia,4,Bancolombia,17,Ajustes,0,1,Pesos,,,,Ajuste Interes Ahorros Db,,2026-01-01T08:22:40
+1231,2025-10-11,4,Mc Pesos,172,Pasteur,43,Salud,342,Drogas,-27447,1,Pesos,,,,Drogueria Pasteur Terp,,2026-01-01T08:22:40
+1229,2025-10-11,2,Ahorros,19,Bancolombia,4,Bancolombia,21,Cuota de manejo,-16990,1,Pesos,,,,Cuota Manejo Trj Deb 10 25,Manejo Tarjeta Deb 10 25,2026-01-01T08:22:40
+1226,2025-10-10,4,Mc Pesos,198,SIC,33,PH360,305,Marca,-1310570,1,Pesos,,,,Superintendencia De In,,2026-01-01T08:22:40
+1227,2025-10-10,4,Mc Pesos,10,Amazon,24,Komorebi,135,Hidroponía,-382441,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:40
+1223,2025-10-10,2,Ahorros,89,Hector Fabio Pareja Cortes,24,Komorebi,138,Jardín,-339000,1,Pesos,,,,Transferencia Cta Suc Virtual,02435975804,2026-01-01T08:22:40
+1224,2025-10-10,2,Ahorros,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-200000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+1225,2025-10-10,2,Ahorros,143,Maria Paula Zuluaga,29,Mercado,175,Mercado,-60000,1,Pesos,,,,Transferencias A Nequi,3192826084,2026-01-01T08:22:40
+1228,2025-10-10,4,Mc Pesos,43,Delolita,40,Restaurantes,328,Restaurantes,-36100,1,Pesos,,,,Delolita San Vicente R,,2026-01-01T08:22:40
+1219,2025-10-09,4,Mc Pesos,175,Plantas del Tambo,24,Komorebi,138,Jardín,-577710,1,Pesos,,,,Plantas Del Tambo,,2026-01-01T08:22:40
+1211,2025-10-09,2,Ahorros,192,Santiago Henao Agudelo,24,Komorebi,138,Jardín,-469000,1,Pesos,,,,Transferencia Cta Suc Virtual,93598766124,2026-01-01T08:22:40
+1212,2025-10-09,2,Ahorros,221,William Vanegas,24,Komorebi,138,Jardín,-300000,1,Pesos,,,,Retiro Cajero  Cajero Cent Int,CAJERO CENT INT,2026-01-01T08:22:40
+1214,2025-10-09,2,Ahorros,197,Seviteca Monte Madero La Ceja,10,Carro,77,Mantenimiento,-100000,1,Pesos,,,,Transferencia Cta Suc Virtual,02300007810,2026-01-01T08:22:40
+1213,2025-10-09,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,68,Vidrios,-100000,1,Pesos,,,,Retiro Cajero  Cajero Cent Int,CAJERO CENT INT,2026-01-01T08:22:40
+1221,2025-10-09,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-76785,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:22:40
+1222,2025-10-09,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-10900,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+1209,2025-10-08,2,Ahorros,110,Jorge Alberto Mesa Palacio,21,Fotografía,114,Foto Paseos,-210000,1,Pesos,,,,Transferencia Cta Suc Virtual,27538343116,2026-01-01T08:22:40
+1207,2025-10-07,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-275100,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:40
+1208,2025-10-07,4,Mc Pesos,75,FlyPass,10,Carro,80,Peajes,-100000,1,Pesos,,,,Flypass,,2026-01-01T08:22:40
+1203,2025-10-07,2,Ahorros,12,Andrea Latorre,29,Mercado,173,Empanadas,-70000,1,Pesos,,,,Transferencias A Nequi,3148102772,2026-01-01T08:22:40
+1198,2025-10-06,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-100000,1,Pesos,,,,Transferencias A Nequi,3233936834,2026-01-01T08:22:40
+1201,2025-10-06,4,Mc Pesos,199,SNR,24,Komorebi,133,Documentos,-21900,1,Pesos,,,,Superintendencia De No,,2026-01-01T08:22:40
+1193,2025-10-05,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-62340,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+1192,2025-10-04,4,Mc Pesos,49,Diez y Ocho Lab,40,Restaurantes,328,Restaurantes,-169024,1,Pesos,,,,Bold*Diez Y Ocho Lab,,2026-01-01T08:22:40
+1191,2025-10-04,2,Ahorros,160,Natalia Villa Martin,29,Mercado,175,Mercado,-29200,1,Pesos,,,,Transf Qr Natalia Villa Marti,Natalia Villa Panadería,2026-01-01T08:22:40
+1178,2025-10-03,2,Ahorros,221,William Vanegas,24,Komorebi,138,Jardín,-300000,1,Pesos,,,,Retiro Cajero  Cajero Cent Int,CAJERO CENT INT,2026-01-01T08:22:40
+1179,2025-10-03,2,Ahorros,218,Vitrales,9,Bosques.Terrarios,69,Vitrales,-280000,1,Pesos,,,,Transferencia A Nequi,3116094642,2026-01-01T08:22:40
+1187,2025-10-03,4,Mc Pesos,137,MacroDrogas,43,Salud,342,Drogas,-176900,1,Pesos,,,,Inversiones Ramej Sas,,2026-01-01T08:22:40
+1188,2025-10-03,4,Mc Pesos,10,Amazon,24,Komorebi,134,Equipos,-168077,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:40
+1180,2025-10-03,2,Ahorros,177,Plaza de Mercado,29,Mercado,175,Mercado,-100000,1,Pesos,,,,Retiro Cajero  Cajero Cent Int,CAJERO CENT INT,2026-01-01T08:22:40
+1181,2025-10-03,2,Ahorros,123,Julio Cesar Vallejo Tobon,24,Komorebi,138,Jardín,-97500,1,Pesos,,,,Pago Qr Almacen Agropecuario,929379583   Venta QR - Mostrad,2026-01-01T08:22:40
+1189,2025-10-03,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-87360,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+1182,2025-10-03,2,Ahorros,152,Moga Manjares,40,Restaurantes,328,Restaurantes,-65120,1,Pesos,,,,Pago Qr Moga Manjares,929582558,2026-01-01T08:22:40
+1190,2025-10-03,4,Mc Pesos,28,Capiro Vivero,24,Komorebi,138,Jardín,-45200,1,Pesos,,,,Capiro Vivero,,2026-01-01T08:22:40
+1183,2025-10-03,2,Ahorros,123,Julio Cesar Vallejo Tobon,24,Komorebi,138,Jardín,-36000,1,Pesos,,,,Pago Qr Almacen Agropecuario,929379583   Venta QR - Mostrad,2026-01-01T08:22:40
+1185,2025-10-03,2,Ahorros,122,Juan Quintero,29,Mercado,175,Mercado,-5200,1,Pesos,,,,Pago Qr Juan Quintero,965698128,2026-01-01T08:22:40
+1184,2025-10-03,2,Ahorros,23,Buñuelos de Oriente,40,Restaurantes,328,Restaurantes,-5200,1,Pesos,,,,Pago Qr Bunuelos Oriente,980412257,2026-01-01T08:22:40
+1186,2025-10-03,2,Ahorros,200,Sumicampo,24,Komorebi,145,Riego,-2500,1,Pesos,,,,Pago Qr Sumicampo,981002370,2026-01-01T08:22:40
+1175,2025-10-02,2,Ahorros,92,Hernan Castrillon,14,Diversiones,93,Fiestas,-250000,1,Pesos,,,,Transferencia Cta Suc Virtual,34200005188,2026-01-01T08:22:40
+1176,2025-10-02,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,51,Atomizadores,90000,1,Pesos,,,,Transferencia Desde Nequi,LUIS LONDONO 6834,2026-01-01T08:22:40
+1177,2025-10-02,5,Mc Dolars,15,Apple,16,Educación,98,Gemini,-78666.2,1,Pesos,-20,3933.31,,Apple.Com/Bill,,2026-01-01T08:22:40
+1168,2025-10-01,4,Mc Pesos,50,Dislicores,29,Mercado,175,Mercado,-984187,1,Pesos,,,,Dislicores,,2026-01-01T08:22:40
+1169,2025-10-01,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-493360,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:40
+1170,2025-10-01,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-157900,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:40
+1167,2025-10-01,2,Ahorros,27,Camilo Gonzalez Echeverri,37,RC Gastos,316,Gym,-130000,1,Pesos,,,,Transferencia Cta Suc Virtual,41245627261,2026-01-01T08:22:40
+1171,2025-10-01,4,Mc Pesos,151,Mercolanta,29,Mercado,175,Mercado,-54700,1,Pesos,,,,Mercolanta Monte Mader,,2026-01-01T08:22:40
+1172,2025-10-01,4,Mc Pesos,172,Pasteur,32,Perros,300,Drogas,-30324,1,Pesos,,,,Drogueria Pasteur Terp,,2026-01-01T08:22:40
+1173,2025-10-01,4,Mc Pesos,213,Tostado,40,Restaurantes,328,Restaurantes,-17100,1,Pesos,,,,Tostao Cafe Y Pan Cc P,,2026-01-01T08:22:40
+1163,2025-09-30,2,Ahorros,45,Dian,22,Impuestos,117,4xMil,-19593,1,Pesos,,,,Impto Gobierno 4X1000,,2026-01-01T08:22:40
+1164,2025-09-30,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,102,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T08:22:40
+1161,2025-09-29,2,Ahorros,209,Tidavi SAS,24,Komorebi,138,Jardín,-1200000,1,Pesos,,,,Transferencia Cta Suc Virtual,02300029020,2026-01-01T08:22:40
+1158,2025-09-28,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencias A Nequi,3046365107,2026-01-01T08:22:40
+1159,2025-09-28,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-50000,1,Pesos,,,,Transferencias A Nequi,3233936834,2026-01-01T08:22:40
+1160,2025-09-28,2,Ahorros,133,Luis Fernando Londoño,39,Regalos,326,Regalos,-20000,1,Pesos,,,,Transferencias A Nequi,3233936834,2026-01-01T08:22:40
+1156,2025-09-27,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,290000,1,Pesos,,,,Transferencia Desde Nequi,LUIS LONDONO 6834,2026-01-01T08:22:40
+1157,2025-09-27,5,Mc Dolars,15,Apple,24,Komorebi,129,Celular,-11800,1,Pesos,-3,3933.31,,Apple.Com/Bill,,2026-01-01T08:22:40
+1154,2025-09-26,2,Ahorros,181,Protección,31,Pensión,298,Mesada,5478230,1,Pesos,,,,Pago De Nomi Proteccion,900379921,2026-01-01T08:22:40
+1151,2025-09-26,2,Ahorros,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-200000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+1152,2025-09-26,2,Ahorros,114,Juan Carlos Gómez,15,Donaciones,95,Donaciones,-150000,1,Pesos,,,,Transferencia A Nequi,3182800674,2026-01-01T08:22:40
+1153,2025-09-26,2,Ahorros,23,Buñuelos de Oriente,40,Restaurantes,328,Restaurantes,-27100,1,Pesos,,,,Pago Qr Bunuelos Oriente,980412257,2026-01-01T08:22:40
+1148,2025-09-25,2,Ahorros,91,Henry León Uribe Ossa,7,Bosques.Bonsái,39,Materas,-50000,1,Pesos,,,,Transferencia Cta Suc Virtual,10062621209,2026-01-01T08:22:40
+1149,2025-09-25,4,Mc Pesos,99,Inza Hermanos,9,Bosques.Terrarios,61,Materiales,-36000,1,Pesos,,,,Inza Hermanos,,2026-01-01T08:22:40
+1144,2025-09-24,4,Mc Pesos,210,Tigo,24,Komorebi,130,Celular e Internet,-109900,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:22:40
+1141,2025-09-24,2,Ahorros,200,Sumicampo,24,Komorebi,145,Riego,-66450,1,Pesos,,,,Transferencia Cta Suc Virtual,55600000560,2026-01-01T08:22:40
+1145,2025-09-24,4,Mc Pesos,36,Corpaul,15,Donaciones,95,Donaciones,-50500,1,Pesos,,,,Fund Hosp S/Vicente Pa,,2026-01-01T08:22:40
+1142,2025-09-24,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,63,Orquídeas,-50000,1,Pesos,,,,Transferencias A Nequi,3175505250,2026-01-01T08:22:40
+1143,2025-09-24,2,Ahorros,71,Felco Constructor SAS,24,Komorebi,145,Riego,-30000,1,Pesos,,,,Transferencia Cta Suc Virtual,02300001855,2026-01-01T08:22:40
+1146,2025-09-24,4,Mc Pesos,28,Capiro Vivero,24,Komorebi,138,Jardín,-25000,1,Pesos,,,,Capiro Vivero,,2026-01-01T08:22:40
+1147,2025-09-24,4,Mc Pesos,151,Mercolanta,29,Mercado,175,Mercado,-11800,1,Pesos,,,,Mercolanta Monte Mader,,2026-01-01T08:22:40
+1139,2025-09-23,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-146300,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:40
+1140,2025-09-23,4,Mc Pesos,148,Materiales Playa Blanca,7,Bosques.Bonsái,41,Sustratos,-64000,1,Pesos,,,,Materiales Playa Blanc,,2026-01-01T08:22:40
+1137,2025-09-22,1,Efectivo,59,Eduardo Ronaldo Rodriguez,9,Bosques.Terrarios,67,Ventas,330000,1,Pesos,,,,,3016005970,2026-01-01T08:22:40
+1138,2025-09-22,4,Mc Pesos,137,MacroDrogas,43,Salud,342,Drogas,-38800,1,Pesos,,,,Inversiones Ramej Sas,,2026-01-01T08:22:40
+1135,2025-09-21,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencia A Nequi,3046365107,2026-01-01T08:22:40
+1136,2025-09-21,4,Mc Pesos,229,YouTube,16,Educación,105,YouTube,-41900,1,Pesos,,,,DLO*GOOGLE YouTubePrem,,2026-01-01T08:22:40
+1128,2025-09-19,2,Ahorros,178,PolyMaster Sas,9,Bosques.Terrarios,58,Impresión 3D,-800000,1,Pesos,,,,Transferencia Cta Suc Virtual,02100002768,2026-01-01T08:22:40
+1129,2025-09-19,2,Ahorros,192,Santiago Henao Agudelo,24,Komorebi,138,Jardín,-500000,1,Pesos,,,,Transferencia Cta Suc Virtual,93598766124,2026-01-01T08:22:40
+1134,2025-09-19,4,Mc Pesos,49,Diez y Ocho Lab,40,Restaurantes,328,Restaurantes,-207811,1,Pesos,,,,BOLD*diez y ocho lab,,2026-01-01T08:22:40
+1130,2025-09-19,2,Ahorros,221,William Vanegas,24,Komorebi,138,Jardín,-200000,1,Pesos,,,,Retiro Cajero  Cajero Mall Pla,Cajero Mall Pla,2026-01-01T08:22:40
+1132,2025-09-19,2,Ahorros,24,Cacharreria Los Marinillos Sas,9,Bosques.Terrarios,56,Frascos,-130000,1,Pesos,,,,Transferencia Cta Suc Virtual,01016192506,2026-01-01T08:22:40
+1133,2025-09-19,5,Mc Dolars,33,Chaturbate,25,Libido,148,Libido,-82599,1,Pesos,-21,3933.31,,Mmbill.Com,,2026-01-01T08:22:40
+1124,2025-09-18,2,Ahorros,194,Sebastian Flores Quintero,24,Komorebi,139,Mantenimiento,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,02331121935,2026-01-01T08:22:40
+1126,2025-09-18,4,Mc Pesos,183,Real Motors El Retiro,24,Komorebi,139,Mantenimiento,-76200,1,Pesos,,,,Real Motors El Retiro,,2026-01-01T08:22:40
+1127,2025-09-18,4,Mc Pesos,133,Luis Fernando Londoño,37,RC Gastos,312,Celular,-45900,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:22:40
+1114,2025-09-17,2,Ahorros,221,William Vanegas,24,Komorebi,138,Jardín,-200000,1,Pesos,,,,Retiro Cajero  Cajero Mall Pla,Cajero Mall Pla,2026-01-01T08:22:40
+1115,2025-09-17,2,Ahorros,133,Luis Fernando Londoño,29,Mercado,175,Mercado,-100000,1,Pesos,,,,Retiro Cajero  Cajero Cent Int,Cajero Cent Int,2026-01-01T08:22:40
+1121,2025-09-17,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-79640,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:22:40
+1116,2025-09-17,2,Ahorros,80,Gabriel Alberto Henao Arroyave,7,Bosques.Bonsái,32,Árboles,-73000,1,Pesos,,,,Transferencia Cta Suc Virtual,10095152023,2026-01-01T08:22:40
+1122,2025-09-17,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-66790,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+1123,2025-09-17,4,Mc Pesos,51,DollarCity,29,Mercado,175,Mercado,-54000,1,Pesos,,,,Dollarcity Viva La Cej,,2026-01-01T08:22:40
+1118,2025-09-17,2,Ahorros,100,Isaac Simeon Andrade Gamez,29,Mercado,175,Mercado,-50000,1,Pesos,,,,Transferencia Cta Suc Virtual,00785064071,2026-01-01T08:22:40
+1119,2025-09-17,2,Ahorros,72,Felipe Estrada Carrasquilla,29,Mercado,175,Mercado,-48000,1,Pesos,,,,Transferencia Cta Suc Virtual,20225842243,2026-01-01T08:22:40
+1106,2025-09-16,4,Mc Pesos,201,Suramericana,43,Salud,347,Prepagada,-890020,1,Pesos,,,,Suramericana Seguros D,,2026-01-01T08:22:40
+1099,2025-09-16,2,Ahorros,224,Wilson Villa Parra,33,PH360,305,Marca,-500000,1,Pesos,,,,Transferencia A Nequi,3007585932,2026-01-01T08:22:40
+1107,2025-09-16,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-371600,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:40
+1108,2025-09-16,4,Mc Pesos,75,FlyPass,10,Carro,80,Peajes,-100000,1,Pesos,,,,Flypass,,2026-01-01T08:22:40
+1101,2025-09-16,2,Ahorros,42,Deacua Sas,9,Bosques.Terrarios,61,Materiales,-90000,1,Pesos,,,,Pago Qr Deacua Sas,943458777,2026-01-01T08:22:40
+1109,2025-09-16,4,Mc Pesos,56,EDS El Encierro,24,Komorebi,138,Jardín,-60392,1,Pesos,,,,Eds El Encierro Ceja F,,2026-01-01T08:22:40
+1102,2025-09-16,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-50000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:40
+1110,2025-09-16,4,Mc Pesos,30,Casa Ferretera,24,Komorebi,139,Mantenimiento,-46200,1,Pesos,,,,Casa Ferretera La Ceja,,2026-01-01T08:22:40
+1111,2025-09-16,4,Mc Pesos,99,Inza Hermanos,9,Bosques.Terrarios,61,Materiales,-40500,1,Pesos,,,,Inza Hermanos,,2026-01-01T08:22:40
+1112,2025-09-16,4,Mc Pesos,137,MacroDrogas,43,Salud,342,Drogas,-15800,1,Pesos,,,,Inversiones Ramej Sas,,2026-01-01T08:22:40
+1096,2025-09-15,4,Mc Pesos,36,Corpaul,15,Donaciones,94,Corpaul,-10000,1,Pesos,,,,Corpaul,,2026-01-01T08:22:40
+1092,2025-09-13,2,Ahorros,19,Bancolombia,4,Bancolombia,17,Ajustes,0,1,Pesos,,,,Ajuste Interes Ahorros Db,,2026-01-01T08:22:40
+1093,2025-09-13,5,Mc Dolars,2,Adobe,21,Fotografía,110,Adobe,-19488,1,Pesos,-5,3897.56,,Adobe.Com,,2026-01-01T08:22:40
+1091,2025-09-13,2,Ahorros,19,Bancolombia,4,Bancolombia,21,Cuota de manejo,-16990,1,Pesos,,,,Cuota Manejo Trj Deb 09 25,Manejo Tarjeta Deb 09 25,2026-01-01T08:22:40
+1085,2025-09-12,2,Ahorros,162,Nerida Martinez,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencia Cta Suc Virtual,2373970983,2026-01-01T08:22:40
+1089,2025-09-12,4,Mc Pesos,65,EPM,24,Komorebi,147,Servicios Públicos,-55642,1,Pesos,,,,Epm Servicios Publicos,,2026-01-01T08:22:40
+1086,2025-09-12,2,Ahorros,124,Kevin Cano,48,Trasporte,400,Trasporte,-30000,1,Pesos,,,,Transferencia A Nequi,3016717018,2026-01-01T08:22:40
+1087,2025-09-12,2,Ahorros,210,Tigo,2,Apartamento,5,Internet,-22755,1,Pesos,,,,Transf A Une Epm Telecomunica,956405074563,2026-01-01T08:22:40
+1080,2025-09-11,2,Ahorros,58,Eduardo Rojas Medina,40,Restaurantes,328,Restaurantes,-50000,1,Pesos,,,,Transferencia Cta Suc Virtual,02331348433,2026-01-01T08:22:40
+1081,2025-09-11,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-27400,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+1078,2025-09-10,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-185200,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:40
+1079,2025-09-10,4,Mc Pesos,38,Crepes y Waffles,29,Mercado,175,Mercado,-85800,1,Pesos,,,,Crepes Y Waffles Llano,,2026-01-01T08:22:40
+1073,2025-09-09,2,Ahorros,221,William Vanegas,24,Komorebi,139,Mantenimiento,-200000,1,Pesos,,,,Retiro Cajero  Cajero Mall Pla,Cajero Mall Pla,2026-01-01T08:22:40
+1077,2025-09-09,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-15430,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+1068,2025-09-08,2,Ahorros,221,William Vanegas,24,Komorebi,139,Mantenimiento,-300000,1,Pesos,,,,Retiro Cajero  Cajero Mall Pla,Cajero Mall Pla,2026-01-01T08:22:40
+1069,2025-09-08,2,Ahorros,133,Luis Fernando Londoño,7,Bosques.Bonsái,43,Ventas,280000,1,Pesos,,,,Transferencia Desde Nequi,Luis Londono 6834,2026-01-01T08:22:40
+1071,2025-09-08,4,Mc Pesos,203,Sushi Nami,40,Restaurantes,328,Restaurantes,-47379,1,Pesos,,,,Sushi Nami,,2026-01-01T08:22:40
+1072,2025-09-08,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-27400,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+1061,2025-09-05,4,Mc Pesos,70,Falabella,9,Bosques.Terrarios,56,Frascos,-584610,1,Pesos,,,,Falabella,,2026-01-01T08:22:40
+1062,2025-09-05,4,Mc Pesos,96,Ikea,9,Bosques.Terrarios,56,Frascos,-231910,1,Pesos,,,,Ikea Envigado,,2026-01-01T08:22:40
+1063,2025-09-05,4,Mc Pesos,75,FlyPass,10,Carro,80,Peajes,-100000,1,Pesos,,,,Flypass,,2026-01-01T08:22:40
+1064,2025-09-05,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-94300,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:40
+1067,2025-09-05,4,Mc Pesos,213,Tostado,40,Restaurantes,328,Restaurantes,-15500,1,Pesos,,,,Tostao Cafe Y Pan Cc P,,2026-01-01T08:22:40
+1060,2025-09-04,1,Efectivo,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,550000,1,Pesos,,,,,,2026-01-01T08:22:40
+1058,2025-09-04,1,Efectivo,133,Luis Fernando Londoño,7,Bosques.Bonsái,33,Entrenamientos,-480000,1,Pesos,,,,,,2026-01-01T08:22:40
+1059,2025-09-04,1,Efectivo,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-310000,1,Pesos,,,,,,2026-01-01T08:22:40
+1057,2025-09-04,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,200000,1,Pesos,,,,Transferencia Desde Nequi,Luis Londono 6834,2026-01-01T08:22:40
+1054,2025-09-03,2,Ahorros,41,David Esteban Ospina Rios,24,Komorebi,139,Mantenimiento,-1305000,1,Pesos,,,,Transferencia Cta Suc Virtual,02391261752,2026-01-01T08:22:40
+1055,2025-09-03,2,Ahorros,224,Wilson Villa Parra,33,PH360,305,Marca,-500000,1,Pesos,,,,Transferencia A Nequi,3007585932,2026-01-01T08:22:40
+1056,2025-09-03,4,Mc Pesos,28,Capiro Vivero,24,Komorebi,138,Jardín,-20000,1,Pesos,,,,Capiro Vivero,,2026-01-01T08:22:40
+1049,2025-09-02,2,Ahorros,162,Nerida Martinez,24,Komorebi,128,Aseo,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,02373970983,2026-01-01T08:22:40
+1053,2025-09-02,5,Mc Dolars,15,Apple,16,Educación,98,Gemini,-78666.2,1,Pesos,-20,3933.31,,Apple.Com/Bill,,2026-01-01T08:22:40
+1045,2025-08-31,2,Ahorros,45,Dian,22,Impuestos,117,4xMil,-52714,1,Pesos,,,,Impto Gobierno 4X1000,,2026-01-01T08:22:40
+1043,2025-08-31,4,Mc Pesos,19,Bancolombia,4,Bancolombia,23,Intereses,-3533,1,Pesos,,,,Intereses Corrientes,,2026-01-01T08:22:40
+1046,2025-08-31,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,158,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T08:22:40
+1038,2025-08-30,2,Ahorros,58,Eduardo Rojas Medina,40,Restaurantes,328,Restaurantes,-270000,1,Pesos,,,,Transf Qr Eduardo Roja Medin,Casa 22,2026-01-01T08:22:40
+1041,2025-08-30,2,Ahorros,102,Iván Sankovich,40,Restaurantes,328,Restaurantes,90000,1,Pesos,,,,Transferencia Cta Suc Virtual,10820877208,2026-01-01T08:22:40
+1039,2025-08-30,2,Ahorros,100,Isaac Simeon Andrade Gamez,29,Mercado,175,Mercado,-65000,1,Pesos,,,,Transferencia Cta Suc Virtual,00785064071,2026-01-01T08:22:40
+1032,2025-08-29,4,Mc Pesos,175,Plantas del Tambo,9,Bosques.Terrarios,64,Plantas,-237600,1,Pesos,,,,Plantas Del Tambo,,2026-01-01T08:22:40
+1033,2025-08-29,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-187700,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+1036,2025-08-29,2,Ahorros,144,Maritza Milena Posada,24,Komorebi,138,Jardín,-165000,1,Pesos,,,,Pago Qr Maritza Milena Posada,950067842,2026-01-01T08:22:40
+1031,2025-08-29,1,Efectivo,221,William Vanegas,24,Komorebi,138,Jardín,-100000,1,Pesos,,,,,,2026-01-01T08:22:40
+1034,2025-08-29,4,Mc Pesos,175,Plantas del Tambo,24,Komorebi,138,Jardín,-94600,1,Pesos,,,,Plantas Del Tambo,,2026-01-01T08:22:40
+1037,2025-08-29,2,Ahorros,122,Juan Quintero,29,Mercado,175,Mercado,-26650,1,Pesos,,,,Transferencia Cta Suc Virtual,41258577351,2026-01-01T08:22:40
+1026,2025-08-28,4,Mc Pesos,172,Pasteur,32,Perros,300,Drogas,-30324,1,Pesos,,,,Drogueria Pasteur Terp,,2026-01-01T08:22:40
+1030,2025-08-28,2,Ahorros,23,Buñuelos de Oriente,40,Restaurantes,328,Restaurantes,-25000,1,Pesos,,,,Pago Qr Bunuelos Oriente,980412257,2026-01-01T08:22:40
+1022,2025-08-27,2,Ahorros,181,Protección,31,Pensión,298,Mesada,5478230,1,Pesos,,,,Pago De Nomi Proteccion,900379921,2026-01-01T08:22:40
+1013,2025-08-27,1,Efectivo,28,Capiro Vivero,9,Bosques.Terrarios,67,Ventas,3584000,1,Pesos,,,,Pago cuentas de cobro 005 y 006,,2026-01-01T08:22:40
+1015,2025-08-27,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-628757,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:40
+1016,2025-08-27,4,Mc Pesos,180,PriceSmart,32,Perros,299,Cuido,-157900,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:40
+1017,2025-08-27,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-124780,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+1009,2025-08-27,1,Efectivo,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-120000,1,Pesos,,,,,,2026-01-01T08:22:40
+1019,2025-08-27,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-120000,1,Pesos,,,,Transferencia A Nequi,3046365107,2026-01-01T08:22:40
+1010,2025-08-27,1,Efectivo,53,Drogas calidad,43,Salud,342,Drogas,-100000,1,Pesos,,,,Drogas Calidad,,2026-01-01T08:22:40
+1018,2025-08-27,4,Mc Pesos,94,Hospital San Vicente,43,Salud,343,Examenes,-63100,1,Pesos,,,,Fund Hosp S/Vicente Pa,,2026-01-01T08:22:40
+1011,2025-08-27,1,Efectivo,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-20000,1,Pesos,,,,,,2026-01-01T08:22:40
+1012,2025-08-27,1,Efectivo,133,Luis Fernando Londoño,37,RC Gastos,317,Moto,-14000,1,Pesos,,,,Gastos moto,,2026-01-01T08:22:40
+1014,2025-08-27,5,Mc Dolars,15,Apple,24,Komorebi,129,Celular,-12550,1,Pesos,-3.22,3897.56,,Apple.Com/Bill,,2026-01-01T08:22:40
+1023,2025-08-27,1,Efectivo,94,Hospital San Vicente,10,Carro,79,Parqueadero,-10000,1,Pesos,,,,,,2026-01-01T08:22:40
+1021,2025-08-27,2,Ahorros,184,Restaurantes,40,Restaurantes,328,Restaurantes,-9500,1,Pesos,,,,Pago Qr Salpifresh,943102318,2026-01-01T08:22:40
+1004,2025-08-26,2,Ahorros,204,Tecniflush sas,10,Carro,77,Mantenimiento,-320000,1,Pesos,,,,Transferencia Cta Suc Virtual,02300002888,2026-01-01T08:22:40
+1007,2025-08-26,2,Ahorros,221,William Vanegas,24,Komorebi,138,Jardín,-300000,1,Pesos,,,,Transferencia A Nequi,,2026-01-01T08:22:40
+1008,2025-08-26,2,Ahorros,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-140000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+1001,2025-08-25,2,Ahorros,170,Parcelación Montemadero,24,Komorebi,127,Administración,-1351118,1,Pesos,,,,Transferencia Cta Suc Virtual,37594048360,2026-01-01T08:22:40
+996,2025-08-24,4,Mc Pesos,210,Tigo,24,Komorebi,130,Celular e Internet,-109900,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:22:40
+997,2025-08-24,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-85210,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+999,2025-08-24,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-50000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:40
+998,2025-08-24,4,Mc Pesos,40,D1,32,Perros,299,Cuido,-33100,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+994,2025-08-23,2,Ahorros,88,Halis León Galindo,24,Komorebi,132,Cuarto Técnico,-100000,1,Pesos,,,,Transferencia Cta Suc Virtual,31600003944,2026-01-01T08:22:40
+995,2025-08-23,2,Ahorros,90,Hector Fernando Ortiz,29,Mercado,175,Mercado,-26000,1,Pesos,,,,Transferencia A Nequi,3002029229,2026-01-01T08:22:40
+990,2025-08-22,2,Ahorros,115,Juan David Moreno Vargas,24,Komorebi,132,Cuarto Técnico,-348000,1,Pesos,,,,Transferencia Cta Suc Virtual,02300049187,2026-01-01T08:22:40
+991,2025-08-22,2,Ahorros,88,Halis León Galindo,24,Komorebi,132,Cuarto Técnico,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+989,2025-08-22,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-89510,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+992,2025-08-22,2,Ahorros,88,Halis León Galindo,24,Komorebi,132,Cuarto Técnico,-40000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+993,2025-08-22,2,Ahorros,23,Buñuelos de Oriente,40,Restaurantes,328,Restaurantes,-26600,1,Pesos,,,,Pago Qr Bunuelos Oriente,980412257,2026-01-01T08:22:40
+981,2025-08-21,2,Ahorros,103,Jackson Mosquera,33,PH360,304,Desarrollo,-7000000,1,Pesos,,,,Transferencia Cta Suc Virtual,69300030432,2026-01-01T08:22:40
+983,2025-08-21,2,Ahorros,39,Cristian Andres Patiño Chica,24,Komorebi,139,Mantenimiento,-170000,1,Pesos,,,,Transferencia Cta Suc Virtual,91201534793,2026-01-01T08:22:40
+984,2025-08-21,2,Ahorros,88,Halis León Galindo,24,Komorebi,132,Cuarto Técnico,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+985,2025-08-21,2,Ahorros,72,Felipe Estrada Carrasquilla,29,Mercado,175,Mercado,-53000,1,Pesos,,,,Transferencia Cta Suc Virtual,20225842243,2026-01-01T08:22:40
+980,2025-08-21,4,Mc Pesos,229,YouTube,16,Educación,105,YouTube,-41900,1,Pesos,,,,Dlo*Google Youtubeprem,,2026-01-01T08:22:40
+986,2025-08-21,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-30000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:40
+974,2025-08-20,2,Ahorros,221,William Vanegas,24,Komorebi,138,Jardín,-300000,1,Pesos,,,,Retiro Cajero  Viva La Ceja,Viva La Ceja,2026-01-01T08:22:40
+975,2025-08-20,2,Ahorros,13,Angela María Duque Ossa,24,Komorebi,138,Jardín,-250000,1,Pesos,,,,Transferencia Cta Suc Virtual,50537795287,2026-01-01T08:22:40
+976,2025-08-20,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,316,Gym,-100000,1,Pesos,,,,Retiro Cajero  Viva La Ceja,Viva La Ceja,2026-01-01T08:22:40
+977,2025-08-20,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,59,Lámparas,-30000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:40
+973,2025-08-20,4,Mc Pesos,51,DollarCity,29,Mercado,175,Mercado,-26000,1,Pesos,,,,Dollarcity Viva La Cej,,2026-01-01T08:22:40
+963,2025-08-19,2,Ahorros,163,Nestor Wilson Alvarez Holgin,9,Bosques.Terrarios,59,Lámparas,-280000,1,Pesos,,,,Transferencia Cta Suc Virtual,60908106051,2026-01-01T08:22:40
+964,2025-08-19,2,Ahorros,189,Sandra Milena Cano Quinchia,9,Bosques.Terrarios,59,Lámparas,-233500,1,Pesos,,,,Transferencia Cta Suc Virtual,01036272224,2026-01-01T08:22:40
+967,2025-08-19,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,190000,1,Pesos,,,,Transferencia Desde Nequi,Luis Londono 6834,2026-01-01T08:22:40
+965,2025-08-19,2,Ahorros,189,Sandra Milena Cano Quinchia,24,Komorebi,139,Mantenimiento,-161000,1,Pesos,,,,Transferencia Cta Suc Virtual,01036272224,2026-01-01T08:22:40
+957,2025-08-19,4,Mc Pesos,151,Mercolanta,40,Restaurantes,328,Restaurantes,-48300,1,Pesos,,,,Mercolanta Monte Mader,,2026-01-01T08:22:40
+972,2025-08-19,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,-1740,1,Pesos,,,,Retención en la fuente,,2026-01-01T08:22:40
+958,2025-08-19,4,Mc Pesos,172,Pasteur,43,Salud,342,Drogas,-1572,1,Pesos,,,,Drogueria Pasteur Terp,,2026-01-01T08:22:40
+953,2025-08-18,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-100000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:40
+954,2025-08-18,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,61,Materiales,-50000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:40
+955,2025-08-18,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-30000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:40
+951,2025-08-17,4,Mc Pesos,10,Amazon,28,Menaje,161,Herramientas,-297973,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:40
+952,2025-08-17,4,Mc Pesos,133,Luis Fernando Londoño,37,RC Gastos,312,Celular,-45900,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:22:40
+950,2025-08-16,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,190000,1,Pesos,,,,Transferencia Desde Nequi,Luis Londono 6834,2026-01-01T08:22:40
+948,2025-08-16,2,Ahorros,88,Halis León Galindo,24,Komorebi,128,Aseo,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+949,2025-08-16,2,Ahorros,191,Santiago Gonzalez,9,Bosques.Terrarios,60,Mantenimientos,80000,1,Pesos,,,,Transferencia Cta Suc Virtual,34246975355,2026-01-01T08:22:40
+943,2025-08-15,2,Ahorros,65,EPM,24,Komorebi,147,Servicios Públicos,-973702,1,Pesos,,,,Pago App Epm Servicios Public,108971885996,2026-01-01T08:22:40
+947,2025-08-15,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,410000,1,Pesos,,,,Transferencia Cta Suc Virtual,43200000743,2026-01-01T08:22:40
+945,2025-08-15,2,Ahorros,220,Capiro Vivero,9,Bosques.Terrarios,67,Ventas,-370000,1,Pesos,,,,Pago Qr Capiro Vivero Sas,929669835,2026-01-01T08:22:40
+946,2025-08-15,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,-40000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:40
+942,2025-08-15,4,Mc Pesos,36,Corpaul,15,Donaciones,94,Corpaul,-10000,1,Pesos,,,,Corpaul,,2026-01-01T08:22:40
+940,2025-08-14,2,Ahorros,88,Halis León Galindo,9,Bosques.Terrarios,50,Ayudantes,-240000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+941,2025-08-14,2,Ahorros,19,Bancolombia,4,Bancolombia,21,Cuota de manejo,-16990,1,Pesos,,,,Cuota Manejo Trj Deb 08 25,Manejo Tarjeta Deb 08 25,2026-01-01T08:22:40
+931,2025-08-13,1,Efectivo,88,Halis León Galindo,9,Bosques.Terrarios,50,Ayudantes,-200000,1,Pesos,,,,,,2026-01-01T08:22:40
+932,2025-08-13,1,Efectivo,133,Luis Fernando Londoño,9,Bosques.Terrarios,54,Eventos,-200000,1,Pesos,,,,,,2026-01-01T08:22:40
+930,2025-08-13,2,Ahorros,139,Margarita Lalinde,39,Regalos,327,Tita,90000,1,Pesos,,,,Transferencia Cta Suc Virtual,20455805909,2026-01-01T08:22:40
+933,2025-08-13,1,Efectivo,8,Alfredo Rojas,9,Bosques.Terrarios,66,Trasporte,-90000,1,Pesos,,,,,,2026-01-01T08:22:40
+934,2025-08-13,1,Efectivo,88,Halis León Galindo,9,Bosques.Terrarios,50,Ayudantes,-80000,1,Pesos,,,,,,2026-01-01T08:22:40
+935,2025-08-13,1,Efectivo,67,Esteban Valdez,9,Bosques.Terrarios,66,Trasporte,-80000,1,Pesos,,,,,,2026-01-01T08:22:40
+936,2025-08-13,1,Efectivo,133,Luis Fernando Londoño,9,Bosques.Terrarios,62,Musgos,-70000,1,Pesos,,,,,,2026-01-01T08:22:40
+937,2025-08-13,5,Mc Dolars,2,Adobe,21,Fotografía,110,Adobe,-18864,1,Pesos,-4.84,3897.56,,Adobe.Com,,2026-01-01T08:22:40
+938,2025-08-13,4,Mc Pesos,35,Comcel,24,Komorebi,131,Celular portada,-10000,1,Pesos,,,,Comcel Recargas  T1 Pa,,2026-01-01T08:22:40
+928,2025-08-12,4,Mc Pesos,10,Amazon,43,Salud,341,Cpap,-326988,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:40
+929,2025-08-12,4,Mc Pesos,10,Amazon,43,Salud,341,Cpap,-180175,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:40
+924,2025-08-11,1,Efectivo,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,650000,1,Pesos,,,,,,2026-01-01T08:22:40
+922,2025-08-11,1,Efectivo,204,Tecniflush sas,10,Carro,77,Mantenimiento,-634000,1,Pesos,,,,Transferencia Cta Suc Virtual,02300002888,2026-01-01T08:22:40
+921,2025-08-11,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-200000,1,Pesos,,,,Transferencia A Nequi,3046365107,2026-01-01T08:22:40
+926,2025-08-11,4,Mc Pesos,151,Mercolanta,40,Restaurantes,328,Restaurantes,-87800,1,Pesos,,,,Mercolanta Monte Mader,,2026-01-01T08:22:40
+927,2025-08-11,4,Mc Pesos,151,Mercolanta,29,Mercado,175,Mercado,-43900,1,Pesos,,,,Mercolanta Monte Mader,,2026-01-01T08:22:40
+912,2025-08-08,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,650000,1,Pesos,,,,Transferencia Cta Suc Virtual,32536803679,2026-01-01T08:22:40
+911,2025-08-08,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,530000,1,Pesos,,,,Transferencia Desde Nequi,Luis Londono 6834,2026-01-01T08:22:40
+913,2025-08-08,4,Mc Pesos,10,Amazon,9,Bosques.Terrarios,59,Lámparas,-439110,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:40
+908,2025-08-08,2,Ahorros,204,Tecniflush sas,10,Carro,77,Mantenimiento,-196000,1,Pesos,,,,Transferencia Cta Suc Virtual,02300002888,2026-01-01T08:22:40
+914,2025-08-08,4,Mc Pesos,10,Amazon,30,MonteMadero,188,Camaras,-185693,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:40
+915,2025-08-08,4,Mc Pesos,10,Amazon,45,Suscripciones,354,Prime,-165600,1,Pesos,,,,Amazon Prime,,2026-01-01T08:22:40
+916,2025-08-08,4,Mc Pesos,10,Amazon,24,Komorebi,138,Jardín,-155455,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:40
+917,2025-08-08,4,Mc Pesos,10,Amazon,9,Bosques.Terrarios,51,Atomizadores,-90216,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:40
+918,2025-08-08,4,Mc Pesos,206,Temu,24,Komorebi,138,Jardín,-62202,1,Pesos,,,,Dlo*Temu.Com,,2026-01-01T08:22:40
+919,2025-08-08,4,Mc Pesos,206,Temu,9,Bosques.Terrarios,51,Atomizadores,-28943,1,Pesos,,,,Dlo*Temu.Com,,2026-01-01T08:22:40
+920,2025-08-08,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-28340,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+904,2025-08-07,4,Mc Pesos,40,D1,39,Regalos,327,Tita,-497038,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+897,2025-08-06,2,Ahorros,113,Jose Fernando Gonzalez,52,Ventas,405,Cámara Sony,1050000,1,Pesos,,,,Transferencia Cta Suc Virtual,10022333415,2026-01-01T08:22:40
+903,2025-08-06,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-514300,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:40
+899,2025-08-06,1,Efectivo,133,Luis Fernando Londoño,9,Bosques.Terrarios,54,Eventos,-500000,1,Pesos,,,,,,2026-01-01T08:22:40
+896,2025-08-06,2,Ahorros,204,Tecniflush sas,10,Carro,77,Mantenimiento,-400000,1,Pesos,,,,Transferencia Cta Suc Virtual,02300002888,2026-01-01T08:22:40
+900,2025-08-06,1,Efectivo,178,PolyMaster Sas,9,Bosques.Terrarios,58,Impresión 3D,-390000,1,Pesos,,,,,,2026-01-01T08:22:40
+901,2025-08-06,1,Efectivo,88,Halis León Galindo,9,Bosques.Terrarios,54,Eventos,-100000,1,Pesos,,,,,,2026-01-01T08:22:40
+902,2025-08-06,1,Efectivo,133,Luis Fernando Londoño,40,Restaurantes,328,Restaurantes,-50000,1,Pesos,,,,,,2026-01-01T08:22:40
+891,2025-08-05,1,Efectivo,138,Maderas y Construcciones,24,Komorebi,138,Jardín,-255000,1,Pesos,,,,,,2026-01-01T08:22:40
+892,2025-08-05,1,Efectivo,221,William Vanegas,24,Komorebi,138,Jardín,-200000,1,Pesos,,,,,,2026-01-01T08:22:40
+893,2025-08-05,1,Efectivo,88,Halis León Galindo,24,Komorebi,138,Jardín,-120000,1,Pesos,,,,,,2026-01-01T08:22:40
+894,2025-08-05,1,Efectivo,56,EDS El Encierro,24,Komorebi,138,Jardín,-32000,1,Pesos,,,,,,2026-01-01T08:22:40
+880,2025-08-04,2,Ahorros,178,PolyMaster Sas,9,Bosques.Terrarios,58,Impresión 3D,-400000,1,Pesos,,,,Transferencia Cta Suc Virtual,02100002768,2026-01-01T08:22:40
+881,2025-08-04,2,Ahorros,24,Cacharreria Los Marinillos Sas,9,Bosques.Terrarios,56,Frascos,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,01016192506,2026-01-01T08:22:40
+883,2025-08-04,1,Efectivo,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-120000,1,Pesos,,,,,,2026-01-01T08:22:40
+884,2025-08-04,1,Efectivo,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-100000,1,Pesos,,,,,,2026-01-01T08:22:40
+882,2025-08-04,2,Ahorros,167,Otros,9,Bosques.Terrarios,62,Musgos,-60000,1,Pesos,,,,Transferencia A Nequi,3175506250,2026-01-01T08:22:40
+885,2025-08-04,4,Mc Pesos,137,MacroDrogas,43,Salud,342,Drogas,-57000,1,Pesos,,,,Inversiones Ramej Sas,,2026-01-01T08:22:40
+870,2025-08-02,1,Efectivo,185,Ricardo Flores,9,Bosques.Terrarios,61,Materiales,-250000,1,Pesos,,,,,,2026-01-01T08:22:40
+877,2025-08-02,4,Mc Pesos,182,Punto Blanco,39,Regalos,325,RC,-230864,1,Pesos,,,,Tienda Punto Gef San N,,2026-01-01T08:22:40
+878,2025-08-02,4,Mc Pesos,182,Punto Blanco,39,Regalos,326,Regalos,-179000,1,Pesos,,,,Tienda Punto Gef San N,,2026-01-01T08:22:40
+872,2025-08-02,1,Efectivo,133,Luis Fernando Londoño,29,Mercado,176,Plaza,-130000,1,Pesos,,,,,,2026-01-01T08:22:40
+871,2025-08-02,1,Efectivo,88,Halis León Galindo,24,Komorebi,138,Jardín,-130000,1,Pesos,,,,,,2026-01-01T08:22:40
+879,2025-08-02,4,Mc Pesos,75,FlyPass,10,Carro,80,Peajes,-100000,1,Pesos,,,,Flypass,,2026-01-01T08:22:40
+873,2025-08-02,1,Efectivo,227,Yolima Baquero,24,Komorebi,128,Aseo,-100000,1,Pesos,,,,,,2026-01-01T08:22:40
+876,2025-08-02,5,Mc Dolars,15,Apple,16,Educación,98,Gemini,-73664,1,Pesos,-18.9,3897.56,,Apple.Com/Bill,,2026-01-01T08:22:40
+874,2025-08-02,1,Efectivo,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-20000,1,Pesos,,,,,,2026-01-01T08:22:40
+875,2025-08-02,1,Efectivo,133,Luis Fernando Londoño,40,Restaurantes,328,Restaurantes,-20000,1,Pesos,,,,,,2026-01-01T08:22:40
+866,2025-08-01,1,Efectivo,221,William Vanegas,24,Komorebi,138,Jardín,-200000,1,Pesos,,,,,,2026-01-01T08:22:40
+867,2025-08-01,1,Efectivo,88,Halis León Galindo,24,Komorebi,138,Jardín,-120000,1,Pesos,,,,,,2026-01-01T08:22:40
+868,2025-08-01,1,Efectivo,133,Luis Fernando Londoño,40,Restaurantes,328,Restaurantes,-80000,1,Pesos,,,,,,2026-01-01T08:22:40
+864,2025-08-01,2,Ahorros,228,Yormary Gomez Paniagua,39,Regalos,326,Regalos,-40000,1,Pesos,,,,Transferencia Cta Suc Virtual,00818719159,2026-01-01T08:22:40
+865,2025-08-01,2,Ahorros,25,Cafe Charlott,40,Restaurantes,328,Restaurantes,-28000,1,Pesos,,,,Pago Qr Cafe Charlott,980428915,2026-01-01T08:22:40
+869,2025-08-01,1,Efectivo,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-20000,1,Pesos,,,,,,2026-01-01T08:22:40
+861,2025-07-31,1,Efectivo,28,Capiro Vivero,9,Bosques.Terrarios,67,Ventas,3160000,1,Pesos,,,,,,2026-01-01T08:22:40
+854,2025-07-31,2,Ahorros,121,Juan Luis Uribe,24,Komorebi,138,Jardín,-1020000,1,Pesos,,,,Transferencia Cta Suc Virtual,02324081651,2026-01-01T08:22:40
+856,2025-07-31,2,Ahorros,88,Halis León Galindo,24,Komorebi,138,Jardín,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+857,2025-07-31,2,Ahorros,205,TecniPlantas,24,Komorebi,136,Huerta,-102267,1,Pesos,,,,Pago Qr Tecniplantas,946144721,2026-01-01T08:22:40
+862,2025-07-31,4,Mc Pesos,38,Crepes y Waffles,29,Mercado,175,Mercado,-85800,1,Pesos,,,,Crepes Y Waffles Llano,,2026-01-01T08:22:40
+863,2025-07-31,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-54690,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+858,2025-07-31,2,Ahorros,138,Maderas y Construcciones,24,Komorebi,138,Jardín,-21250,1,Pesos,,,,Pago Qr M Y A Maderas Y Cons,946919528,2026-01-01T08:22:40
+859,2025-07-31,2,Ahorros,45,Dian,22,Impuestos,117,4xMil,-12324,1,Pesos,,,,Impto Gobierno 4X1000,,2026-01-01T08:22:40
+860,2025-07-31,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,85,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T08:22:40
+848,2025-07-30,4,Mc Pesos,175,Plantas del Tambo,24,Komorebi,138,Jardín,-553320,1,Pesos,,,,Plantas Del Tambo,,2026-01-01T08:22:40
+849,2025-07-30,4,Mc Pesos,44,Departamento de Antioquia,39,Regalos,325,RC,-249000,1,Pesos,,,,Departamento De Antioq,,2026-01-01T08:22:40
+850,2025-07-30,4,Mc Pesos,211,Tita,39,Regalos,326,Regalos,-177000,1,Pesos,,,,Plantas Del Tambo,,2026-01-01T08:22:40
+851,2025-07-30,4,Mc Pesos,44,Departamento de Antioquia,37,RC Gastos,317,Moto,-163600,1,Pesos,,,,Departamento De Antioq,,2026-01-01T08:22:40
+852,2025-07-30,4,Mc Pesos,19,Bancolombia,4,Bancolombia,21,Cuota de manejo,-48490,1,Pesos,,,,Cuota De Manejo,,2026-01-01T08:22:40
+853,2025-07-30,4,Mc Pesos,19,Bancolombia,4,Bancolombia,23,Intereses,-3719,1,Pesos,,,,Intereses Corrientes,,2026-01-01T08:22:40
+843,2025-07-29,2,Ahorros,138,Maderas y Construcciones,24,Komorebi,138,Jardín,-910400,1,Pesos,,,,Pago Qr M Y A Maderas Y Cons,946919528,2026-01-01T08:22:40
+844,2025-07-29,2,Ahorros,223,Wilmar Yarce,9,Bosques.Terrarios,68,Vidrios,-50000,1,Pesos,,,,Transferencia A Nequi,,2026-01-01T08:22:40
+845,2025-07-29,2,Ahorros,172,Pasteur,43,Salud,342,Drogas,-7450,1,Pesos,,,,Pago Qr  Pasteur Terp,,2026-01-01T08:22:40
+840,2025-07-28,2,Ahorros,181,Protección,31,Pensión,298,Mesada,5478230,1,Pesos,,,,Pago De Nomi Proteccion,900379921,2026-01-01T08:22:40
+837,2025-07-28,2,Ahorros,93,Hmo Servicio Técnico SAS,24,Komorebi,134,Equipos,-242000,1,Pesos,,,,Transferencia Cta Suc Virtual,02400005912,2026-01-01T08:22:40
+841,2025-07-28,4,Mc Pesos,151,Mercolanta,40,Restaurantes,328,Restaurantes,-44300,1,Pesos,,,,Mercolanta Monte Mader,,2026-01-01T08:22:40
+838,2025-07-28,2,Ahorros,172,Pasteur,32,Perros,300,Drogas,-30324,1,Pesos,,,,Pago Qr  Pasteur Terp,,2026-01-01T08:22:40
+839,2025-07-28,2,Ahorros,147,Materiales Maestro,24,Komorebi,138,Jardín,-23500,1,Pesos,,,,Pago Qr Materiales Maestro Co,940557779,2026-01-01T08:22:40
+835,2025-07-27,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-100000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:40
+836,2025-07-27,5,Mc Dolars,15,Apple,24,Komorebi,129,Celular,-12741,1,Pesos,-3.17,4019.24,,Apple.Com/Bill,,2026-01-01T08:22:40
+834,2025-07-26,2,Ahorros,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-160000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+831,2025-07-25,1,Efectivo,221,William Vanegas,24,Komorebi,138,Jardín,-200000,1,Pesos,,,,,,2026-01-01T08:22:40
+830,2025-07-25,2,Ahorros,133,Luis Fernando Londoño,24,Komorebi,138,Jardín,-20000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:40
+833,2025-07-25,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-19950,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+823,2025-07-24,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-354904,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:40
+824,2025-07-24,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-334360,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:40
+825,2025-07-24,4,Mc Pesos,180,PriceSmart,32,Perros,299,Cuido,-157900,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:40
+815,2025-07-23,4,Mc Pesos,206,Temu,41,Ropa,329,Busos,-169417,1,Pesos,,,,Dlo*Temu.Com,,2026-01-01T08:22:40
+816,2025-07-23,4,Mc Pesos,210,Tigo,24,Komorebi,130,Celular e Internet,-109900,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:22:40
+807,2025-07-22,2,Ahorros,204,Tecniflush sas,10,Carro,77,Mantenimiento,-300000,1,Pesos,,,,Transferencia Cta Suc Virtual,02300002888,2026-01-01T08:22:40
+809,2025-07-22,2,Ahorros,12,Andrea Latorre,39,Regalos,326,Regalos,-148750,1,Pesos,,,,Transferencia A Nequi,3148102772,2026-01-01T08:22:40
+808,2025-07-22,2,Ahorros,12,Andrea Latorre,29,Mercado,173,Empanadas,-148750,1,Pesos,,,,Transferencia A Nequi,3148102772,2026-01-01T08:22:40
+810,2025-07-22,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-120000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:40
+811,2025-07-22,2,Ahorros,87,Gustavo Adolfo Bolivar Orozco,9,Bosques.Terrarios,61,Materiales,-45000,1,Pesos,,,,Transferencia Cta Suc Virtual,35192376902,2026-01-01T08:22:40
+814,2025-07-22,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,-1010,1,Pesos,,,,Retención en la fuente,,2026-01-01T08:22:40
+803,2025-07-21,2,Ahorros,13,Angela María Duque Ossa,24,Komorebi,138,Jardín,-250000,1,Pesos,,,,Transferencia Cta Suc Virtual,50537795287,2026-01-01T08:22:40
+804,2025-07-21,2,Ahorros,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-70000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:40
+802,2025-07-21,4,Mc Pesos,229,YouTube,16,Educación,105,YouTube,-41900,1,Pesos,,,,Dlo*Google Youtubeprem,,2026-01-01T08:22:40
+805,2025-07-21,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,62,Musgos,-35000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:40
+798,2025-07-20,4,Mc Pesos,206,Temu,41,Ropa,330,Camisetas,-179703,1,Pesos,,,,Dlo*Temu.Com,,2026-01-01T08:22:39
+797,2025-07-20,1,Efectivo,227,Yolima Baquero,24,Komorebi,128,Aseo,-120000,1,Pesos,,,,,,2026-01-01T08:22:39
+799,2025-07-20,4,Mc Pesos,206,Temu,41,Ropa,335,Zapatos,-114075,1,Pesos,,,,Dlo*Temu.Com,,2026-01-01T08:22:39
+800,2025-07-20,4,Mc Pesos,133,Luis Fernando Londoño,37,RC Gastos,312,Celular,-46107,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:22:39
+795,2025-07-19,2,Ahorros,140,Maria Consuelo Gaitan,9,Bosques.Terrarios,67,Ventas,63000,1,Pesos,,,,Transferencia Cta Suc Virtual,10272571946,2026-01-01T08:22:39
+796,2025-07-19,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-3990,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:39
+794,2025-07-18,1,Efectivo,221,William Vanegas,24,Komorebi,138,Jardín,-100000,1,Pesos,,,,,,2026-01-01T08:22:39
+793,2025-07-17,2,Ahorros,217,Vitelco de Colombia SAS,9,Bosques.Terrarios,68,Vidrios,-153558,1,Pesos,,,,Transferencia Cta Suc Virtual,01539995923,2026-01-01T08:22:39
+792,2025-07-16,4,Mc Pesos,201,Suramericana,43,Salud,347,Prepagada,-890020,1,Pesos,,,,Suramericana Seguros D,,2026-01-01T08:22:39
+788,2025-07-16,2,Ahorros,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:39
+790,2025-07-16,1,Efectivo,221,William Vanegas,24,Komorebi,138,Jardín,-100000,1,Pesos,,,,,,2026-01-01T08:22:39
+789,2025-07-16,2,Ahorros,243,David,9,Bosques.Terrarios,62,Musgos,-30000,1,Pesos,,,,Transferencia A Nequi,3175506250,2026-01-01T08:22:39
+784,2025-07-15,1,Efectivo,227,Yolima Baquero,24,Komorebi,128,Aseo,-210000,1,Pesos,,,,,,2026-01-01T08:22:39
+785,2025-07-15,1,Efectivo,221,William Vanegas,24,Komorebi,138,Jardín,-100000,1,Pesos,,,,,,2026-01-01T08:22:39
+786,2025-07-15,4,Mc Pesos,56,EDS El Encierro,24,Komorebi,138,Jardín,-26178,1,Pesos,,,,Eds El Encierro Ceja F,,2026-01-01T08:22:39
+787,2025-07-15,4,Mc Pesos,36,Corpaul,15,Donaciones,94,Corpaul,-10000,1,Pesos,,,,Corpaul,,2026-01-01T08:22:39
+779,2025-07-14,1,Efectivo,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,720000,1,Pesos,,,,,,2026-01-01T08:22:39
+776,2025-07-14,2,Ahorros,112,José David Lopez Amar,14,Diversiones,93,Fiestas,-160000,1,Pesos,,,,Transferencia Cta Suc Virtual,10170876548,2026-01-01T08:22:39
+783,2025-07-14,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,-935,1,Pesos,,,,Retención en la fuente,,2026-01-01T08:22:39
+772,2025-07-13,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-40000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:39
+773,2025-07-13,2,Ahorros,133,Luis Fernando Londoño,40,Restaurantes,328,Restaurantes,-40000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:39
+767,2025-07-12,2,Ahorros,91,Henry León Uribe Ossa,7,Bosques.Bonsái,39,Materas,-340000,1,Pesos,,,,Transferencia Cta Suc Virtual,10062621209,2026-01-01T08:22:39
+770,2025-07-12,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,280000,1,Pesos,,,,Transferencia Desde Nequi,Luis Londono 6834,2026-01-01T08:22:39
+764,2025-07-12,4,Mc Pesos,40,D1,39,Regalos,326,Regalos,-88830,1,Pesos,,,,Tienda D1 Envigado Pal,,2026-01-01T08:22:39
+765,2025-07-12,4,Mc Pesos,99,Inza Hermanos,9,Bosques.Terrarios,61,Materiales,-32000,1,Pesos,,,,Inza Hermanos,,2026-01-01T08:22:39
+766,2025-07-12,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-18950,1,Pesos,,,,Tienda D1 Envigado Pal,,2026-01-01T08:22:39
+768,2025-07-12,2,Ahorros,19,Bancolombia,4,Bancolombia,21,Cuota de manejo,-16990,1,Pesos,,,,Cuota Manejo Trj Deb 07 25,Manejo Tarjeta Deb 07 25,2026-01-01T08:22:39
+769,2025-07-12,2,Ahorros,19,Bancolombia,4,Bancolombia,17,Ajustes,0,1,Pesos,,,,Ajuste Interes Ahorros Db,,2026-01-01T08:22:39
+760,2025-07-11,4,Mc Pesos,221,William Vanegas,24,Komorebi,138,Jardín,-300000,1,Pesos,,,,Corresponsal Bancario,,2026-01-01T08:22:39
+763,2025-07-11,2,Ahorros,88,Halis León Galindo,9,Bosques.Terrarios,59,Lámparas,-240000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:39
+762,2025-07-11,4,Mc Pesos,19,Bancolombia,4,Bancolombia,19,Comisiones,-13990,1,Pesos,,,,Comision Avance Corresponsal B,,2026-01-01T08:22:39
+758,2025-07-10,2,Ahorros,159,Natalia Barajas,9,Bosques.Terrarios,67,Ventas,420000,1,Pesos,,,,Transferencia Desde Nequi,Natalia Barajas 9535,2026-01-01T08:22:39
+756,2025-07-10,2,Ahorros,73,Ferreteria La Ceja,7,Bosques.Bonsái,40,Materiales,-36000,1,Pesos,,,,Pago Qr Ferreteria La Ceja Sa,953586806,2026-01-01T08:22:39
+757,2025-07-10,2,Ahorros,125,La Tienda del Ebanista,9,Bosques.Terrarios,59,Lámparas,-20500,1,Pesos,,,,Pago Qr La Tienda Del Ebanist,949169501,2026-01-01T08:22:39
+752,2025-07-09,2,Ahorros,204,Tecniflush sas,10,Carro,77,Mantenimiento,-186000,1,Pesos,,,,Transferencia Cta Suc Virtual,02300002888,2026-01-01T08:22:39
+743,2025-07-08,4,Mc Pesos,70,Falabella,9,Bosques.Terrarios,56,Frascos,-374480,1,Pesos,,,,Falabella,,2026-01-01T08:22:39
+744,2025-07-08,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-319500,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:39
+745,2025-07-08,4,Mc Pesos,70,Falabella,9,Bosques.Terrarios,56,Frascos,-123960,1,Pesos,,,,Falabella,,2026-01-01T08:22:39
+751,2025-07-08,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,-1003,1,Pesos,,,,Retención en la fuente,,2026-01-01T08:22:39
+739,2025-07-07,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,317,Moto,-650000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:39
+740,2025-07-07,2,Ahorros,189,Sandra Milena Cano Quinchia,9,Bosques.Terrarios,59,Lámparas,-311400,1,Pesos,,,,Transferencia Cta Suc Virtual,01036272224,2026-01-01T08:22:39
+741,2025-07-07,2,Ahorros,163,Nestor Wilson Alvarez Holgin,9,Bosques.Terrarios,59,Lámparas,-180000,1,Pesos,,,,Transferencia Cta Suc Virtual,60908106051,2026-01-01T08:22:39
+732,2025-07-06,4,Mc Pesos,149,Mercado El Chalet Sas,29,Mercado,175,Mercado,-165000,1,Pesos,,,,Mercado El Chalet Sas,,2026-01-01T08:22:39
+733,2025-07-06,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-152250,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:39
+735,2025-07-06,2,Ahorros,88,Halis León Galindo,24,Komorebi,139,Mantenimiento,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:39
+737,2025-07-06,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-80000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:39
+736,2025-07-06,2,Ahorros,100,Isaac Simeon Andrade Gamez,29,Mercado,175,Mercado,-80000,1,Pesos,,,,Transferencia Cta Suc Virtual,00785064071,2026-01-01T08:22:39
+734,2025-07-06,4,Mc Pesos,151,Mercolanta,29,Mercado,175,Mercado,-53400,1,Pesos,,,,Mercolanta Monte Mader,,2026-01-01T08:22:39
+738,2025-07-06,2,Ahorros,191,Santiago Gonzalez,29,Mercado,175,Mercado,-22000,1,Pesos,,,,Transferencia Cta Suc Virtual,34246975355,2026-01-01T08:22:39
+731,2025-07-05,2,Ahorros,140,Maria Consuelo Gaitan,7,Bosques.Bonsái,43,Ventas,500000,1,Pesos,,,,Transferencia Cta Suc Virtual,10272571946,2026-01-01T08:22:39
+729,2025-07-05,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-157835,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:22:39
+727,2025-07-04,2,Ahorros,221,William Vanegas,24,Komorebi,138,Jardín,-200000,1,Pesos,,,,Retiro Cajero  Cajero Cent Int,Cajero Cent Int,2026-01-01T08:22:39
+726,2025-07-04,1,Efectivo,177,Plaza de Mercado,29,Mercado,176,Plaza,-100000,1,Pesos,,,,,,2026-01-01T08:22:39
+728,2025-07-04,2,Ahorros,177,Plaza de Mercado,29,Mercado,176,Plaza,-100000,1,Pesos,,,,Retiro Cajero  Cajero Cent Int,Cajero Cent Int,2026-01-01T08:22:39
+722,2025-07-03,4,Mc Pesos,10,Amazon,9,Bosques.Terrarios,59,Lámparas,-521336,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:39
+723,2025-07-03,2,Ahorros,88,Halis León Galindo,24,Komorebi,139,Mantenimiento,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:39
+724,2025-07-03,2,Ahorros,44,Departamento de Antioquia,22,Impuestos,118,Depto Antioquia,-105600,1,Pesos,,,,Transf A Departamento De Anti,94E889D18C4E45894A93413E8918E7,2026-01-01T08:22:39
+721,2025-07-02,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,450000,1,Pesos,,,,Transferencia Cta Suc Virtual,31351256675,2026-01-01T08:22:39
+720,2025-07-02,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,390000,1,Pesos,,,,Transferencia Cta Suc Virtual,27217200143,2026-01-01T08:22:39
+718,2025-07-02,2,Ahorros,47,Diego Lalinde,29,Mercado,175,Mercado,-135000,1,Pesos,,,,Transferencia Cta Suc Virtual,10270061525,2026-01-01T08:22:39
+719,2025-07-02,2,Ahorros,88,Halis León Galindo,24,Komorebi,139,Mantenimiento,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:39
+717,2025-07-02,5,Mc Dolars,15,Apple,16,Educación,98,Gemini,-78013,1,Pesos,-19.41,4019.24,,Apple.Com/Bill,,2026-01-01T08:22:39
+713,2025-07-01,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-698450,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:39
+714,2025-07-01,4,Mc Pesos,96,Ikea,9,Bosques.Terrarios,56,Frascos,-197940,1,Pesos,,,,Ikea Envigado,,2026-01-01T08:22:39
+715,2025-07-01,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-144650,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:39
+716,2025-07-01,4,Mc Pesos,75,FlyPass,10,Carro,80,Peajes,-100000,1,Pesos,,,,Recarga Automatica Flypass,,2026-01-01T08:22:39
+710,2025-06-30,2,Ahorros,45,Dian,22,Impuestos,117,4xMil,-85838,1,Pesos,,,,Impto Gobierno 4X1000,,2026-01-01T08:22:39
+711,2025-06-30,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,283,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T08:22:39
+709,2025-06-29,1,Efectivo,130,Lina María Molina Velez,9,Bosques.Terrarios,67,Ventas,260000,1,Pesos,,,,,,2026-01-01T08:22:39
+708,2025-06-29,1,Efectivo,130,Lina María Molina Velez,9,Bosques.Terrarios,63,Orquídeas,-90000,1,Pesos,,,,,,2026-01-01T08:22:39
+697,2025-06-27,2,Ahorros,69,Fabian Alberto Henao Medina,9,Bosques.Terrarios,59,Lámparas,-690000,1,Pesos,,,,Transferencia Cta Suc Virtual,41599583791,2026-01-01T08:22:39
+698,2025-06-27,2,Ahorros,170,Parcelación Montemadero,24,Komorebi,127,Administración,-669552,1,Pesos,,,,Transferencia Cta Suc Virtual,37594048360,2026-01-01T08:22:39
+699,2025-06-27,2,Ahorros,170,Parcelación Montemadero,24,Komorebi,126,Acueducto,-293000,1,Pesos,,,,Transferencia Cta Suc Virtual,37594048360,2026-01-01T08:22:39
+700,2025-06-27,2,Ahorros,221,William Vanegas,24,Komorebi,138,Jardín,-200000,1,Pesos,,,,Transferencia A Nequi,,2026-01-01T08:22:39
+701,2025-06-27,2,Ahorros,88,Halis León Galindo,24,Komorebi,139,Mantenimiento,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:39
+703,2025-06-27,2,Ahorros,177,Plaza de Mercado,29,Mercado,176,Plaza,-100000,1,Pesos,,,,Transferencia A Nequi,,2026-01-01T08:22:39
+702,2025-06-27,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-100000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:39
+706,2025-06-27,4,Mc Pesos,56,EDS El Encierro,24,Komorebi,138,Jardín,-39020,1,Pesos,,,,Eds El Encierro Ceja F,,2026-01-01T08:22:39
+704,2025-06-27,2,Ahorros,172,Pasteur,32,Perros,300,Drogas,-30000,1,Pesos,,,,Transferencia A Nequi,,2026-01-01T08:22:39
+705,2025-06-27,5,Mc Dolars,15,Apple,24,Komorebi,129,Celular,-12701,1,Pesos,-3.16,4019.24,,Apple.Com/Bill,,2026-01-01T08:22:39
+695,2025-06-26,4,Mc Pesos,147,Materiales Maestro,24,Komorebi,136,Huerta,-290500,1,Pesos,,,,Materiales Mestro Col,,2026-01-01T08:22:39
+687,2025-06-26,2,Ahorros,88,Halis León Galindo,24,Komorebi,139,Mantenimiento,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:39
+688,2025-06-26,2,Ahorros,88,Halis León Galindo,9,Bosques.Terrarios,53,Envios,-60000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:39
+689,2025-06-26,2,Ahorros,210,Tigo,37,RC Gastos,312,Celular,-45900,1,Pesos,,,,Transf A Une Epm Telecomunica,9.02164E+19,2026-01-01T08:22:39
+690,2025-06-26,2,Ahorros,138,Maderas y Construcciones,24,Komorebi,138,Jardín,-30000,1,Pesos,,,,Transferencia Cta Suc Virtual,41200001884,2026-01-01T08:22:39
+694,2025-06-26,1,Efectivo,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-20000,1,Pesos,,,,,,2026-01-01T08:22:39
+674,2025-06-25,2,Ahorros,103,Jackson Mosquera,33,PH360,304,Desarrollo,-7000000,1,Pesos,,,,Transferencia Cta Suc Virtual,69300030432,2026-01-01T08:22:39
+679,2025-06-25,2,Ahorros,181,Protección,31,Pensión,298,Mesada,5478230,1,Pesos,,,,Pago De Nomi Proteccion,900379921,2026-01-01T08:22:39
+677,2025-06-25,2,Ahorros,14,Angie Catherine,9,Bosques.Terrarios,67,Ventas,430000,1,Pesos,,,,Pago Interbanc Angie Catherine,1019064466,2026-01-01T08:22:39
+676,2025-06-25,2,Ahorros,88,Halis León Galindo,24,Komorebi,139,Mantenimiento,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:39
+684,2025-06-25,4,Mc Pesos,137,MacroDrogas,43,Salud,342,Drogas,-58800,1,Pesos,,,,Inversiones Ramej SAS,,2026-01-01T08:22:39
+673,2025-06-24,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-368730,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:39
+672,2025-06-24,2,Ahorros,88,Halis León Galindo,24,Komorebi,139,Mantenimiento,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:39
+667,2025-06-21,2,Ahorros,69,Fabian Alberto Henao Medina,9,Bosques.Terrarios,59,Lámparas,-400000,1,Pesos,,,,Transferencia Cta Suc Virtual,41599583791,2026-01-01T08:22:39
+668,2025-06-21,2,Ahorros,225,Yeison Andres Castro Pavas,9,Bosques.Terrarios,68,Vidrios,-205200,1,Pesos,,,,Transferencia Cta Suc Virtual,02325670404,2026-01-01T08:22:39
+669,2025-06-21,2,Ahorros,174,Pintuco,24,Komorebi,139,Mantenimiento,-128500,1,Pesos,,,,Transferencia Cta Suc Virtual,02300005008,2026-01-01T08:22:39
+670,2025-06-21,4,Mc Pesos,229,YouTube,16,Educación,105,YouTube,-41900,1,Pesos,,,,Dlo*Google YoutubepremDLO,,2026-01-01T08:22:39
+664,2025-06-20,5,Mc Dolars,106,Jet Brains,16,Educación,103,PH360,-1179978,1,Pesos,-289,4082.97,,Jet Brains,,2026-01-01T08:22:39
+665,2025-06-20,4,Mc Pesos,175,Plantas del Tambo,24,Komorebi,138,Jardín,-391320,1,Pesos,,,,Plantas Del Tambo,,2026-01-01T08:22:39
+657,2025-06-20,2,Ahorros,221,William Vanegas,24,Komorebi,138,Jardín,-200000,1,Pesos,,,,Retiro Cajero Cajero Cent Int,,2026-01-01T08:22:39
+658,2025-06-20,2,Ahorros,88,Halis León Galindo,24,Komorebi,139,Mantenimiento,-120000,1,Pesos,,,,Retiro Cajero Cajero Cent Int,00190644952,2026-01-01T08:22:39
+659,2025-06-20,2,Ahorros,174,Pintuco,24,Komorebi,139,Mantenimiento,-112000,1,Pesos,,,,Transferencia Cta Suc Virtual,02300005008,2026-01-01T08:22:39
+666,2025-06-20,4,Mc Pesos,210,Tigo,24,Komorebi,130,Celular e Internet,-109900,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:22:39
+660,2025-06-20,2,Ahorros,169,Palomino roots,9,Bosques.Terrarios,65,Sustratos,-101600,1,Pesos,,,,Pago Qr Palomino Roots,980994353,2026-01-01T08:22:39
+663,2025-06-20,1,Efectivo,19,Bancolombia,4,Bancolombia,25,Retiro Cajeros,50000,1,Pesos,,,,,,2026-01-01T08:22:39
+654,2025-06-19,2,Ahorros,88,Halis León Galindo,24,Komorebi,139,Mantenimiento,-240000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:39
+655,2025-06-19,2,Ahorros,174,Pintuco,24,Komorebi,139,Mantenimiento,-176900,1,Pesos,,,,Transferencia Cta Suc Virtual,02300005008,2026-01-01T08:22:39
+652,2025-06-18,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-50000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:39
+653,2025-06-18,2,Ahorros,133,Luis Fernando Londoño,43,Salud,342,Drogas,-20000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:39
+642,2025-06-17,2,Ahorros,28,Capiro Vivero,9,Bosques.Terrarios,67,Ventas,1988000,1,Pesos,,,,Consig Local Efectivo,,2026-01-01T08:22:39
+645,2025-06-17,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-342600,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:39
+646,2025-06-17,4,Mc Pesos,57,Eds Los Cristales,10,Carro,83,Tecno Mecánica,-309800,1,Pesos,,,,Eds Los Cristales,,2026-01-01T08:22:39
+639,2025-06-17,2,Ahorros,221,William Vanegas,24,Komorebi,138,Jardín,-300000,1,Pesos,,,,Transferencia A Nequi,,2026-01-01T08:22:39
+647,2025-06-17,4,Mc Pesos,180,PriceSmart,32,Perros,299,Cuido,-157900,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:39
+648,2025-06-17,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-129460,1,Pesos,,,,Tienda D1 La Ceja San,,2026-01-01T08:22:39
+649,2025-06-17,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-41380,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:22:39
+641,2025-06-17,2,Ahorros,30,Casa Ferretera,24,Komorebi,139,Mantenimiento,-8350,1,Pesos,,,,Pago Qr La Ceja,979271276 La Ceja,2026-01-01T08:22:39
+636,2025-06-16,4,Mc Pesos,201,Suramericana,43,Salud,347,Prepagada,-890020,1,Pesos,,,,Suramericana Seguros D,,2026-01-01T08:22:39
+631,2025-06-15,2,Ahorros,88,Halis León Galindo,24,Komorebi,141,Muebles,-380000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:39
+633,2025-06-15,1,Efectivo,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-270000,1,Pesos,,,,,,2026-01-01T08:22:39
+632,2025-06-15,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-210000,1,Pesos,,,,Transferencia A Nequi,3215905584,2026-01-01T08:22:39
+634,2025-06-15,4,Mc Pesos,36,Corpaul,15,Donaciones,94,Corpaul,-10000,1,Pesos,,,,Corpaul,,2026-01-01T08:22:39
+628,2025-06-14,1,Efectivo,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,270000,1,Pesos,,,,,,2026-01-01T08:22:39
+626,2025-06-14,2,Ahorros,88,Halis León Galindo,24,Komorebi,139,Mantenimiento,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:39
+629,2025-06-14,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-21040,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:39
+627,2025-06-14,2,Ahorros,19,Bancolombia,4,Bancolombia,21,Cuota de manejo,-16990,1,Pesos,,,,Cuota Manejo Trj Deb 06 25,,2026-01-01T08:22:39
+620,2025-06-13,2,Ahorros,69,Fabian Alberto Henao Medina,9,Bosques.Terrarios,59,Lámparas,-160000,1,Pesos,,,,Transferencia Cta Suc Virtual,41599583791,2026-01-01T08:22:39
+621,2025-06-13,2,Ahorros,88,Halis León Galindo,24,Komorebi,139,Mantenimiento,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:39
+625,2025-06-13,4,Mc Pesos,51,DollarCity,29,Mercado,175,Mercado,-83000,1,Pesos,,,,Dollarcity Viva La Cej,,2026-01-01T08:22:39
+622,2025-06-13,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,317,Moto,-44000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:39
+623,2025-06-13,2,Ahorros,133,Luis Fernando Londoño,24,Komorebi,139,Mantenimiento,-32000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:39
+624,2025-06-13,5,Mc Dolars,2,Adobe,21,Fotografía,110,Adobe,-19067,1,Pesos,-4.67,4082.97,,Adobe.Com,,2026-01-01T08:22:39
+618,2025-06-12,2,Ahorros,155,Mundo Colores La Ceja,24,Komorebi,141,Muebles,-201500,1,Pesos,,,,Transferencia Cta Suc Virtual,02300005007,2026-01-01T08:22:39
+619,2025-06-12,2,Ahorros,88,Halis León Galindo,24,Komorebi,139,Mantenimiento,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:39
+614,2025-06-11,2,Ahorros,88,Halis León Galindo,24,Komorebi,139,Mantenimiento,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:39
+616,2025-06-11,4,Mc Pesos,132,Los Fierros,24,Komorebi,140,Menaje,-93803,1,Pesos,,,,La Ceja,,2026-01-01T08:22:39
+617,2025-06-11,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-33200,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:22:39
+608,2025-06-10,2,Ahorros,69,Fabian Alberto Henao Medina,9,Bosques.Terrarios,59,Lámparas,-500000,1,Pesos,,,,Transferencia Cta Suc Virtual,41599583791,2026-01-01T08:22:39
+609,2025-06-10,2,Ahorros,144,Maritza Milena Posada,24,Komorebi,138,Jardín,-258000,1,Pesos,,,,Transferencia Cta Suc Virtual,55758346161,2026-01-01T08:22:39
+610,2025-06-10,2,Ahorros,144,Maritza Milena Posada,7,Bosques.Bonsái,32,Árboles,-70000,1,Pesos,,,,Transferencia Cta Suc Virtual,55758346161,2026-01-01T08:22:39
+611,2025-06-10,2,Ahorros,48,Diego Leonel Ortiz Cardona,7,Bosques.Bonsái,41,Sustratos,-67000,1,Pesos,,,,Transferencia Cta Suc Virtual,10242643414,2026-01-01T08:22:39
+612,2025-06-10,2,Ahorros,86,Grupo La Cima Sas,7,Bosques.Bonsái,32,Árboles,-50000,1,Pesos,,,,Transferencia Cta Suc Virtual,41258241264,2026-01-01T08:22:39
+613,2025-06-10,2,Ahorros,86,Grupo La Cima Sas,29,Mercado,175,Mercado,-42000,1,Pesos,,,,Transferencia Cta Suc Virtual,41258241264,2026-01-01T08:22:39
+605,2025-06-07,4,Mc Pesos,10,Amazon,33,PH360,307,Equipos,-568794,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:39
+600,2025-06-07,2,Ahorros,178,PolyMaster Sas,9,Bosques.Terrarios,58,Impresión 3D,-420000,1,Pesos,,,,Transferencia Cta Suc Virtual,02100002768,2026-01-01T08:22:39
+604,2025-06-07,1,Efectivo,221,William Vanegas,24,Komorebi,138,Jardín,-300000,1,Pesos,,,,,,2026-01-01T08:22:39
+603,2025-06-07,2,Ahorros,214,Uniformes y Dotaciones Velandia,24,Komorebi,128,Aseo,-100000,1,Pesos,,,,Transferencia A Nequi,3138572492,2026-01-01T08:22:39
+602,2025-06-07,2,Ahorros,204,Tecniflush sas,10,Carro,77,Mantenimiento,-100000,1,Pesos,,,,Transferencia Cta Suc Virtual,02300002888,2026-01-01T08:22:39
+601,2025-06-07,2,Ahorros,24,Cacharreria Los Marinillos Sas,9,Bosques.Terrarios,56,Frascos,-100000,1,Pesos,,,,Transferencia Cta Suc Virtual,01016192506,2026-01-01T08:22:39
+597,2025-06-06,2,Ahorros,113,Jose Fernando Gonzalez,52,Ventas,405,Cámara Sony,1050000,1,Pesos,,,,Transferencia Cta Suc Virtual,10022333415,2026-01-01T08:22:39
+595,2025-06-06,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-150000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:39
+596,2025-06-06,2,Ahorros,133,Luis Fernando Londoño,43,Salud,342,Drogas,-20000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:39
+587,2025-06-05,2,Ahorros,135,Luis Miguel Toro,9,Bosques.Terrarios,67,Ventas,410000,1,Pesos,,,,Transferencia Cta Suc Virtual,10072436434,2026-01-01T08:22:39
+585,2025-06-05,2,Ahorros,123,Julio Cesar Vallejo Tobon,24,Komorebi,138,Jardín,-392500,1,Pesos,,,,Pago Qr Almacen Agropecuario,02337595600,2026-01-01T08:22:39
+588,2025-06-05,4,Mc Pesos,5,Agrofertil,7,Bosques.Bonsái,36,Fertilizantes,-110595,1,Pesos,,,,Agrofertil Colombia,,2026-01-01T08:22:39
+589,2025-06-05,4,Mc Pesos,54,Ecoplásticos,9,Bosques.Terrarios,62,Musgos,-67600,1,Pesos,,,,Ecoplasticos La Ceja,,2026-01-01T08:22:39
+591,2025-06-05,4,Mc Pesos,1,553 Tratoria,40,Restaurantes,328,Restaurantes,-51400,1,Pesos,,,,553 Trattoria,,2026-01-01T08:22:39
+592,2025-06-05,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-45900,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:39
+593,2025-06-05,4,Mc Pesos,28,Capiro Vivero,9,Bosques.Terrarios,62,Musgos,-12000,1,Pesos,,,,Capiro Vivero,,2026-01-01T08:22:39
+580,2025-06-04,4,Mc Pesos,96,Ikea,9,Bosques.Terrarios,56,Frascos,-270870,1,Pesos,,,,Ikea Envigado,,2026-01-01T08:22:39
+581,2025-06-04,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-250600,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:39
+583,2025-06-04,4,Mc Pesos,75,FlyPass,10,Carro,80,Peajes,-100000,1,Pesos,,,,Recarga Automatica Flypass,,2026-01-01T08:22:39
+578,2025-06-04,1,Efectivo,177,Plaza de Mercado,29,Mercado,176,Plaza,-100000,1,Pesos,,,,,,2026-01-01T08:22:39
+584,2025-06-04,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-86740,1,Pesos,,,,Tienda D1 La Ceja 4,,2026-01-01T08:22:39
+576,2025-06-03,2,Ahorros,13,Angela María Duque Ossa,24,Komorebi,138,Jardín,-250000,1,Pesos,,,,Transferencia Cta Suc Virtual,50537795287,2026-01-01T08:22:39
+577,2025-06-03,2,Ahorros,133,Luis Fernando Londoño,24,Komorebi,138,Jardín,-50000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:39
+574,2025-06-02,2,Ahorros,130,Lina María Molina Velez,9,Bosques.Terrarios,63,Orquídeas,-750000,1,Pesos,,,,Transferencia Cta Suc Virtual,02928061194,2026-01-01T08:22:39
+575,2025-06-02,2,Ahorros,69,Fabian Alberto Henao Medina,9,Bosques.Terrarios,59,Lámparas,-260000,1,Pesos,,,,Transferencia Cta Suc Virtual,41599583791,2026-01-01T08:22:39
+572,2025-06-01,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencia A Nequi,3215905584,2026-01-01T08:22:39
+568,2025-05-31,2,Ahorros,105,JD Dental Group,39,Regalos,325,RC,-420000,1,Pesos,,,,Transferencia Cta Suc Virtual,58000010697,2026-01-01T08:22:39
+569,2025-05-31,2,Ahorros,45,Dian,22,Impuestos,117,4xMil,-74178,1,Pesos,,,,Impto Gobierno 4X1000,,2026-01-01T08:22:39
+570,2025-05-31,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,133,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T08:22:39
+566,2025-05-30,2,Ahorros,31,Casa Pizza,40,Restaurantes,328,Restaurantes,-53000,1,Pesos,,,,Pago Qr Casa Pizza,02300004073,2026-01-01T08:22:39
+563,2025-05-29,2,Ahorros,170,Parcelación Montemadero,24,Komorebi,127,Administración,-1521118,1,Pesos,,,,Transferencia Cta Suc Virtual,37594048360,2026-01-01T08:22:39
+564,2025-05-29,2,Ahorros,69,Fabian Alberto Henao Medina,9,Bosques.Terrarios,59,Lámparas,-1000000,1,Pesos,,,,Transferencia Cta Suc Virtual,41599583791,2026-01-01T08:22:39
+560,2025-05-28,2,Ahorros,181,Protección,31,Pensión,298,Mesada,5478230,1,Pesos,,,,Pago De Nomi Proteccion,900379921,2026-01-01T08:22:39
+561,2025-05-28,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-75250,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:39
+559,2025-05-28,2,Ahorros,12,Andrea Latorre,29,Mercado,173,Empanadas,-69000,1,Pesos,,,,Transferencia A Nequi,3148102772,2026-01-01T08:22:39
+562,2025-05-28,4,Mc Pesos,172,Pasteur,32,Perros,300,Drogas,-30324,1,Pesos,,,,Drogueria Pasteur Terp,,2026-01-01T08:22:39
+556,2025-05-27,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-660300,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:39
+553,2025-05-27,2,Ahorros,156,Mundo Electronico,24,Komorebi,134,Equipos,-135000,1,Pesos,,,,Pago Qr Mundo electronico,91232319041,2026-01-01T08:22:39
+557,2025-05-27,4,Mc Pesos,38,Crepes y Waffles,29,Mercado,175,Mercado,-81800,1,Pesos,,,,Crepes Y Waffles Llano,,2026-01-01T08:22:39
+558,2025-05-27,4,Mc Pesos,151,Mercolanta,29,Mercado,175,Mercado,-51600,1,Pesos,,,,Mercolanta Monte Mader,,2026-01-01T08:22:39
+554,2025-05-27,2,Ahorros,47,Diego Lalinde,29,Mercado,175,Mercado,-38000,1,Pesos,,,,Transferencia Cta Suc Virtual,10270061525,2026-01-01T08:22:39
+555,2025-05-27,5,Mc Dolars,15,Apple,24,Komorebi,129,Celular,-12874,1,Pesos,-3.09,4166.41,,Apple.Com/Bill,,2026-01-01T08:22:39
+552,2025-05-26,4,Mc Pesos,210,Tigo,24,Komorebi,130,Celular e Internet,-109900,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:22:39
+548,2025-05-24,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencia A Nequi,3215905584,2026-01-01T08:22:39
+549,2025-05-24,2,Ahorros,63,Empanadas caucanas,40,Restaurantes,328,Restaurantes,-56000,1,Pesos,,,,Transf Qr Johana Botero Zapat,41235301499,2026-01-01T08:22:39
+550,2025-05-24,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-50000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:39
+551,2025-05-24,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-34920,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:22:39
+546,2025-05-23,1,Efectivo,3,Adriana de Bedout,9,Bosques.Terrarios,67,Ventas,300000,1,Pesos,,,,,,2026-01-01T08:22:39
+544,2025-05-23,1,Efectivo,177,Plaza de Mercado,29,Mercado,176,Plaza,-150000,1,Pesos,,,,,,2026-01-01T08:22:39
+545,2025-05-23,1,Efectivo,221,William Vanegas,24,Komorebi,138,Jardín,-100000,1,Pesos,,,,,,2026-01-01T08:22:39
+542,2025-05-22,4,Mc Pesos,65,EPM,24,Komorebi,147,Servicios Públicos,-647943,1,Pesos,,,,Epm Servicios Publicos,,2026-01-01T08:22:39
+536,2025-05-22,2,Ahorros,60,Efrain Bernal,24,Komorebi,138,Jardín,-305000,1,Pesos,,,,Transferencia Cta Suc Virtual,02316536801,2026-01-01T08:22:39
+537,2025-05-22,2,Ahorros,141,Maria Elena Tobon de Llano,24,Komorebi,138,Jardín,-245000,1,Pesos,,,,Transferencia Cta Suc Virtual,10302345367,2026-01-01T08:22:39
+541,2025-05-22,1,Efectivo,60,Efrain Bernal,24,Komorebi,138,Jardín,-220000,1,Pesos,,,,,,2026-01-01T08:22:39
+530,2025-05-21,4,Mc Pesos,180,PriceSmart,43,Salud,344,Gafas,-1149096,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:39
+532,2025-05-21,4,Mc Pesos,180,PriceSmart,32,Perros,299,Cuido,-157900,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:39
+529,2025-05-21,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencia A Nequi,3215905584,2026-01-01T08:22:39
+533,2025-05-21,4,Mc Pesos,219,Vivero Chuscalito,40,Restaurantes,328,Restaurantes,-65119,1,Pesos,,,,Vivero Chuscalito,,2026-01-01T08:22:39
+534,2025-05-21,4,Mc Pesos,172,Pasteur,43,Salud,342,Drogas,-62777,1,Pesos,,,,Drogueria Pasteur Terp,,2026-01-01T08:22:39
+535,2025-05-21,4,Mc Pesos,229,YouTube,16,Educación,105,YouTube,-41900,1,Pesos,,,,Dlo*Google Youtubeprem,,2026-01-01T08:22:39
+526,2025-05-20,1,Efectivo,221,William Vanegas,24,Komorebi,138,Jardín,-100000,1,Pesos,,,,,,2026-01-01T08:22:39
+528,2025-05-20,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-55310,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:39
+524,2025-05-20,2,Ahorros,215,Valentina Mercado,39,Regalos,326,Regalos,-10000,1,Pesos,,,,Transf Qr Valentina Mercado A,37570240731,2026-01-01T08:22:39
+523,2025-05-19,4,Mc Pesos,133,Luis Fernando Londoño,37,RC Gastos,312,Celular,-41310,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:22:39
+522,2025-05-18,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-50000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:39
+520,2025-05-16,4,Mc Pesos,201,Suramericana,43,Salud,347,Prepagada,-890020,1,Pesos,,,,Suramericana Seguros D,,2026-01-01T08:22:39
+516,2025-05-15,4,Mc Pesos,64,Epaayco,24,Komorebi,139,Mantenimiento,-153000,1,Pesos,,,,Epayco,,2026-01-01T08:22:39
+515,2025-05-15,1,Efectivo,60,Efrain Bernal,24,Komorebi,138,Jardín,-110000,1,Pesos,,,,,,2026-01-01T08:22:39
+517,2025-05-15,4,Mc Pesos,36,Corpaul,15,Donaciones,94,Corpaul,-10000,1,Pesos,,,,Corpaul,,2026-01-01T08:22:39
+508,2025-05-14,1,Efectivo,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-20000,1,Pesos,,,,,,2026-01-01T08:22:39
+505,2025-05-14,2,Ahorros,19,Bancolombia,4,Bancolombia,21,Cuota de manejo,-16990,1,Pesos,,,,Cuota Manejo Trj Deb 05 25,,2026-01-01T08:22:39
+497,2025-05-13,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-799800,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:39
+498,2025-05-13,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-569900,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:39
+494,2025-05-13,2,Ahorros,222,Wilmar Augusto Buitrago Salamanca,24,Komorebi,139,Mantenimiento,-550000,1,Pesos,,,,Transferencia Cta Suc Virtual,24752735570,2026-01-01T08:22:39
+499,2025-05-13,4,Mc Pesos,70,Falabella,9,Bosques.Terrarios,56,Frascos,-357900,1,Pesos,,,,Falabella,,2026-01-01T08:22:39
+500,2025-05-13,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-331900,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:39
+501,2025-05-13,4,Mc Pesos,75,FlyPass,10,Carro,80,Peajes,-100000,1,Pesos,,,,Recarga Automatica Flypass,,2026-01-01T08:22:39
+495,2025-05-13,2,Ahorros,134,Luis Fernando Mejía,43,Salud,338,Citas,-50500,1,Pesos,,,,Pago Qr Luis Fernando Mejia,10312610130,2026-01-01T08:22:39
+496,2025-05-13,5,Mc Dolars,2,Adobe,21,Fotografía,110,Adobe,-19249,1,Pesos,-4.62,4166.41,,Adobe.Com,,2026-01-01T08:22:39
+492,2025-05-12,2,Ahorros,178,PolyMaster Sas,9,Bosques.Terrarios,58,Impresión 3D,-420000,1,Pesos,,,,Transferencia Cta Suc Virtual,02100002768,2026-01-01T08:22:39
+493,2025-05-12,4,Mc Pesos,19,Bancolombia,4,Bancolombia,17,Ajustes,107940,1,Pesos,,,,Ajuste Manual A Favor,,2026-01-01T08:22:39
+489,2025-05-11,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,319,Paty,-250000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:39
+491,2025-05-11,4,Mc Pesos,151,Mercolanta,29,Mercado,175,Mercado,-41600,1,Pesos,,,,Mercolanta Monte Mader,,2026-01-01T08:22:39
+485,2025-05-10,1,Efectivo,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,,,2026-01-01T08:22:39
+486,2025-05-10,1,Efectivo,40,D1,29,Mercado,175,Mercado,-100000,1,Pesos,,,,,,2026-01-01T08:22:39
+487,2025-05-10,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-57790,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:22:39
+488,2025-05-10,4,Mc Pesos,51,DollarCity,29,Mercado,175,Mercado,-45000,1,Pesos,,,,Dollarcity Viva La Cej,,2026-01-01T08:22:39
+483,2025-05-09,1,Efectivo,69,Fabian Alberto Henao Medina,9,Bosques.Terrarios,59,Lámparas,-420000,1,Pesos,,,,,,2026-01-01T08:22:39
+481,2025-05-09,2,Ahorros,23,Buñuelos de Oriente,40,Restaurantes,328,Restaurantes,-36100,1,Pesos,,,,Pago Qr Bunuelos Oriente,61658612882,2026-01-01T08:22:39
+480,2025-05-08,1,Efectivo,60,Efrain Bernal,24,Komorebi,138,Jardín,-110000,1,Pesos,,,,,,2026-01-01T08:22:39
+479,2025-05-08,2,Ahorros,24,Cacharreria Los Marinillos Sas,9,Bosques.Terrarios,56,Frascos,-100000,1,Pesos,,,,Transferencia Cta Suc Virtual,01016192506,2026-01-01T08:22:39
+477,2025-05-07,4,Mc Pesos,212,Tns Viva,29,Mercado,175,Mercado,-90500,1,Pesos,,,,Inversiones Tns Viva L,,2026-01-01T08:22:39
+475,2025-05-06,4,Mc Pesos,19,Bancolombia,4,Bancolombia,22,Devoluciones,311600,1,Pesos,,,,Ajuste Manual A Favor,,2026-01-01T08:22:39
+472,2025-05-05,1,Efectivo,28,Capiro Vivero,9,Bosques.Terrarios,67,Ventas,1330000,1,Pesos,,,,,,2026-01-01T08:22:39
+470,2025-05-05,2,Ahorros,113,Jose Fernando Gonzalez,52,Ventas,405,Cámara Sony,1050000,1,Pesos,,,,Transferencia Cta Suc Virtual,10022333415,2026-01-01T08:22:39
+467,2025-05-05,2,Ahorros,60,Efrain Bernal,24,Komorebi,138,Jardín,-110000,1,Pesos,,,,Transferencia Cta Suc Virtual,02316536801,2026-01-01T08:22:39
+471,2025-05-05,1,Efectivo,40,D1,29,Mercado,175,Mercado,-50000,1,Pesos,,,,,,2026-01-01T08:22:39
+464,2025-05-04,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencia A Nequi,3188899950,2026-01-01T08:22:39
+461,2025-05-03,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-157312,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:22:39
+462,2025-05-03,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-99680,1,Pesos,,,,Tienda D1 La Ceja San,,2026-01-01T08:22:39
+463,2025-05-03,4,Mc Pesos,172,Pasteur,32,Perros,300,Drogas,-36764,1,Pesos,,,,Drogueria Pasteur Terp,,2026-01-01T08:22:39
+458,2025-05-02,2,Ahorros,69,Fabian Alberto Henao Medina,9,Bosques.Terrarios,59,Lámparas,-300000,1,Pesos,,,,Transferencia Cta Suc Virtual,41599583791,2026-01-01T08:22:39
+459,2025-05-02,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-40000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:39
+457,2025-05-01,2,Ahorros,34,Club Fotógrafico Medellín,21,Fotografía,115,Libro 70 años,-200000,1,Pesos,,,,Transferencia Cta Suc Virtual,00590545502,2026-01-01T08:22:39
+446,2025-04-30,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-30000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+447,2025-04-30,2,Ahorros,45,Dian,22,Impuestos,117,4xMil,-9185,1,Pesos,,,,Impto Gobierno 4X1000,,2026-01-01T08:22:38
+452,2025-04-30,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,-1478,1,Pesos,,,,Retefte,,2026-01-01T08:22:39
+453,2025-04-30,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,-851,1,Pesos,,,,Retefte,,2026-01-01T08:22:39
+448,2025-04-30,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,53,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T08:22:38
+440,2025-04-29,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-934995,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:38
+441,2025-04-29,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-422740,1,Pesos,,,,Tienda D1 La Ceja 4,,2026-01-01T08:22:38
+442,2025-04-29,4,Mc Pesos,70,Falabella,9,Bosques.Terrarios,56,Frascos,-334492,1,Pesos,,,,Falabella,,2026-01-01T08:22:38
+437,2025-04-29,2,Ahorros,204,Tecniflush sas,10,Carro,77,Mantenimiento,-259800,1,Pesos,,,,Transferencia Cta Suc Virtual,02300002888,2026-01-01T08:22:38
+443,2025-04-29,4,Mc Pesos,180,PriceSmart,32,Perros,299,Cuido,-157900,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:38
+444,2025-04-29,4,Mc Pesos,196,Serviteca Montemadero,10,Carro,77,Mantenimiento,-120000,1,Pesos,,,,Bold*Serviteca Monte,,2026-01-01T08:22:38
+438,2025-04-29,2,Ahorros,23,Buñuelos de Oriente,40,Restaurantes,328,Restaurantes,-12900,1,Pesos,,,,Pago Qr Bunuelos Oriente,61658612882,2026-01-01T08:22:38
+434,2025-04-28,2,Ahorros,181,Protección,31,Pensión,298,Mesada,5478230,1,Pesos,,,,Pago De Nomi Proteccion,900379921,2026-01-01T08:22:38
+435,2025-04-28,4,Mc Pesos,195,Seguros Mundial,10,Carro,82,Soat,-1269000,1,Pesos,,,,Seguros Mundial,,2026-01-01T08:22:38
+433,2025-04-28,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencia A Nequi,3188899950,2026-01-01T08:22:38
+428,2025-04-27,2,Ahorros,60,Efrain Bernal,24,Komorebi,138,Jardín,-330000,1,Pesos,,,,Transferencia Cta Suc Virtual,02316536801,2026-01-01T08:22:38
+429,2025-04-27,2,Ahorros,133,Luis Fernando Londoño,29,Mercado,175,Mercado,-100000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+432,2025-04-27,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-73790,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:38
+430,2025-04-27,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-70000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+431,2025-04-27,5,Mc Dolars,15,Apple,24,Komorebi,129,Celular,-12698,1,Pesos,-3.02,4204.63,,Apple.Com/Bill,,2026-01-01T08:22:38
+424,2025-04-24,2,Ahorros,69,Fabian Alberto Henao Medina,9,Bosques.Terrarios,59,Lámparas,-320000,1,Pesos,,,,Transferencia Cta Suc Virtual,41599583791,2026-01-01T08:22:38
+425,2025-04-24,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-148400,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:38
+426,2025-04-24,4,Mc Pesos,210,Tigo,24,Komorebi,130,Celular e Internet,-110146,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:22:38
+421,2025-04-23,2,Ahorros,204,Tecniflush sas,10,Carro,77,Mantenimiento,-650000,1,Pesos,,,,Transferencia Cta Suc Virtual,02300002888,2026-01-01T08:22:38
+422,2025-04-23,4,Mc Pesos,96,Ikea,9,Bosques.Terrarios,56,Frascos,-408890,1,Pesos,,,,Ikea Ecommerce,,2026-01-01T08:22:38
+423,2025-04-23,4,Mc Pesos,70,Falabella,9,Bosques.Terrarios,56,Frascos,-311600,1,Pesos,,,,Falabella Com S A S,,2026-01-01T08:22:38
+420,2025-04-22,4,Mc Pesos,65,EPM,24,Komorebi,147,Servicios Públicos,-687446,1,Pesos,,,,Epm Servicios Publicos,,2026-01-01T08:22:38
+413,2025-04-22,2,Ahorros,178,PolyMaster Sas,9,Bosques.Terrarios,58,Impresión 3D,-217500,1,Pesos,,,,Transferencia Cta Suc Virtual,02100002768,2026-01-01T08:22:38
+416,2025-04-22,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,-150,1,Pesos,,,,Retefte,,2026-01-01T08:22:38
+410,2025-04-21,4,Mc Pesos,44,Departamento de Antioquia,10,Carro,75,Impuestos,-731100,1,Pesos,,,,Departamento De Antioq,,2026-01-01T08:22:38
+411,2025-04-21,4,Mc Pesos,229,YouTube,16,Educación,105,YouTube,-41900,1,Pesos,,,,Dlo*Google Youtubeprem,,2026-01-01T08:22:38
+408,2025-04-20,5,Mc Dolars,166,OpenAI,16,Educación,101,OpenAI,-84093,1,Pesos,-20,4204.63,,Openai *Chatgpt Subscr,,2026-01-01T08:22:38
+407,2025-04-20,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-70000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+409,2025-04-20,4,Mc Pesos,133,Luis Fernando Londoño,37,RC Gastos,312,Celular,-41310,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:22:38
+406,2025-04-18,4,Mc Pesos,10,Amazon,24,Komorebi,146,Seguridad,-262023,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+404,2025-04-17,4,Mc Pesos,206,Temu,28,Menaje,161,Herramientas,-159670,1,Pesos,,,,Dlo*Temu.Com,,2026-01-01T08:22:38
+403,2025-04-17,2,Ahorros,133,Luis Fernando Londoño,29,Mercado,175,Mercado,-100000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+401,2025-04-16,4,Mc Pesos,201,Suramericana,43,Salud,347,Prepagada,-890020,1,Pesos,,,,Suramericana Seguros D,,2026-01-01T08:22:38
+402,2025-04-16,4,Mc Pesos,31,Casa Pizza,40,Restaurantes,328,Restaurantes,-140000,1,Pesos,,,,30 *Casa Pizza,,2026-01-01T08:22:38
+390,2025-04-15,2,Ahorros,204,Tecniflush sas,10,Carro,77,Mantenimiento,-510000,1,Pesos,,,,Transferencia Cta Suc Virtual,02300002888,2026-01-01T08:22:38
+396,2025-04-15,4,Mc Pesos,36,Corpaul,15,Donaciones,94,Corpaul,-10000,1,Pesos,,,,Corpaul,,2026-01-01T08:22:38
+394,2025-04-15,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,-701,1,Pesos,,,,Retefte,,2026-01-01T08:22:38
+383,2025-04-14,2,Ahorros,190,Santiago Eduardo Pelaez,37,RC Gastos,318,Odontología,-320000,1,Pesos,,,,Pago Qr Santiago Eduardo Pel,944602944,2026-01-01T08:22:38
+384,2025-04-14,2,Ahorros,60,Efrain Bernal,24,Komorebi,138,Jardín,-220000,1,Pesos,,,,Transferencia Cta Suc Virtual,02316536801,2026-01-01T08:22:38
+385,2025-04-14,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencia A Nequi,3215905584,2026-01-01T08:22:38
+380,2025-04-13,2,Ahorros,231,Yow Guerra,21,Fotografía,116,Transporte,-54000,1,Pesos,,,,Transferencia A Nequi,3009074807,2026-01-01T08:22:38
+381,2025-04-13,2,Ahorros,133,Luis Fernando Londoño,43,Salud,342,Drogas,-50000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+382,2025-04-13,5,Mc Dolars,2,Adobe,21,Fotografía,110,Adobe,-18921,1,Pesos,-4.5,4204.63,,Adobe.Com,,2026-01-01T08:22:38
+376,2025-04-11,2,Ahorros,19,Bancolombia,4,Bancolombia,21,Cuota de manejo,-16990,1,Pesos,,,,Cuota Manejo Tarjeta Debito,,2026-01-01T08:22:38
+379,2025-04-11,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-4700,1,Pesos,,,,Tienda D1 La Ceja San,,2026-01-01T08:22:38
+374,2025-04-10,4,Mc Pesos,97,Informe y Gestion,24,Komorebi,133,Documentos,-135361,1,Pesos,,,,Informatica Y Gestion,,2026-01-01T08:22:38
+375,2025-04-10,4,Mc Pesos,151,Mercolanta,40,Restaurantes,328,Restaurantes,-87800,1,Pesos,,,,Mercolanta Monte Mader,,2026-01-01T08:22:38
+368,2025-04-08,4,Mc Pesos,10,Amazon,28,Menaje,162,Horno Leña,-157561,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+369,2025-04-08,4,Mc Pesos,10,Amazon,28,Menaje,162,Horno Leña,-138352,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+370,2025-04-08,4,Mc Pesos,10,Amazon,28,Menaje,162,Horno Leña,-125547,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+371,2025-04-08,4,Mc Pesos,75,FlyPass,10,Carro,80,Peajes,-100000,1,Pesos,,,,Recarga Automatica Flypass,,2026-01-01T08:22:38
+372,2025-04-08,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-16880,1,Pesos,,,,Tienda D1 La Ceja 4,,2026-01-01T08:22:38
+366,2025-04-07,5,Mc Dolars,33,Chaturbate,14,Diversiones,91,Charturbate,-88255,1,Pesos,-20.99,4204.63,,Mmbill.Com,,2026-01-01T08:22:38
+364,2025-04-07,2,Ahorros,47,Diego Lalinde,29,Mercado,175,Mercado,-42800,1,Pesos,,,,Transferencia Cta Suc Virtual,10270061525,2026-01-01T08:22:38
+365,2025-04-07,2,Ahorros,13,Angela María Duque Ossa,24,Komorebi,138,Jardín,-12000,1,Pesos,,,,Transferencia Cta Suc Virtual,50537795287,2026-01-01T08:22:38
+359,2025-04-06,2,Ahorros,60,Efrain Bernal,24,Komorebi,138,Jardín,-456000,1,Pesos,,,,Transferencia Cta Suc Virtual,02316536801,2026-01-01T08:22:38
+360,2025-04-06,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencia A Nequi,3014862783,2026-01-01T08:22:38
+361,2025-04-06,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-50000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+354,2025-04-05,2,Ahorros,113,Jose Fernando Gonzalez,52,Ventas,405,Cámara Sony,1050000,1,Pesos,,,,Transferencia Cta Suc Virtual,28233797661,2026-01-01T08:22:38
+355,2025-04-05,4,Mc Pesos,51,DollarCity,29,Mercado,175,Mercado,-73000,1,Pesos,,,,Dollarcity Viva La Cej,,2026-01-01T08:22:38
+357,2025-04-05,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-54245,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:22:38
+353,2025-04-05,2,Ahorros,98,Inversiones Party SAS,39,Regalos,326,Regalos,-24000,1,Pesos,,,,Pago Qr Inversiones Party Sa,987236033,2026-01-01T08:22:38
+358,2025-04-05,4,Mc Pesos,131,Locatel,43,Salud,342,Drogas,-19050,1,Pesos,,,,Locatel La Ceja,,2026-01-01T08:22:38
+351,2025-04-03,4,Mc Pesos,83,Godaddy,33,PH360,306,Dominio,-138998,1,Pesos,,,,"Dlo*Godaddycom,L",,2026-01-01T08:22:38
+350,2025-04-02,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-433100,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:38
+349,2025-04-02,2,Ahorros,6,Aislar JM Sas,7,Bosques.Bonsái,29,Alambre,-273300,1,Pesos,,,,Transferencia Cta Suc Virtual,13161765246,2026-01-01T08:22:38
+346,2025-04-01,2,Ahorros,133,Luis Fernando Londoño,29,Mercado,175,Mercado,-100000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+347,2025-04-01,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-50000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+335,2025-03-31,2,Ahorros,170,Parcelación Montemadero,24,Komorebi,127,Administración,-1274118,1,Pesos,,,,Transferencia Cta Suc Virtual,37594048360,2026-01-01T08:22:38
+337,2025-03-31,2,Ahorros,158,Nacy del Socorro Caro Montoya,29,Mercado,172,Atún,-150000,1,Pesos,,,,Transferencia Cta Suc Virtual,02344993001,2026-01-01T08:22:38
+336,2025-03-31,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-150000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+338,2025-03-31,2,Ahorros,45,Dian,22,Impuestos,117,4xMil,-49092,1,Pesos,,,,Impto Gobierno 4X1000,,2026-01-01T08:22:38
+345,2025-03-31,4,Mc Pesos,172,Pasteur,32,Perros,300,Drogas,-27046,1,Pesos,,,,Drogueria Pasteur Terp,,2026-01-01T08:22:38
+343,2025-03-31,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,-824,1,Pesos,,,,Retefte,,2026-01-01T08:22:38
+339,2025-03-31,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,78,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T08:22:38
+334,2025-03-30,4,Mc Pesos,210,Tigo,24,Komorebi,130,Celular e Internet,-99900,1,Pesos,,,,Une Telco Une Pago Exp,,2026-01-01T08:22:38
+330,2025-03-29,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-513220,1,Pesos,,,,Tienda D1 La Ceja 4,,2026-01-01T08:22:38
+329,2025-03-29,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencia A Nequi,3188899950,2026-01-01T08:22:38
+331,2025-03-29,4,Mc Pesos,172,Pasteur,43,Salud,342,Drogas,-64767,1,Pesos,,,,Drogueria Pasteur Terp,,2026-01-01T08:22:38
+332,2025-03-29,4,Mc Pesos,35,Comcel,24,Komorebi,131,Celular portada,-10000,1,Pesos,,,,Comcel Recargas T1 Pa,,2026-01-01T08:22:38
+333,2025-03-29,4,Mc Pesos,56,EDS El Encierro,24,Komorebi,138,Jardín,-6500,1,Pesos,,,,Eds El Encierro Ceja F,,2026-01-01T08:22:38
+323,2025-03-27,2,Ahorros,181,Protección,31,Pensión,298,Mesada,5478230,1,Pesos,,,,Pago De Nomi Proteccion,900379921,2026-01-01T08:22:38
+322,2025-03-27,2,Ahorros,81,Gases La Ceja,24,Komorebi,142,Pipetas de gas,-468200,1,Pesos,,,,Transferencia Cta Suc Virtual,02300001058,2026-01-01T08:22:38
+324,2025-03-27,5,Mc Dolars,15,Apple,24,Komorebi,129,Celular,-13244,1,Pesos,-3.09,4286.17,,Apple.Com/Bill,,2026-01-01T08:22:38
+317,2025-03-26,4,Mc Pesos,175,Plantas del Tambo,24,Komorebi,138,Jardín,-1474250,1,Pesos,,,,Plantas Del Tambo,,2026-01-01T08:22:38
+318,2025-03-26,4,Mc Pesos,10,Amazon,28,Menaje,157,Cocina,-184690,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+319,2025-03-26,4,Mc Pesos,157,Municipio de la Ceja,24,Komorebi,144,Predial,-83752,1,Pesos,,,,Municipio De La Ceja,,2026-01-01T08:22:38
+320,2025-03-26,4,Mc Pesos,10,Amazon,28,Menaje,157,Cocina,-53963,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+321,2025-03-26,4,Mc Pesos,10,Amazon,28,Menaje,157,Cocina,-33554,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+313,2025-03-25,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-754450,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:38
+314,2025-03-25,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-49440,1,Pesos,,,,Tienda D1 La Ceja 4,,2026-01-01T08:22:38
+315,2025-03-25,4,Mc Pesos,10,Amazon,29,Mercado,175,Mercado,-41285,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+312,2025-03-23,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencia A Nequi,3215905584,2026-01-01T08:22:38
+310,2025-03-22,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-200000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+305,2025-03-21,2,Ahorros,186,Robert Arley Torreglosa Diaz,24,Komorebi,139,Mantenimiento,-402000,1,Pesos,,,,Transferencia Cta Suc Virtual,36668572302,2026-01-01T08:22:38
+306,2025-03-21,2,Ahorros,60,Efrain Bernal,24,Komorebi,138,Jardín,-220000,1,Pesos,,,,Transferencia Cta Suc Virtual,02316536801,2026-01-01T08:22:38
+307,2025-03-21,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-84410,1,Pesos,,,,Tienda D1 La Ceja San,,2026-01-01T08:22:38
+308,2025-03-21,4,Mc Pesos,229,YouTube,16,Educación,105,YouTube,-41900,1,Pesos,,,,Dlo*Google Youtubeprem,,2026-01-01T08:22:38
+309,2025-03-21,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-33200,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:22:38
+301,2025-03-20,4,Mc Pesos,65,EPM,24,Komorebi,147,Servicios Públicos,-793651,1,Pesos,,,,Epm Servicios Publicos,,2026-01-01T08:22:38
+302,2025-03-20,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-220510,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:22:38
+300,2025-03-20,5,Mc Dolars,166,OpenAI,16,Educación,101,OpenAI,-85723,1,Pesos,-20,4286.17,,Openai *Chatgpt Subscr,,2026-01-01T08:22:38
+303,2025-03-20,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-83100,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:22:38
+304,2025-03-20,4,Mc Pesos,151,Mercolanta,29,Mercado,175,Mercado,-53400,1,Pesos,,,,Mercolanta Monte Mader,,2026-01-01T08:22:38
+299,2025-03-19,4,Mc Pesos,133,Luis Fernando Londoño,37,RC Gastos,312,Celular,-41310,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:22:38
+293,2025-03-18,2,Ahorros,88,Halis León Galindo,24,Komorebi,139,Mantenimiento,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:38
+294,2025-03-18,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-100000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+295,2025-03-18,4,Mc Pesos,75,FlyPass,10,Carro,80,Peajes,-100000,1,Pesos,,,,Recarga Automatica Flypass,,2026-01-01T08:22:38
+296,2025-03-18,4,Mc Pesos,126,La Vaquita,29,Mercado,175,Mercado,-40060,1,Pesos,,,,Supermerc La Vaquita P,,2026-01-01T08:22:38
+279,2025-03-17,2,Ahorros,209,Tidavi SAS,24,Komorebi,138,Jardín,-1075000,1,Pesos,,,,Transferencia Cta Suc Virtual,02300029020,2026-01-01T08:22:38
+290,2025-03-17,4,Mc Pesos,201,Suramericana,43,Salud,347,Prepagada,-890020,1,Pesos,,,,Suramericana Seguros D,,2026-01-01T08:22:38
+287,2025-03-17,5,Mc Dolars,82,GitHub,16,Educación,99,GitHub,-428617,1,Pesos,-100,4286.17,,"Github, Inc.",,2026-01-01T08:22:38
+281,2025-03-17,2,Ahorros,60,Efrain Bernal,24,Komorebi,138,Jardín,-220000,1,Pesos,,,,Transferencia Cta Suc Virtual,02316536801,2026-01-01T08:22:38
+282,2025-03-17,2,Ahorros,88,Halis León Galindo,24,Komorebi,139,Mantenimiento,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:38
+283,2025-03-17,2,Ahorros,133,Luis Fernando Londoño,7,Bosques.Bonsái,40,Materiales,-20000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+291,2025-03-17,4,Mc Pesos,35,Comcel,24,Komorebi,131,Celular portada,-5000,1,Pesos,,,,Comcel Recargas T1 Pa,,2026-01-01T08:22:38
+275,2025-03-16,2,Ahorros,23,Buñuelos de Oriente,40,Restaurantes,328,Restaurantes,-25900,1,Pesos,,,,Pago Qr Bunuelos Oriente,61658612882,2026-01-01T08:22:38
+276,2025-03-16,2,Ahorros,128,Licorera Cubatas,13,Deporte,90,Refrigerios,-17000,1,Pesos,,,,Pago Qr Licorera Cubatas,979494431,2026-01-01T08:22:38
+273,2025-03-15,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencia A Nequi,3014862783,2026-01-01T08:22:38
+274,2025-03-15,4,Mc Pesos,36,Corpaul,15,Donaciones,94,Corpaul,-10000,1,Pesos,,,,Corpaul,,2026-01-01T08:22:38
+267,2025-03-14,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-250000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+268,2025-03-14,2,Ahorros,88,Halis León Galindo,24,Komorebi,139,Mantenimiento,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:38
+270,2025-03-14,2,Ahorros,19,Bancolombia,4,Bancolombia,21,Cuota de manejo,-16990,1,Pesos,,,,Cuota Manejo Tarjeta Debito,,2026-01-01T08:22:38
+265,2025-03-13,5,Mc Dolars,2,Adobe,21,Fotografía,110,Adobe,-20231,1,Pesos,-4.72,4286.17,,Adobe.Com,,2026-01-01T08:22:38
+258,2025-03-12,2,Ahorros,141,Maria Elena Tobon de Llano,24,Komorebi,138,Jardín,-337000,1,Pesos,,,,Transferencia Cta Suc Virtual,10302345367,2026-01-01T08:22:38
+260,2025-03-12,2,Ahorros,127,Laura Carolina Zuluaga Ceballos,29,Mercado,175,Mercado,-140000,1,Pesos,,,,Transferencia Cta Suc Virtual,10847012891,2026-01-01T08:22:38
+262,2025-03-12,4,Mc Pesos,193,Sapig Sas,24,Komorebi,139,Mantenimiento,-136696,1,Pesos,,,,Inversiones Sapig Sas,,2026-01-01T08:22:38
+263,2025-03-12,4,Mc Pesos,132,Los Fierros,24,Komorebi,139,Mantenimiento,-82938,1,Pesos,,,,La Ceja,,2026-01-01T08:22:38
+261,2025-03-12,2,Ahorros,4,AgroBolivar,24,Komorebi,138,Jardín,-30900,1,Pesos,,,,Pago Qr Agrobolivar La Ceja,55600010382,2026-01-01T08:22:38
+264,2025-03-12,4,Mc Pesos,28,Capiro Vivero,24,Komorebi,138,Jardín,-25000,1,Pesos,,,,Capiro Vivero,,2026-01-01T08:22:38
+255,2025-03-11,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-287853,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:38
+252,2025-03-11,2,Ahorros,47,Diego Lalinde,29,Mercado,175,Mercado,-130000,1,Pesos,,,,Transferencia Cta Suc Virtual,10270061525,2026-01-01T08:22:38
+253,2025-03-11,2,Ahorros,88,Halis León Galindo,24,Komorebi,139,Mantenimiento,-120000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:38
+251,2025-03-10,2,Ahorros,217,Vitelco de Colombia SAS,24,Komorebi,141,Muebles,-77535,1,Pesos,,,,Transferencia Cta Suc Virtual,01539995923,2026-01-01T08:22:38
+247,2025-03-08,2,Ahorros,60,Efrain Bernal,24,Komorebi,138,Jardín,-220000,1,Pesos,,,,Transferencia Cta Suc Virtual,02316536801,2026-01-01T08:22:38
+248,2025-03-08,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencia A Nequi,3215905584,2026-01-01T08:22:38
+249,2025-03-08,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-100000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+250,2025-03-08,4,Mc Pesos,151,Mercolanta,29,Mercado,175,Mercado,-80400,1,Pesos,,,,Mercolanta Monte Mader,,2026-01-01T08:22:38
+246,2025-03-07,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-50000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+244,2025-03-06,4,Mc Pesos,10,Amazon,41,Ropa,332,Deportiva,-127217,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+245,2025-03-06,4,Mc Pesos,10,Amazon,28,Menaje,157,Cocina,-105042,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+240,2025-03-05,5,Mc Dolars,173,PDFFiller,16,Educación,102,PDF Filler,-411472,1,Pesos,-96,4286.17,,Supportpdffiller.Com,,2026-01-01T08:22:38
+242,2025-03-05,4,Mc Pesos,94,Hospital San Vicente,43,Salud,338,Citas,-50500,1,Pesos,,,,Fund Hosp S/Vicente Pa,,2026-01-01T08:22:38
+243,2025-03-05,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-46860,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:38
+237,2025-03-04,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-665258,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:38
+232,2025-03-04,2,Ahorros,142,Maria Isabel Gomez Botero,29,Mercado,175,Mercado,-160000,1,Pesos,,,,Transferencia Cta Suc Virtual,37987959038,2026-01-01T08:22:38
+233,2025-03-04,2,Ahorros,88,Halis León Galindo,24,Komorebi,139,Mantenimiento,-100000,1,Pesos,,,,Transferencia Cta Suc Virtual,00190644952,2026-01-01T08:22:38
+238,2025-03-04,4,Mc Pesos,38,Crepes y Waffles,29,Mercado,175,Mercado,-77800,1,Pesos,,,,Crepes Y Waffles Lemon,,2026-01-01T08:22:38
+234,2025-03-04,2,Ahorros,47,Diego Lalinde,29,Mercado,175,Mercado,-27000,1,Pesos,,,,Transferencia Cta Suc Virtual,10270061525,2026-01-01T08:22:38
+231,2025-03-03,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-154840,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:22:38
+229,2025-03-03,2,Ahorros,202,Susana Lalinde Escobar,39,Regalos,324,Familia,-100000,1,Pesos,,,,Transferencia Cta Suc Virtual,10022305343,2026-01-01T08:22:38
+230,2025-03-03,2,Ahorros,98,Inversiones Party SAS,40,Restaurantes,328,Restaurantes,-12000,1,Pesos,,,,Pago Qr Inversiones Party Sas,2300005432,2026-01-01T08:22:38
+227,2025-03-01,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencia A Nequi,3215905584,2026-01-01T08:22:38
+228,2025-03-01,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-10000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+218,2025-02-28,2,Ahorros,60,Efrain Bernal,24,Komorebi,138,Jardín,-220000,1,Pesos,,,,Transferencia Cta Suc Virtual,02316536801,2026-01-01T08:22:38
+219,2025-02-28,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-50000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+220,2025-02-28,2,Ahorros,161,Natalia Villa Martinez,29,Mercado,175,Mercado,-45000,1,Pesos,,,,Transferencia Cta Suc Virtual,02413682366,2026-01-01T08:22:38
+221,2025-02-28,2,Ahorros,45,Dian,22,Impuestos,117,4xMil,-27649,1,Pesos,,,,Impto Gobierno 4X1000,,2026-01-01T08:22:38
+225,2025-02-28,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-26880,1,Pesos,,,,Tienda D1 Carmen Tezen,,2026-01-01T08:22:38
+224,2025-02-28,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,-310,1,Pesos,,,,Retefte,,2026-01-01T08:22:38
+222,2025-02-28,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,90,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T08:22:38
+216,2025-02-27,4,Mc Pesos,29,Cardiovida,43,Salud,343,Examenes,-32900,1,Pesos,,,,Cardiovida Colombia,,2026-01-01T08:22:38
+215,2025-02-27,5,Mc Dolars,15,Apple,24,Komorebi,129,Celular,-12354,1,Pesos,-3.14,3934.34,,Apple.Com/Bill,,2026-01-01T08:22:38
+212,2025-02-26,2,Ahorros,181,Protección,31,Pensión,298,Mesada,5478230,1,Pesos,,,,Pago De Nomi Proteccion,900379921,2026-01-01T08:22:38
+210,2025-02-26,2,Ahorros,144,Maritza Milena Posada,7,Bosques.Bonsái,32,Árboles,-220000,1,Pesos,,,,Pago Qr Maritza Milena Posada,55758346161,2026-01-01T08:22:38
+211,2025-02-26,2,Ahorros,226,Yenny Yolima Villegas Aristizabal,29,Mercado,175,Mercado,-70000,1,Pesos,,,,Transferencia A Nequi,3146167578,2026-01-01T08:22:38
+205,2025-02-25,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-419400,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:38
+206,2025-02-25,4,Mc Pesos,180,PriceSmart,32,Perros,299,Cuido,-143900,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:38
+207,2025-02-25,4,Mc Pesos,75,FlyPass,10,Carro,80,Peajes,-100000,1,Pesos,,,,Recarga Automatica Flypass,,2026-01-01T08:22:38
+208,2025-02-25,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-73890,1,Pesos,,,,Tienda D1 La Ceja 4,,2026-01-01T08:22:38
+203,2025-02-25,2,Ahorros,12,Andrea Latorre,29,Mercado,173,Empanadas,-69000,1,Pesos,,,,Transferencia A Nequi,3148102772,2026-01-01T08:22:38
+209,2025-02-25,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-10900,1,Pesos,,,,Tienda D1 La Ceja 4,,2026-01-01T08:22:38
+201,2025-02-24,4,Mc Pesos,210,Tigo,24,Komorebi,130,Celular e Internet,-99900,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:22:38
+198,2025-02-23,2,Ahorros,60,Efrain Bernal,24,Komorebi,138,Jardín,-237000,1,Pesos,,,,Transferencia Cta Suc Virtual,02316536801,2026-01-01T08:22:38
+199,2025-02-23,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencia A Nequi,3215905584,2026-01-01T08:22:38
+197,2025-02-22,2,Ahorros,26,Café Victoria,40,Restaurantes,328,Restaurantes,-26000,1,Pesos,,,,Pago Qr Cafe Victoria,929306503,2026-01-01T08:22:38
+195,2025-02-21,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-150000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+196,2025-02-21,4,Mc Pesos,229,YouTube,16,Educación,105,YouTube,-41900,1,Pesos,,,,Dlo*Google Youtubeprem,,2026-01-01T08:22:38
+194,2025-02-20,4,Mc Pesos,65,EPM,24,Komorebi,147,Servicios Públicos,-876088,1,Pesos,,,,Epm Servicios Publicos,,2026-01-01T08:22:38
+193,2025-02-20,5,Mc Dolars,166,OpenAI,16,Educación,101,OpenAI,-78687,1,Pesos,-20,3934.34,,Openai *Chatgpt Subscr,,2026-01-01T08:22:38
+191,2025-02-19,4,Mc Pesos,10,Amazon,41,Ropa,335,Zapatos,-471140,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+192,2025-02-19,4,Mc Pesos,133,Luis Fernando Londoño,37,RC Gastos,312,Celular,-41310,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:22:38
+187,2025-02-18,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-484561,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:22:38
+188,2025-02-18,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-342960,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:38
+189,2025-02-18,4,Mc Pesos,74,Fijaciones Orozco,24,Komorebi,139,Mantenimiento,-102340,1,Pesos,,,,Fijaciones Orozco,,2026-01-01T08:22:38
+185,2025-02-18,2,Ahorros,47,Diego Lalinde,29,Mercado,175,Mercado,-61000,1,Pesos,,,,Transferencia Cta Suc Virtual,10270061525,2026-01-01T08:22:38
+186,2025-02-18,2,Ahorros,125,La Tienda del Ebanista,7,Bosques.Bonsái,40,Materiales,-38000,1,Pesos,,,,Pago Qr La Tienda Del Ebanist,949169501,2026-01-01T08:22:38
+184,2025-02-17,4,Mc Pesos,201,Suramericana,43,Salud,347,Prepagada,-890020,1,Pesos,,,,Suramericana Seguros D,,2026-01-01T08:22:38
+179,2025-02-17,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-210000,1,Pesos,,,,Transferencia A Nequi,3215905584,2026-01-01T08:22:38
+180,2025-02-17,2,Ahorros,60,Efrain Bernal,24,Komorebi,138,Jardín,-110000,1,Pesos,,,,Transferencia Cta Suc Virtual,02316536801,2026-01-01T08:22:38
+181,2025-02-17,2,Ahorros,52,Doris Elena Caro Montoya,29,Mercado,172,Atún,-45000,1,Pesos,,,,Transferencia Cta Suc Virtual,10878121206,2026-01-01T08:22:38
+182,2025-02-17,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-30000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+176,2025-02-15,4,Mc Pesos,36,Corpaul,15,Donaciones,94,Corpaul,-10000,1,Pesos,,,,Corpaul,,2026-01-01T08:22:38
+173,2025-02-14,4,Mc Pesos,75,FlyPass,10,Carro,80,Peajes,-100000,1,Pesos,,,,Recarga Automatica Flypass,,2026-01-01T08:22:38
+174,2025-02-14,4,Mc Pesos,10,Amazon,28,Menaje,157,Cocina,-85193,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+172,2025-02-14,2,Ahorros,19,Bancolombia,4,Bancolombia,21,Cuota de manejo,-16990,1,Pesos,,,,Cuota Manejo Tarjeta Debito,,2026-01-01T08:22:38
+168,2025-02-13,4,Mc Pesos,137,MacroDrogas,43,Salud,342,Drogas,-165700,1,Pesos,,,,Inversiones Ramej Sas,,2026-01-01T08:22:38
+169,2025-02-13,4,Mc Pesos,10,Amazon,28,Menaje,157,Cocina,-97979,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+170,2025-02-13,4,Mc Pesos,10,Amazon,28,Menaje,161,Herramientas,-29748,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+167,2025-02-13,5,Mc Dolars,2,Adobe,21,Fotografía,110,Adobe,-18491,1,Pesos,-4.7,3934.34,,Adobe.Com,,2026-01-01T08:22:38
+165,2025-02-13,2,Ahorros,19,Bancolombia,4,Bancolombia,17,Ajustes,-2,1,Pesos,,,,Ajuste Interes Ahorros Db,,2026-01-01T08:22:38
+153,2025-02-11,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-816668,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:38
+155,2025-02-11,4,Mc Pesos,51,DollarCity,29,Mercado,175,Mercado,-46000,1,Pesos,,,,Dollarcity Viva La Cej,,2026-01-01T08:22:38
+150,2025-02-10,2,Ahorros,60,Efrain Bernal,24,Komorebi,138,Jardín,-220000,1,Pesos,,,,Transferencia Cta Suc Virtual,02316536801,2026-01-01T08:22:38
+151,2025-02-10,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-90000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+148,2025-02-08,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-84420,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:38
+149,2025-02-08,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-81350,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:38
+142,2025-02-07,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,313,Foto Multa,-1650000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+141,2025-02-06,4,Mc Pesos,10,Amazon,28,Menaje,157,Cocina,-93113,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+139,2025-02-05,4,Mc Pesos,10,Amazon,28,Menaje,158,Equipos,-170294,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+138,2025-02-05,5,Mc Dolars,173,PDFFiller,16,Educación,102,PDF Filler,-43278,1,Pesos,-11,3934.34,,Supportpdffiller.Com,,2026-01-01T08:22:38
+134,2025-02-04,2,Ahorros,32,Cesar David Jaramillo Bermudez,7,Bosques.Bonsái,32,Árboles,-200000,1,Pesos,,,,Transferencia Cta Suc Virtual,24317498060,2026-01-01T08:22:38
+136,2025-02-04,2,Ahorros,101,Ivan Dario Perez Restrepo,24,Komorebi,134,Equipos,-10000,1,Pesos,,,,Transferencia Cta Suc Virtual,10170001401,2026-01-01T08:22:38
+128,2025-02-03,2,Ahorros,60,Efrain Bernal,24,Komorebi,138,Jardín,-220000,1,Pesos,,,,Transferencia Cta Suc Virtual,02316536801,2026-01-01T08:22:38
+132,2025-02-03,4,Mc Pesos,10,Amazon,41,Ropa,330,Camisetas,-130106,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+129,2025-02-03,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencia A Nequi,3215905584,2026-01-01T08:22:38
+133,2025-02-03,4,Mc Pesos,10,Amazon,32,Perros,301,Equipos,-72653,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+131,2025-02-03,5,Mc Dolars,173,PDFFiller,16,Educación,102,PDF Filler,-433,1,Pesos,-0.11,3934.34,,Supportpdffiller.Com,,2026-01-01T08:22:38
+127,2025-02-02,5,Mc Dolars,37,Coursera,16,Educación,97,Coursera,-549431,1,Pesos,-139.65,3934.34,,Coursera.Org,,2026-01-01T08:22:38
+124,2025-02-01,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-115890,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:38
+125,2025-02-01,4,Mc Pesos,75,FlyPass,10,Carro,80,Peajes,-100000,1,Pesos,,,,Recarga Automatica Flypass,,2026-01-01T08:22:38
+115,2025-01-31,2,Ahorros,170,Parcelación Montemadero,24,Komorebi,127,Administración,-580118,1,Pesos,,,,Transferencia Cta Suc Virtual,37594048360,2026-01-01T08:22:38
+119,2025-01-31,4,Mc Pesos,133,Luis Fernando Londoño,37,RC Gastos,317,Moto,-452911,1,Pesos,,,,Simit Vias Urbanas,,2026-01-01T08:22:38
+120,2025-01-31,4,Mc Pesos,151,Mercolanta,29,Mercado,175,Mercado,-49150,1,Pesos,,,,Mercolanta Monte Mader,,2026-01-01T08:22:38
+121,2025-01-31,4,Mc Pesos,151,Mercolanta,40,Restaurantes,328,Restaurantes,-44300,1,Pesos,,,,Mercolanta Monte Mader,,2026-01-01T08:22:38
+116,2025-01-31,2,Ahorros,45,Dian,22,Impuestos,117,4xMil,-41678,1,Pesos,,,,Impto Gobierno 4X1000,,2026-01-01T08:22:38
+122,2025-01-31,4,Mc Pesos,150,Mercado Pago,29,Mercado,175,Mercado,-9068,1,Pesos,,,,Mercpago*Puntos,,2026-01-01T08:22:38
+117,2025-01-31,2,Ahorros,19,Bancolombia,4,Bancolombia,23,Intereses,161,1,Pesos,,,,Abono Intereses Ahorros,,2026-01-01T08:22:38
+118,2025-01-31,3,FondoRenta,45,Dian,22,Impuestos,121,Rte Fuente,-4,1,Pesos,,,,Retefte,,2026-01-01T08:22:38
+111,2025-01-30,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-120000,1,Pesos,,,,Transferencia A Nequi,3233942637,2026-01-01T08:22:38
+112,2025-01-30,4,Mc Pesos,54,Ecoplásticos,29,Mercado,174,Menaje,-119800,1,Pesos,,,,Ecoplasticos La Ceja,,2026-01-01T08:22:38
+107,2025-01-29,2,Ahorros,181,Protección,31,Pensión,298,Mesada,5478230,1,Pesos,,,,Pago De Nomi Proteccion,900379921,2026-01-01T08:22:38
+108,2025-01-29,4,Mc Pesos,85,Grupo 5 Limitada,24,Komorebi,139,Mantenimiento,-331200,1,Pesos,,,,Mercpago*Grupor5Limita,,2026-01-01T08:22:38
+105,2025-01-29,2,Ahorros,148,Materiales Playa Blanca,7,Bosques.Bonsái,41,Sustratos,-180000,1,Pesos,,,,Pago Qr Playa Blanca,948103139,2026-01-01T08:22:38
+109,2025-01-29,4,Mc Pesos,133,Luis Fernando Londoño,37,RC Gastos,317,Moto,-153100,1,Pesos,,,,Cenintra N 2,,2026-01-01T08:22:38
+110,2025-01-29,4,Mc Pesos,38,Crepes y Waffles,29,Mercado,175,Mercado,-77800,1,Pesos,,,,Crepes Y Waffles Llano,,2026-01-01T08:22:38
+106,2025-01-29,2,Ahorros,16,Arlex Arias Amaya,37,RC Gastos,313,Foto Multa,-40000,1,Pesos,,,,Transferencia A Nequi,3188603662,2026-01-01T08:22:38
+104,2025-01-27,4,Mc Pesos,210,Tigo,24,Komorebi,130,Celular e Internet,-99900,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:22:38
+103,2025-01-27,5,Mc Dolars,15,Apple,24,Komorebi,129,Celular,-11960,1,Pesos,-3.04,3934.34,,Apple.Com/Bill,,2026-01-01T08:22:38
+101,2025-01-26,2,Ahorros,32,Cesar David Jaramillo Bermudez,7,Bosques.Bonsái,32,Árboles,-145000,1,Pesos,,,,Transferencia Cta Suc Virtual,24317498060,2026-01-01T08:22:38
+102,2025-01-26,2,Ahorros,26,Café Victoria,40,Restaurantes,328,Restaurantes,-38000,1,Pesos,,,,Pago Qr Cafe Victoria,929306503,2026-01-01T08:22:38
+96,2025-01-25,4,Mc Pesos,107,JF La Montaña,13,Deporte,87,Bicicleta,-408000,1,Pesos,,,,Jf La Monta@A,,2026-01-01T08:22:38
+93,2025-01-25,2,Ahorros,60,Efrain Bernal,24,Komorebi,138,Jardín,-220000,1,Pesos,,,,Transferencia Cta Suc Virtual,02316536801,2026-01-01T08:22:38
+97,2025-01-25,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-144270,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:38
+98,2025-01-25,4,Mc Pesos,54,Ecoplásticos,29,Mercado,174,Menaje,-119800,1,Pesos,,,,Ecoplasticos La Ceja,,2026-01-01T08:22:38
+94,2025-01-25,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencia A Nequi,3215905584,2026-01-01T08:22:38
+95,2025-01-25,2,Ahorros,122,Juan Quintero,29,Mercado,175,Mercado,-43400,1,Pesos,,,,Pago Qr Juan Quintero,41258577351,2026-01-01T08:22:38
+99,2025-01-25,4,Mc Pesos,154,Movistar,24,Komorebi,131,Celular portada,-3000,1,Pesos,,,,Movistar Epayco Recar,,2026-01-01T08:22:38
+100,2025-01-25,4,Mc Pesos,210,Tigo,24,Komorebi,131,Celular portada,-3000,1,Pesos,,,,Tigo Eccomerce,,2026-01-01T08:22:38
+89,2025-01-24,2,Ahorros,144,Maritza Milena Posada,7,Bosques.Bonsái,32,Árboles,-213000,1,Pesos,,,,Pago Qr Maritza Milena Posada,55758346161,2026-01-01T08:22:38
+90,2025-01-24,2,Ahorros,63,Empanadas caucanas,40,Restaurantes,328,Restaurantes,-48600,1,Pesos,,,,Transf Qr Johana Botero Zapat,41235301499,2026-01-01T08:22:38
+92,2025-01-24,4,Mc Pesos,168,Pagos Online,24,Komorebi,133,Documentos,-39900,1,Pesos,,,,Pagosonline*Dl,,2026-01-01T08:22:38
+84,2025-01-23,4,Mc Pesos,65,EPM,24,Komorebi,147,Servicios Públicos,-846836,1,Pesos,,,,Epm Servicios Publicos,,2026-01-01T08:22:38
+85,2025-01-23,4,Mc Pesos,28,Capiro Vivero,24,Komorebi,138,Jardín,-297000,1,Pesos,,,,Capiro Vivero,,2026-01-01T08:22:38
+86,2025-01-23,4,Mc Pesos,5,Agrofertil,24,Komorebi,138,Jardín,-79000,1,Pesos,,,,Agrofertil Colombia,,2026-01-01T08:22:38
+83,2025-01-23,2,Ahorros,155,Mundo Colores La Ceja,24,Komorebi,139,Mantenimiento,-15900,1,Pesos,,,,Pago Qr Mundocolores La Ceja,960809910,2026-01-01T08:22:38
+87,2025-01-23,4,Mc Pesos,157,Municipio de la Ceja,24,Komorebi,144,Predial,-2300,1,Pesos,,,,Municipio De La Ceja,,2026-01-01T08:22:38
+81,2025-01-22,2,Ahorros,230,Yovany Humberto Lopez Cano,29,Mercado,175,Mercado,-50000,1,Pesos,,,,Transferencia Cta Suc Virtual,10302316679,2026-01-01T08:22:38
+78,2025-01-21,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-521691,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:38
+73,2025-01-21,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-100000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+79,2025-01-21,4,Mc Pesos,75,FlyPass,10,Carro,80,Peajes,-100000,1,Pesos,,,,Recarga Automatica Flypass,,2026-01-01T08:22:38
+80,2025-01-21,4,Mc Pesos,229,YouTube,16,Educación,105,YouTube,-41900,1,Pesos,,,,Dlo*Google Youtubeprem,,2026-01-01T08:22:38
+74,2025-01-21,2,Ahorros,63,Empanadas caucanas,40,Restaurantes,328,Restaurantes,-36000,1,Pesos,,,,Transf Qr Johana Botero Zapat,41235301499,2026-01-01T08:22:38
+68,2025-01-20,2,Ahorros,32,Cesar David Jaramillo Bermudez,7,Bosques.Bonsái,33,Entrenamientos,-870000,1,Pesos,,,,Transferencia Cta Suc Virtual,24317498060,2026-01-01T08:22:38
+70,2025-01-20,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-144300,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:22:38
+69,2025-01-20,5,Mc Dolars,166,OpenAI,16,Educación,101,OpenAI,-78687,1,Pesos,-20,3934.34,,Openai *Chatgpt Subscr,,2026-01-01T08:22:38
+71,2025-01-20,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-67520,1,Pesos,,,,Tienda D1 La Ceja San,,2026-01-01T08:22:38
+72,2025-01-20,4,Mc Pesos,133,Luis Fernando Londoño,37,RC Gastos,312,Celular,-38610,1,Pesos,,,,Tigo Servicios Hogar Y,,2026-01-01T08:22:38
+64,2025-01-18,2,Ahorros,216,Victor Mesa,9,Bosques.Terrarios,67,Ventas,280000,1,Pesos,,,,Transferencia Cta Suc Virtual,54100043290,2026-01-01T08:22:38
+60,2025-01-18,2,Ahorros,60,Efrain Bernal,24,Komorebi,138,Jardín,-230000,1,Pesos,,,,Transferencia Cta Suc Virtual,02316536801,2026-01-01T08:22:38
+61,2025-01-18,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-105000,1,Pesos,,,,Transferencia A Nequi,3215905584,2026-01-01T08:22:38
+65,2025-01-18,1,Efectivo,40,D1,29,Mercado,175,Mercado,-100000,1,Pesos,,,,,,2026-01-01T08:22:38
+62,2025-01-18,2,Ahorros,12,Andrea Latorre,29,Mercado,173,Empanadas,-66000,1,Pesos,,,,Transferencia A Nequi,3148102772,2026-01-01T08:22:38
+66,2025-01-18,1,Efectivo,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-20000,1,Pesos,,,,,,2026-01-01T08:22:38
+63,2025-01-18,2,Ahorros,128,Licorera Cubatas,13,Deporte,90,Refrigerios,-16000,1,Pesos,,,,Pago Qr Licorera Cubatas,979494431,2026-01-01T08:22:38
+67,2025-01-18,1,Efectivo,128,Licorera Cubatas,13,Deporte,90,Refrigerios,-16000,1,Pesos,,,,,,2026-01-01T08:22:38
+56,2025-01-16,4,Mc Pesos,201,Suramericana,43,Salud,347,Prepagada,-890020,1,Pesos,,,,Suramericana Seguros D,,2026-01-01T08:22:38
+49,2025-01-15,4,Mc Pesos,36,Corpaul,15,Donaciones,94,Corpaul,-10000,1,Pesos,,,,Corpaul,,2026-01-01T08:22:38
+43,2025-01-14,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-1600645,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:38
+42,2025-01-14,2,Ahorros,133,Luis Fernando Londoño,9,Bosques.Terrarios,67,Ventas,190000,1,Pesos,,,,Consig Local Caj Multi San Nic,Por Definir,2026-01-01T08:22:38
+44,2025-01-14,4,Mc Pesos,180,PriceSmart,32,Perros,299,Cuido,-143900,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:38
+45,2025-01-14,4,Mc Pesos,172,Pasteur,43,Salud,342,Drogas,-80511,1,Pesos,,,,Drogueria Pasteur Terp,,2026-01-01T08:22:38
+46,2025-01-14,4,Mc Pesos,180,PriceSmart,29,Mercado,175,Mercado,-54375,1,Pesos,,,,Pricesmart,,2026-01-01T08:22:38
+47,2025-01-14,4,Mc Pesos,151,Mercolanta,29,Mercado,175,Mercado,-50850,1,Pesos,,,,Mercolanta Monte Mader,,2026-01-01T08:22:38
+36,2025-01-13,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,315,Gastos,-200000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+35,2025-01-13,2,Ahorros,133,Luis Fernando Londoño,37,RC Gastos,319,Paty,-200000,1,Pesos,,,,Transferencia A Nequi,3233936834,2026-01-01T08:22:38
+38,2025-01-13,2,Ahorros,227,Yolima Baquero,24,Komorebi,128,Aseo,-100000,1,Pesos,,,,Transferencia A Nequi,3215905584,2026-01-01T08:22:38
+37,2025-01-13,2,Ahorros,60,Efrain Bernal,24,Komorebi,138,Jardín,-100000,1,Pesos,,,,Transferencia Cta Suc Virtual,02316536801,2026-01-01T08:22:38
+41,2025-01-13,4,Mc Pesos,206,Temu,28,Menaje,161,Herramientas,-93572,1,Pesos,,,,Dlo*Temu.Com,,2026-01-01T08:22:38
+39,2025-01-13,5,Mc Dolars,2,Adobe,21,Fotografía,110,Adobe,-17823,1,Pesos,-4.53,3934.34,,Adobe.Com,,2026-01-01T08:22:38
+34,2025-01-12,4,Mc Pesos,10,Amazon,28,Menaje,161,Herramientas,-615697,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+31,2025-01-11,2,Ahorros,19,Bancolombia,4,Bancolombia,17,Ajustes,0,1,Pesos,,,,Ajuste Interes Ahorros Db,,2026-01-01T08:22:38
+32,2025-01-11,4,Mc Pesos,10,Amazon,28,Menaje,161,Herramientas,-243786,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+30,2025-01-11,2,Ahorros,19,Bancolombia,4,Bancolombia,21,Cuota de manejo,-16990,1,Pesos,,,,Cuota Manejo Tarjeta Debito,,2026-01-01T08:22:38
+28,2025-01-10,2,Ahorros,104,Jaime Toro,7,Bosques.Bonsái,43,Ventas,200000,1,Pesos,,,,Transferencia Cta Suc Virtual,00796965975,2026-01-01T08:22:38
+29,2025-01-10,5,Mc Dolars,166,OpenAI,16,Educación,101,OpenAI,-19672,1,Pesos,-5,3934.34,,Openai,,2026-01-01T08:22:38
+27,2025-01-09,4,Mc Pesos,68,Éxito,29,Mercado,175,Mercado,-168838,1,Pesos,,,,Exito La Ceja,,2026-01-01T08:22:38
+26,2025-01-09,2,Ahorros,98,Inversiones Party SAS,29,Mercado,175,Mercado,-25000,1,Pesos,,,,Transf Qr,,2026-01-01T08:22:38
+20,2025-01-08,1,Efectivo,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-150000,1,Pesos,,,,,,2026-01-01T08:22:38
+15,2025-01-07,4,Mc Pesos,10,Amazon,32,Perros,301,Equipos,-186638,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+13,2025-01-06,1,Efectivo,133,Luis Fernando Londoño,37,RC Gastos,320,Personales,-50000,1,Pesos,,,,,,2026-01-01T08:22:38
+12,2025-01-05,4,Mc Pesos,10,Amazon,28,Menaje,157,Cocina,-184617,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+11,2025-01-05,2,Ahorros,172,Pasteur,32,Perros,300,Drogas,-16500,1,Pesos,,,,Transferencia Cta Suc Virtual,10022150893,2026-01-01T08:22:38
+9,2025-01-04,4,Mc Pesos,40,D1,29,Mercado,175,Mercado,-126120,1,Pesos,,,,Tienda D1 Cantarrana,,2026-01-01T08:22:38
+10,2025-01-04,4,Mc Pesos,10,Amazon,28,Menaje,157,Cocina,-44787,1,Pesos,,,,Amazon.Com,,2026-01-01T08:22:38
+6,2025-01-01,4,Mc Pesos,150,Mercado Pago,28,Menaje,169,Ropa,-244860,1,Pesos,,,,Mercadopago Colombia,,2026-01-01T08:22:38
+TOTAL,,,,,,,,,,-144411340.9,,,-1252.7900000000002,,,,,

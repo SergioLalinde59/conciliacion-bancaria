@@ -1,0 +1,30 @@
+# Fix para asignar_clasificacion_movimiento_ui.py
+# Reemplazar las líneas 497-517 con esto:
+
+            # Mostrar tercero actual si existe
+            if tercero_id:
+                cursor.execute("SELECT tercero FROM terceros WHERE terceroid = %s", (tercero_id,))
+                tercero_nombre = cursor.fetchone()
+                if tercero_nombre:
+                    self.lbl_tercero_actual.config(text=f"{tercero_id} - {tercero_nombre[0]}", foreground='green')
+                    self.lbl_tercero_actual.grid(row=0, column=0, sticky=tk.W)
+                    self.btn_cambiar_tercero.grid(row=0, column=1, padx=2)
+                    self.btn_crear_tercero.grid_forget()
+                    self.tercero_combo.grid_forget()
+                    self.tercero_seleccionado_id = tercero_id
+            else:
+                # Sin tercero asignado - mostrar búsqueda
+                try:
+                    self.lbl_tercero_actual.config(text="(Sin asignar)", foreground='red')
+                    self.lbl_tercero_actual.grid_forget()
+                    # Mostrar combo de búsqueda  
+                    self.tercero_combo.grid(row=0, column=0, sticky=(tk.W, tk.E))
+                    self.btn_crear_tercero.grid(row=0, column=1, padx=2)
+                    self.btn_cambiar_tercero.grid_forget()
+                    # Cargar lista de terceros con fuzzy matching si hay descripción
+                    self.cargar_terceros_para_busqueda(desc)
+                    self.tercero_seleccionado_id = None
+                except AttributeError as e:
+                    self.agregar_log(f"✗ Error configurando tercero: {e}", 'error')
+                except Exception as e:
+                    self.agregar_log(f"✗ Error inesperado: {e}", 'error')

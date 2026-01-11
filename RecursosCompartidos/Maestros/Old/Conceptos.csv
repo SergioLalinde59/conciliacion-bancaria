@@ -1,0 +1,406 @@
+ClaveConcepto,ConceptoID,Grupo,Concepto,GrupoID
+Animales-Gallinas,1,Animales,Gallinas,1
+Apartamento-Administración,2,Apartamento,Administración,2
+Apartamento-Arriendo,3,Apartamento,Arriendo,2
+Apartamento-Aseo,4,Apartamento,Aseo,2
+Apartamento-Internet,5,Apartamento,Internet,2
+Apartamento-Mantenimiento,6,Apartamento,Mantenimiento,2
+Apartamento-Servicios públicos,7,Apartamento,Servicios públicos,2
+Apto 402 - Venta-Abono,8,Apto 402 - Venta,Abono,3
+Apto 402 - Venta-Certificados de libertad El Avila,9,Apto 402 - Venta,Certificados de libertad El Avila,3
+Apto 402 - Venta-Copia escritura hipoteca conavi,10,Apto 402 - Venta,Copia escritura hipoteca conavi,3
+Apto 402 - Venta-Documentos,11,Apto 402 - Venta,Documentos,3
+Apto 402 - Venta-Escritura 402,12,Apto 402 - Venta,Escritura 402,3
+Apto 402 - Venta-Intereses,13,Apto 402 - Venta,Intereses,3
+Apto 402 - Venta-Levantamiento Bancolombia,14,Apto 402 - Venta,Levantamiento Bancolombia,3
+Apto 402 - Venta-Proceso compra venta J. Zuñiga,15,Apto 402 - Venta,Proceso compra venta J. Zuñiga,3
+Apto 402 - Venta-Vueltas levatar valorización,16,Apto 402 - Venta,Vueltas levatar valorización,3
+Bancolombia-Ajustes,17,Bancolombia,Ajustes,4
+Bancolombia-Bancos,18,Bancolombia,Bancos,4
+Bancolombia-Comisiones,19,Bancolombia,Comisiones,4
+Bancolombia-Compras,20,Bancolombia,Compras,4
+Bancolombia-Cuota de manejo,21,Bancolombia,Cuota de manejo,4
+Bancolombia-Devoluciones,22,Bancolombia,Devoluciones,4
+Bancolombia-Intereses,23,Bancolombia,Intereses,4
+Bancolombia-Pagos,24,Bancolombia,Pagos,4
+Bancolombia-Retiro Cajeros,25,Bancolombia,Retiro Cajeros,4
+Beguido-Venta-Beguido-Venta,26,Beguido-Venta,Beguido-Venta,5
+Beguido-Venta-Escritura,27,Beguido-Venta,Escritura,5
+Beguido-Venta-Rte Fte,28,Beguido-Venta,Rte Fte,5
+Bosques.Bonsái-Alambre,29,Bosques.Bonsái,Alambre,7
+Bosques.Bonsái-Ayudantes,30,Bosques.Bonsái,Ayudantes,7
+Bosques.Bonsái-Atomizadores,31,Bosques.Bonsái,Atomizadores,7
+Bosques.Bonsái-Árboles,32,Bosques.Bonsái,Árboles,7
+Bosques.Bonsái-Entrenamientos,33,Bosques.Bonsái,Entrenamientos,7
+Bosques.Bonsái-Envios,34,Bosques.Bonsái,Envios,7
+Bosques.Bonsái-Eventos,35,Bosques.Bonsái,Eventos,7
+Bosques.Bonsái-Fertilizantes,36,Bosques.Bonsái,Fertilizantes,7
+Bosques.Bonsái-Herramientas,37,Bosques.Bonsái,Herramientas,7
+Bosques.Bonsái-Mantenimientos,38,Bosques.Bonsái,Mantenimientos,7
+Bosques.Bonsái-Materas,39,Bosques.Bonsái,Materas,7
+Bosques.Bonsái-Materiales,40,Bosques.Bonsái,Materiales,7
+Bosques.Bonsái-Sustratos,41,Bosques.Bonsái,Sustratos,7
+Bosques.Bonsái-Trasporte,42,Bosques.Bonsái,Trasporte,7
+Bosques.Bonsái-Ventas,43,Bosques.Bonsái,Ventas,7
+Bosques.Cuadros-Insumos,44,Bosques.Cuadros,Insumos,8
+Bosques.Cuadros-MO Halis,45,Bosques.Cuadros,MO Halis,8
+Bosques.Cuadros-Musgos,46,Bosques.Cuadros,Musgos,8
+Bosques.Cuadros-Otros,47,Bosques.Cuadros,Otros,8
+Bosques.Cuadros-Ventas,48,Bosques.Cuadros,Ventas,8
+Bosques.Cuadros-Trasporte,49,Bosques.Cuadros,Trasporte,8
+Bosques.Terrarios-Ayudantes,50,Bosques.Terrarios,Ayudantes,9
+Bosques.Terrarios-Atomizadores,51,Bosques.Terrarios,Atomizadores,9
+Bosques.Terrarios-Entrenamientos,52,Bosques.Terrarios,Entrenamientos,9
+Bosques.Terrarios-Envios,53,Bosques.Terrarios,Envios,9
+Bosques.Terrarios-Eventos,54,Bosques.Terrarios,Eventos,9
+Bosques.Terrarios-Fertilizantes,55,Bosques.Terrarios,Fertilizantes,9
+Bosques.Terrarios-Frascos,56,Bosques.Terrarios,Frascos,9
+Bosques.Terrarios-Herramientas,57,Bosques.Terrarios,Herramientas,9
+Bosques.Terrarios-Impresión 3D,58,Bosques.Terrarios,Impresión 3D,9
+Bosques.Terrarios-Lámparas,59,Bosques.Terrarios,Lámparas,9
+Bosques.Terrarios-Mantenimientos,60,Bosques.Terrarios,Mantenimientos,9
+Bosques.Terrarios-Materiales,61,Bosques.Terrarios,Materiales,9
+Bosques.Terrarios-Musgos,62,Bosques.Terrarios,Musgos,9
+Bosques.Terrarios-Orquídeas,63,Bosques.Terrarios,Orquídeas,9
+Bosques.Terrarios-Plantas,64,Bosques.Terrarios,Plantas,9
+Bosques.Terrarios-Sustratos,65,Bosques.Terrarios,Sustratos,9
+Bosques.Terrarios-Trasporte,66,Bosques.Terrarios,Trasporte,9
+Bosques.Terrarios-Ventas,67,Bosques.Terrarios,Ventas,9
+Bosques.Terrarios-Vidrios,68,Bosques.Terrarios,Vidrios,9
+Bosques.Terrarios-Vitrales,69,Bosques.Terrarios,Vitrales,9
+Carro-Audi Q5,70,Carro,Audi Q5,10
+Carro-Casco,71,Carro,Casco,10
+Carro-ICar 03,72,Carro,ICar 03,10
+Carro-Diesel,73,Carro,Diesel,10
+Carro-Gasolina,74,Carro,Gasolina,10
+Carro-Impuestos,75,Carro,Impuestos,10
+Carro-Lavadas,76,Carro,Lavadas,10
+Carro-Mantenimiento,77,Carro,Mantenimiento,10
+Carro-Multas,78,Carro,Multas,10
+Carro-Parqueadero,79,Carro,Parqueadero,10
+Carro-Peajes,80,Carro,Peajes,10
+Carro-Seguro,81,Carro,Seguro,10
+Carro-Soat,82,Carro,Soat,10
+Carro-Tecno Mecánica,83,Carro,Tecno Mecánica,10
+Carro-ToyotaCross,84,Carro,ToyotaCross,10
+Consultorias-Consultoria,85,Consultorias,Consultoria,11
+CorAntioquia-CorAntioquia,86,CorAntioquia,CorAntioquia,12
+Deporte-Bicicleta,87,Deporte,Bicicleta,13
+Deporte-Deporte,88,Deporte,Deporte,13
+Deporte-Gym,89,Deporte,Gym,13
+Deporte-Refrigerios,90,Deporte,Refrigerios,13
+Diversiones-Charturbate,91,Diversiones,Charturbate,14
+Diversiones-Diversión,92,Diversiones,Diversión,14
+Diversiones-Fiestas,93,Diversiones,Fiestas,14
+Donaciones-Corpaul,94,Donaciones,Corpaul,15
+Donaciones-Donaciones,95,Donaciones,Donaciones,15
+Donaciones-Otros,96,Donaciones,Otros,15
+Educación-Coursera,97,Educación,Coursera,16
+Educación-Gemini,98,Educación,Gemini,16
+Educación-GitHub,99,Educación,GitHub,16
+Educación-Microsoft,100,Educación,Microsoft,16
+Educación-OpenAI,101,Educación,OpenAI,16
+Educación-PDF Filler,102,Educación,PDF Filler,16
+Educación-PH360,103,Educación,PH360,16
+Educación-Udemy,104,Educación,Udemy,16
+Educación-YouTube,105,Educación,YouTube,16
+El Tunal-Predial,106,El Tunal,Predial,17
+Escobillas-Administración,107,Escobillas,Administración,18
+Estafa-Estafa,108,Estafa,Estafa,19
+Fiducuenta-Fondo Renta,109,Fiducuenta,Fondo Renta,20
+Fotografía-Adobe,110,Fotografía,Adobe,21
+Fotografía-F.Clases,111,Fotografía,F.Clases,21
+Fotografía-F.Equipos,112,Fotografía,F.Equipos,21
+Fotografía-F.LR y PH,113,Fotografía,F.LR y PH,21
+Fotografía-Foto Paseos,114,Fotografía,Foto Paseos,21
+Fotografía-Libro 70 años,115,Fotografía,Libro 70 años,21
+Fotografía-Transporte,116,Fotografía,Transporte,21
+Impuestos-4xMil,117,Impuestos,4xMil,22
+Impuestos-Depto Antioquia,118,Impuestos,Depto Antioquia,22
+Impuestos-Impuestos,119,Impuestos,Impuestos,22
+Impuestos-IVA,120,Impuestos,IVA,22
+Impuestos-Rte Fuente,121,Impuestos,Rte Fuente,22
+Inversiones-Capital,122,Inversiones,Capital,23
+Inversiones-Intereses,123,Inversiones,Intereses,23
+Inversiones-Inversiones,124,Inversiones,Inversiones,23
+Inversiones-Rendimientos,125,Inversiones,Rendimientos,23
+Komorebi-Acueducto,126,Komorebi,Acueducto,24
+Komorebi-Administración,127,Komorebi,Administración,24
+Komorebi-Aseo,128,Komorebi,Aseo,24
+Komorebi-Celular,129,Komorebi,Celular,24
+Komorebi-Celular e Internet,130,Komorebi,Celular e Internet,24
+Komorebi-Celular portada,131,Komorebi,Celular portada,24
+Komorebi-Cuarto Técnico,132,Komorebi,Cuarto Técnico,24
+Komorebi-Documentos,133,Komorebi,Documentos,24
+Komorebi-Equipos,134,Komorebi,Equipos,24
+Komorebi-Hidroponía,135,Komorebi,Hidroponía,24
+Komorebi-Huerta,136,Komorebi,Huerta,24
+Komorebi-Internet,137,Komorebi,Internet,24
+Komorebi-Jardín,138,Komorebi,Jardín,24
+Komorebi-Mantenimiento,139,Komorebi,Mantenimiento,24
+Komorebi-Menaje,140,Komorebi,Menaje,24
+Komorebi-Muebles,141,Komorebi,Muebles,24
+Komorebi-Pipetas de gas,142,Komorebi,Pipetas de gas,24
+Komorebi-Portada,143,Komorebi,Portada,24
+Komorebi-Predial,144,Komorebi,Predial,24
+Komorebi-Riego,145,Komorebi,Riego,24
+Komorebi-Seguridad,146,Komorebi,Seguridad,24
+Komorebi-Servicios Públicos,147,Komorebi,Servicios Públicos,24
+Libido-Libido,148,Libido,Libido,25
+MasterCard COP-Compras,149,MasterCard COP,Compras,26
+MasterCard COP-Pagos,150,MasterCard COP,Pagos,26
+MasterCard USD-Compras,151,MasterCard USD,Compras,27
+MasterCard USD-Pagos,152,MasterCard USD,Pagos,27
+Menaje-Baños,153,Menaje,Baños,28
+Menaje-Bicicleta,154,Menaje,Bicicleta,28
+Menaje-Chiminea,155,Menaje,Chiminea,28
+Menaje-Closet,156,Menaje,Closet,28
+Menaje-Cocina,157,Menaje,Cocina,28
+Menaje-Equipos,158,Menaje,Equipos,28
+Menaje-Garaje,159,Menaje,Garaje,28
+Menaje-Habitaciones,160,Menaje,Habitaciones,28
+Menaje-Herramientas,161,Menaje,Herramientas,28
+Menaje-Horno Leña,162,Menaje,Horno Leña,28
+Menaje-Jardín,163,Menaje,Jardín,28
+Menaje-Lavandería,164,Menaje,Lavandería,28
+Menaje-Muebles,165,Menaje,Muebles,28
+Menaje-Otros,166,Menaje,Otros,28
+Menaje-PC,167,Menaje,PC,28
+Menaje-Puertas,168,Menaje,Puertas,28
+Menaje-Ropa,169,Menaje,Ropa,28
+Menaje-Seguros,170,Menaje,Seguros,28
+Menaje-Tapetes,171,Menaje,Tapetes,28
+Mercado-Atún,172,Mercado,Atún,29
+Mercado-Empanadas,173,Mercado,Empanadas,29
+Mercado-Menaje,174,Mercado,Menaje,29
+Mercado-Mercado,175,Mercado,Mercado,29
+Mercado-Plaza,176,Mercado,Plaza,29
+MonteMadero-Acometida Electrica,177,MonteMadero,Acometida Electrica,30
+MonteMadero-Acueducto,178,MonteMadero,Acueducto,30
+Montemadero-Alacena,179,Montemadero,Alacena,30
+MonteMadero-Alquiler equipos,180,MonteMadero,Alquiler equipos,30
+Montemadero-Arquitectos,181,Montemadero,Arquitectos,30
+Montemadero-Aseo,182,Montemadero,Aseo,30
+MonteMadero-Atenciones,183,MonteMadero,Atenciones,30
+MonteMadero-Baños,184,MonteMadero,Baños,30
+Montemadero-Bordillos,185,Montemadero,Bordillos,30
+Montemadero-Botada Escombros,186,Montemadero,Botada Escombros,30
+MonteMadero-Calentadores,187,MonteMadero,Calentadores,30
+MonteMadero-Camaras,188,MonteMadero,Camaras,30
+Montemadero-Carcamos,189,Montemadero,Carcamos,30
+MonteMadero-Carpinteria,190,MonteMadero,Carpinteria,30
+Montemadero-Cemento,191,Montemadero,Cemento,30
+Montemadero-Cemento y hierro,192,Montemadero,Cemento y hierro,30
+Montemadero-Cemento y malla electro,193,Montemadero,Cemento y malla electro,30
+Montemadero-Cerca Electrica,194,Montemadero,Cerca Electrica,30
+MonteMadero-Cerraduras y Chapas,195,MonteMadero,Cerraduras y Chapas,30
+MonteMadero-Certificados de libertad,196,MonteMadero,Certificados de libertad,30
+Montemadero-Chapas,197,Montemadero,Chapas,30
+MonteMadero-Chimenea,198,MonteMadero,Chimenea,30
+MonteMadero-Compra Lote,199,MonteMadero,Compra Lote,30
+MonteMadero-Copias,200,MonteMadero,Copias,30
+Montemadero-Cortagoteras,201,Montemadero,Cortagoteras,30
+Montemadero-Cortinas,202,Montemadero,Cortinas,30
+MonteMadero-Cuarto Técnico,203,MonteMadero,Cuarto Técnico,30
+MonteMadero-Daños ,204,MonteMadero,Daños ,30
+MonteMadero-Deck,205,MonteMadero,Deck,30
+MonteMadero-Desagues,206,MonteMadero,Desagues,30
+MonteMadero-Diseño arquitectonico,207,MonteMadero,Diseño arquitectonico,30
+MonteMadero-Diseño Electrico,208,MonteMadero,Diseño Electrico,30
+MonteMadero-Diseño Estructural,209,MonteMadero,Diseño Estructural,30
+MonteMadero-Diseño hidrosanitario,210,MonteMadero,Diseño hidrosanitario,30
+Montemadero-Docuementos,211,Montemadero,Docuementos,30
+MonteMadero-Domótica,212,MonteMadero,Domótica,30
+MonteMadero-Dovelas,213,MonteMadero,Dovelas,30
+MonteMadero-Drywall,214,MonteMadero,Drywall,30
+MonteMadero-Edier Castro y moreno,215,MonteMadero,Edier Castro y moreno,30
+MonteMadero-Electricidad,216,MonteMadero,Electricidad,30
+Montemadero-Energía Solar,217,Montemadero,Energía Solar,30
+Montemadero-EPM,218,Montemadero,EPM,30
+Montemadero-Equipos Cocina,219,Montemadero,Equipos Cocina,30
+Montemadero-Escombros,220,Montemadero,Escombros,30
+Montemadero-Estanterías,221,Montemadero,Estanterías,30
+MonteMadero-Estructura metálica,222,MonteMadero,Estructura metálica,30
+MonteMadero-Estudio apantallamiento,223,MonteMadero,Estudio apantallamiento,30
+MonteMadero-Estudio de suelos,224,MonteMadero,Estudio de suelos,30
+MonteMadero-Ferreteria,225,MonteMadero,Ferreteria,30
+MonteMadero-Fundaciones,226,MonteMadero,Fundaciones,30
+Montemadero-Gas,227,Montemadero,Gas,30
+Montemadero-Grama,228,Montemadero,Grama,30
+MonteMadero-Griferias,229,MonteMadero,Griferias,30
+MonteMadero-Herramientas,230,MonteMadero,Herramientas,30
+MonteMadero-Hidrosanitarias,231,MonteMadero,Hidrosanitarias,30
+MonteMadero-Hierro,232,MonteMadero,Hierro,30
+MonteMadero-Hierro y plomeria,233,MonteMadero,Hierro y plomeria,30
+Montemadero-Hierro y PVC,234,Montemadero,Hierro y PVC,30
+MonteMadero-Horno de leña,235,MonteMadero,Horno de leña,30
+Montemadero-Huerta,236,Montemadero,Huerta,30
+MonteMadero-Iluminación,237,MonteMadero,Iluminación,30
+MonteMadero-Inducción,238,MonteMadero,Inducción,30
+MonteMadero-Interventoria,239,MonteMadero,Interventoria,30
+Montemadero-Invernadero,240,Montemadero,Invernadero,30
+Montemadero-Jardín,241,Montemadero,Jardín,30
+Montemadero-Lamparas,242,Montemadero,Lamparas,30
+Montemadero-Lavandería,243,Montemadero,Lavandería,30
+MonteMadero-Licencia de construcción,244,MonteMadero,Licencia de construcción,30
+MonteMadero-Losa P1,245,MonteMadero,Losa P1,30
+MonteMadero-Mampostería,246,MonteMadero,Mampostería,30
+Montemadero-Mantenimiento,247,Montemadero,Mantenimiento,30
+Montemadero-Material playa,248,Montemadero,Material playa,30
+Montemadero-Materiales,249,Montemadero,Materiales,30
+Montemadero-Medidor agua,250,Montemadero,Medidor agua,30
+MonteMadero-Mesones,251,MonteMadero,Mesones,30
+Montemadero-Mesones Cocina,252,Montemadero,Mesones Cocina,30
+MonteMadero-MO Electricidad,253,MonteMadero,MO Electricidad,30
+MonteMadero-MO Mampotería,254,MonteMadero,MO Mampotería,30
+Montemadero-MO Oficios varios,255,Montemadero,MO Oficios varios,30
+Montemadero-MO Porcelanato,256,Montemadero,MO Porcelanato,30
+MonteMadero-MO Samuel Goez,257,MonteMadero,MO Samuel Goez,30
+MonteMadero-Morteros,258,MonteMadero,Morteros,30
+MonteMadero-Movimiento Tierra,259,MonteMadero,Movimiento Tierra,30
+Montemadero-Mueble hobbies y tapa cajon,260,Montemadero,Mueble hobbies y tapa cajon,30
+MonteMadero-Muebles,261,MonteMadero,Muebles,30
+Montemadero-Parqueadero,262,Montemadero,Parqueadero,30
+Montemadero-Películas polarizados,263,Montemadero,Películas polarizados,30
+MonteMadero-Pilotes,264,MonteMadero,Pilotes,30
+MonteMadero-Pintura,265,MonteMadero,Pintura,30
+Montemadero-Piso Spc,266,Montemadero,Piso Spc,30
+Montemadero-Pisos,267,Montemadero,Pisos,30
+MonteMadero-Planta de tratamiento de aguas,268,MonteMadero,Planta de tratamiento de aguas,30
+MonteMadero-Plomeria,269,MonteMadero,Plomeria,30
+MonteMadero-Plomeria y Electricidad,270,MonteMadero,Plomeria y Electricidad,30
+Montemadero-Polines,271,Montemadero,Polines,30
+Montemadero-Portada,272,Montemadero,Portada,30
+MonteMadero-Pozuelo Cocina,273,MonteMadero,Pozuelo Cocina,30
+MonteMadero-Preliminares y Campamento,274,MonteMadero,Preliminares y Campamento,30
+MonteMadero-Propinas,275,MonteMadero,Propinas,30
+Montemadero-Puertas Madera,276,Montemadero,Puertas Madera,30
+MonteMadero-Puertas Metálicas,277,MonteMadero,Puertas Metálicas,30
+Montemadero-Pvc,278,Montemadero,Pvc,30
+Montemadero-Red Datos,279,Montemadero,Red Datos,30
+MonteMadero-Reembolso,280,MonteMadero,Reembolso,30
+MonteMadero-Registro Escritura Compra,281,MonteMadero,Registro Escritura Compra,30
+MonteMadero-Rejillas carcamos,282,MonteMadero,Rejillas carcamos,30
+Montemadero-Retie,283,Montemadero,Retie,30
+MonteMadero-Revoque,284,MonteMadero,Revoque,30
+Montemadero-Riego,285,Montemadero,Riego,30
+Montemadero-Seguridad Social,286,Montemadero,Seguridad Social,30
+MonteMadero-Subsidio transporte,287,MonteMadero,Subsidio transporte,30
+MonteMadero-Tanques Agua,288,MonteMadero,Tanques Agua,30
+Montemadero-Techos,289,Montemadero,Techos,30
+Montemadero-Tendedero,290,Montemadero,Tendedero,30
+MonteMadero-Topografía,291,MonteMadero,Topografía,30
+MonteMadero-Trabajadores,292,MonteMadero,Trabajadores,30
+MonteMadero-Transporte,293,MonteMadero,Transporte,30
+MonteMadero-Ventanas,294,MonteMadero,Ventanas,30
+MonteMadero-Via acceso,295,MonteMadero,Via acceso,30
+MonteMadero-Vigas amarre,296,MonteMadero,Vigas amarre,30
+Montemadero-Vivero,297,Montemadero,Vivero,30
+Pensión-Mesada,298,Pensión,Mesada,31
+Perros-Cuido,299,Perros,Cuido,32
+Perros-Drogas,300,Perros,Drogas,32
+Perros-Equipos,301,Perros,Equipos,32
+Perros-Otros,302,Perros,Otros,32
+Perros-Venterinaria,303,Perros,Venterinaria,32
+PH360-Desarrollo,304,PH360,Desarrollo,33
+PH360-Marca,305,PH360,Marca,33
+PH360-Dominio,306,PH360,Dominio,33
+PH360-Equipos,307,PH360,Equipos,33
+Por Clasificar-Por Clasificar,308,Por Clasificar,Por Clasificar,34
+Prestamos-Prestamos,309,Prestamos,Prestamos,35
+Protección-Traslados,310,Protección,Traslados,36
+Protección-Vista,311,Protección,Vista,36
+RC Gastos-Celular,312,RC Gastos,Celular,37
+RC Gastos-Foto Multa,313,RC Gastos,Foto Multa,37
+RC Gastos-Gafas,314,RC Gastos,Gafas,37
+RC Gastos-Gastos,315,RC Gastos,Gastos,37
+RC Gastos-Gym,316,RC Gastos,Gym,37
+RC Gastos-Moto,317,RC Gastos,Moto,37
+RC Gastos-Odontología,318,RC Gastos,Odontología,37
+RC Gastos-Paty,319,RC Gastos,Paty,37
+RC Gastos-Personales,320,RC Gastos,Personales,37
+RC Gastos-Ropa,321,RC Gastos,Ropa,37
+Regalo-Olivos,322,Regalo,Olivos,38
+Regalos-90 de Tita,323,Regalos,90 de Tita,39
+Regalos-Familia,324,Regalos,Familia,39
+Regalos-RC,325,Regalos,RC,39
+Regalos-Regalos,326,Regalos,Regalos,39
+Regalos-Tita,327,Regalos,Tita,39
+Restaurantes-Restaurantes,328,Restaurantes,Restaurantes,40
+Ropa-Busos,329,Ropa,Busos,41
+Ropa-Camisetas,330,Ropa,Camisetas,41
+Ropa-Chaquetas,331,Ropa,Chaquetas,41
+Ropa-Deportiva,332,Ropa,Deportiva,41
+Ropa-Jean,333,Ropa,Jean,41
+Ropa-Ropa,334,Ropa,Ropa,41
+Ropa-Zapatos,335,Ropa,Zapatos,41
+Saldos-Saldo Inicial,336,Saldos,Saldo Inicial,42
+Salud-Barberia,337,Salud,Barberia,43
+Salud-Citas,338,Salud,Citas,43
+Salud-Consultas,339,Salud,Consultas,43
+Salud-Copagos,340,Salud,Copagos,43
+Salud-Cpap,341,Salud,Cpap,43
+Salud-Drogas,342,Salud,Drogas,43
+Salud-Examenes,343,Salud,Examenes,43
+Salud-Gafas,344,Salud,Gafas,43
+Salud-Masajes,345,Salud,Masajes,43
+Salud-Pos,346,Salud,Pos,43
+Salud-Prepagada,347,Salud,Prepagada,43
+Salud-Yoga,348,Salud,Yoga,43
+Slow - Venta-Cesión,349,Slow - Venta,Cesión,44
+Slow - Venta-Documentos,350,Slow - Venta,Documentos,44
+Slow - Venta-Escrituras,351,Slow - Venta,Escrituras,44
+Slow - Venta-Ingresos,352,Slow - Venta,Ingresos,44
+Slow - Venta-Otros,353,Slow - Venta,Otros,44
+Suscripciones-Prime,354,Suscripciones,Prime,45
+Tita-Administración,355,Tita,Administración,46
+Tita-Amazon,356,Tita,Amazon,46
+Tita-Aportes,357,Tita,Aportes,46
+Tita-Bancolombia,358,Tita,Bancolombia,46
+Tita-Celular,359,Tita,Celular,46
+Tita-Cesantias Tere,360,Tita,Cesantias Tere,46
+Tita-Declaraciones de renta,361,Tita,Declaraciones de renta,46
+Tita-Depto Antioquia,362,Tita,Depto Antioquia,46
+Tita-Diezmos,363,Tita,Diezmos,46
+Tita-El Colombiano,364,Tita,El Colombiano,46
+Tita-El Tunal,365,Tita,El Tunal,46
+Tita-EPM,366,Tita,EPM,46
+Tita-Facturacion Sigo,367,Tita,Facturacion Sigo,46
+Tita-Fuente Clara,368,Tita,Fuente Clara,46
+Tita-Impuestos,369,Tita,Impuestos,46
+Tita-Internet,370,Tita,Internet,46
+Tita-Inversiones,371,Tita,Inversiones,46
+Tita-Iva,372,Tita,Iva,46
+Tita-Jardín,373,Tita,Jardín,46
+Tita-Lina María Gallón,374,Tita,Lina María Gallón,46
+Tita-MasterCard COP,375,Tita,MasterCard COP,46
+Tita-MasterCard USD,376,Tita,MasterCard USD,46
+Tita-Mercado,377,Tita,Mercado,46
+Tita-Netflix,378,Tita,Netflix,46
+Tita-Odontología,379,Tita,Odontología,46
+Tita-Otros,380,Tita,Otros,46
+Tita-Peluqueria,381,Tita,Peluqueria,46
+Tita-Pos El Tunal,382,Tita,Pos El Tunal,46
+Tita-Pos Tere,383,Tita,Pos Tere,46
+Tita-Predial el Tunal,384,Tita,Predial el Tunal,46
+Tita-Predial Fuente Clara,385,Tita,Predial Fuente Clara,46
+Tita-Prestamos,386,Tita,Prestamos,46
+Tita-Prestamo-Tere,387,Tita,Prestamo-Tere,46
+Tita-Pricesmart,388,Tita,Pricesmart,46
+Tita-Protección Tita,389,Tita,Protección Tita,46
+Tita-Regalos,390,Tita,Regalos,46
+Tita-Restaurantes,391,Tita,Restaurantes,46
+Tita-Saldo Inicial,392,Tita,Saldo Inicial,46
+Tita-Servicios Públicos,393,Tita,Servicios Públicos,46
+Tita-Sura,394,Tita,Sura,46
+Tita-Tenna,395,Tita,Tenna,46
+Tita-Tere Granda,396,Tita,Tere Granda,46
+Tita-Tigo,397,Tita,Tigo,46
+Tita-Traslado,398,Tita,Traslado,46
+Traslado-Traslado,399,Traslado,Traslado,47
+Trasporte-Trasporte,400,Trasporte,Trasporte,48
+Trasteos-Trasteo,401,Trasteos,Trasteo,49
+Vacaciones-Paseos,402,Vacaciones,Paseos,50
+Vacaciones-Vacaciones,403,Vacaciones,Vacaciones,50
+Varios-Varios,404,Varios,Varios,51
+Ventas-Cámara Sony,405,Ventas,Cámara Sony,52
