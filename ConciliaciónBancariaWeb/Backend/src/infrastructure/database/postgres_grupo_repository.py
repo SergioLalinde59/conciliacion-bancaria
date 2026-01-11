@@ -79,3 +79,10 @@ class PostgresGrupoRepository(GrupoRepository):
             }
             for row in rows
         ]
+
+    def obtener_id_traslados(self) -> Optional[int]:
+        cursor = self.conn.cursor()
+        cursor.execute("SELECT grupo_id FROM config_filtros_grupos WHERE etiqueta ILIKE '%traslado%' LIMIT 1")
+        row = cursor.fetchone()
+        cursor.close()
+        return row[0] if row else None

@@ -43,21 +43,21 @@ export const gruposService = {
         return data as Grupo[]
     },
 
-    crear: async (nombre: string, es_traslado: boolean): Promise<Grupo> => {
+    crear: async (nombre: string): Promise<Grupo> => {
         const result = await fetch(`${API_BASE_URL}/api/grupos`, {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ grupo: nombre, es_traslado })
+            body: JSON.stringify({ grupo: nombre })
         }).then(handleResponse)
         invalidateCatalogos()
         return result
     },
 
-    actualizar: async (id: number, nombre: string, es_traslado: boolean): Promise<Grupo> => {
+    actualizar: async (id: number, nombre: string): Promise<Grupo> => {
         const result = await fetch(`${API_BASE_URL}/api/grupos/${id}`, {
             method: 'PUT',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ grupo: nombre, es_traslado })
+            body: JSON.stringify({ grupo: nombre })
         }).then(handleResponse)
         invalidateCatalogos()
         return result

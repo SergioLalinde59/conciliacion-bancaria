@@ -30,8 +30,6 @@ export const ReporteClasificacionesPage = () => {
     const [terceroId, setTerceroId] = useSessionStorage('rep_filtro_terceroId', '')
     const [grupoId, setGrupoId] = useSessionStorage('rep_filtro_grupoId', '')
     const [conceptoId, setConceptoId] = useSessionStorage('rep_filtro_conceptoId', '')
-    const [excluirTraslados, setExcluirTraslados] = useSessionStorage('rep_filtro_excluir_traslados', true)
-    const [excluirPrestamos, setExcluirPrestamos] = useSessionStorage('rep_filtro_excluir_prestamos', true)
     const [mostrarIngresos, setMostrarIngresos] = useSessionStorage('rep_filtro_mostrar_ingresos', true)
 
     const [mostrarEgresos, setMostrarEgresos] = useSessionStorage('rep_filtro_mostrar_egresos', true)
@@ -107,11 +105,9 @@ export const ReporteClasificacionesPage = () => {
         tercero_id: terceroId ? Number(terceroId) : undefined,
         grupo_id: grupoId ? Number(grupoId) : undefined,
         concepto_id: conceptoId ? Number(conceptoId) : undefined,
-        excluir_traslados: excluirTraslados,
-        excluir_prestamos: undefined,
         grupos_excluidos: actualGruposExcluidos.length > 0 ? actualGruposExcluidos : undefined,
         tipo_movimiento: tipoMovimiento
-    }), [tipoAgrupacion, desde, hasta, cuentaId, terceroId, grupoId, conceptoId, excluirTraslados, actualGruposExcluidos, tipoMovimiento])
+    }), [tipoAgrupacion, desde, hasta, cuentaId, terceroId, grupoId, conceptoId, actualGruposExcluidos, tipoMovimiento])
 
     const { data: datosRaw, isLoading: loading } = useReporteClasificacion(paramsReporte)
     const datos = (datosRaw as ItemReporte[]) || []
@@ -255,7 +251,7 @@ export const ReporteClasificacionesPage = () => {
     // Load Exclusion Config Defaults
     useEffect(() => {
         if (configuracionExclusion.length > 0 && gruposExcluidos === null) {
-            const defaults = (configuracionExclusion as ConfigFiltroExclusion[]).filter(d => d.activo_por_defecto && !d.es_traslado).map(d => d.grupo_id)
+            const defaults = (configuracionExclusion as ConfigFiltroExclusion[]).filter(d => d.activo_por_defecto).map(d => d.grupo_id)
             setGruposExcluidos(defaults)
         }
     }, [configuracionExclusion, gruposExcluidos])
@@ -270,12 +266,9 @@ export const ReporteClasificacionesPage = () => {
         setTerceroId('')
         setGrupoId('')
         setConceptoId('')
-        setExcluirTraslados(true)
-        setExcluirTraslados(true)
-        // setExcluirPrestamos(true)
+        // Reset all exclusion filters to defaults from config
         if (configuracionExclusion.length > 0) {
-            // Excluir traslados de los defaults dinámicos porque ya se manejan con el checkbox explícito
-            const defaults = configuracionExclusion.filter(d => d.activo_por_defecto && !d.es_traslado).map(d => d.grupo_id)
+            const defaults = configuracionExclusion.filter(d => d.activo_por_defecto).map(d => d.grupo_id)
             setGruposExcluidos(defaults)
         } else {
             setGruposExcluidos([])
@@ -297,8 +290,6 @@ export const ReporteClasificacionesPage = () => {
             hasta,
             cuenta_id: cuentaId,
             concepto_id: conceptoId,
-            excluir_traslados: excluirTraslados,
-            excluir_prestamos: undefined,
             grupos_excluidos: actualGruposExcluidos.length > 0 ? actualGruposExcluidos : undefined,
             // Mantener filtro de tipo de movimiento para el drilldown también
             tipo_movimiento: (mostrarIngresos && !mostrarEgresos) ? 'ingresos' : (!mostrarIngresos && mostrarEgresos) ? 'egresos' : undefined
@@ -392,8 +383,6 @@ export const ReporteClasificacionesPage = () => {
             hasta,
             cuenta_id: cuentaId,
             concepto_id: conceptoId,
-            excluir_traslados: excluirTraslados,
-            excluir_prestamos: undefined,
             grupos_excluidos: actualGruposExcluidos.length > 0 ? actualGruposExcluidos : undefined,
             tipo_movimiento: (mostrarIngresos && !mostrarEgresos) ? 'ingresos' : (!mostrarIngresos && mostrarEgresos) ? 'egresos' : undefined,
             tercero_id: drilldownState.terceroId, // Mantener el tercero del primer drilldown
@@ -458,12 +447,6 @@ export const ReporteClasificacionesPage = () => {
                 cuentaId={cuentaId}
                 onCuentaChange={setCuentaId}
                 cuentas={cuentas}
-                excluirTraslados={excluirTraslados}
-                onExcluirTrasladosChange={setExcluirTraslados}
-                showExcluirTraslados={true}
-                excluirPrestamos={excluirPrestamos}
-                onExcluirPrestamosChange={setExcluirPrestamos}
-                showExcluirPrestamos={false} // Legacy off
                 terceroId={terceroId}
                 onTerceroChange={setTerceroId}
                 grupoId={grupoId}

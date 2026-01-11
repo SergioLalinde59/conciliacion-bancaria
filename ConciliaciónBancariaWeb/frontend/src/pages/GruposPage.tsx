@@ -62,10 +62,10 @@ export const GruposPage = () => {
             })
     }
 
-    const handleSave = (nombre: string, es_traslado: boolean) => {
+    const handleSave = (nombre: string) => {
         const promise = itemEditando
-            ? apiService.grupos.actualizar(itemEditando.id, nombre, es_traslado)
-            : apiService.grupos.crear(nombre, es_traslado)
+            ? apiService.grupos.actualizar(itemEditando.id, nombre)
+            : apiService.grupos.crear(nombre)
 
         promise
             .then(() => {
@@ -81,7 +81,6 @@ export const GruposPage = () => {
     const csvColumns = [
         { key: 'id' as const, label: 'ID' },
         { key: 'nombre' as const, label: 'Nombre' },
-        { key: 'es_traslado' as const, label: 'Es Traslado' },
     ]
 
     return (

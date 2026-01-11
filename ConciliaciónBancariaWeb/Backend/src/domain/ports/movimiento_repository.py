@@ -63,8 +63,6 @@ class MovimientoRepository(ABC):
                        tercero_id: Optional[int] = None,
                        grupo_id: Optional[int] = None,
                        concepto_id: Optional[int] = None,
-                       excluir_traslados: bool = False,
-                       excluir_prestamos: bool = False,
                        grupos_excluidos: Optional[List[int]] = None,
                        solo_pendientes: bool = False,
                        tipo_movimiento: Optional[str] = None,
@@ -88,8 +86,6 @@ class MovimientoRepository(ABC):
                                  tercero_id: Optional[int] = None,
                                  grupo_id: Optional[int] = None,
                                  concepto_id: Optional[int] = None,
-                                 excluir_traslados: bool = True,
-                                 excluir_prestamos: bool = True,
                                  grupos_excluidos: Optional[List[int]] = None,
                                  tipo_movimiento: Optional[str] = None
     ) -> List[dict]:
@@ -122,8 +118,6 @@ class MovimientoRepository(ABC):
                                tercero_id: Optional[int] = None,
                                grupo_id: Optional[int] = None,
                                concepto_id: Optional[int] = None,
-                               excluir_traslados: bool = True,
-                               excluir_prestamos: bool = True,
                                grupos_excluidos: Optional[List[int]] = None
     ) -> List[dict]:
         """

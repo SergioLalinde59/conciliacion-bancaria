@@ -21,8 +21,6 @@ export const MovimientosPage = () => {
     const [terceroId, setTerceroId] = useSessionStorage('filtro_terceroId', '')
     const [grupoId, setGrupoId] = useSessionStorage('filtro_grupoId', '')
     const [conceptoId, setConceptoId] = useSessionStorage('filtro_conceptoId', '')
-    const [excluirTraslados, setExcluirTraslados] = useSessionStorage('filtro_excluirTraslados', true)
-    const [excluirPrestamos, setExcluirPrestamos] = useSessionStorage('filtro_excluirPrestamos', true)
     const [soloPendientes, setSoloPendientes] = useSessionStorage('filtro_soloPendientes', false)
     const [mostrarIngresos, setMostrarIngresos] = useSessionStorage('filtro_mostrarIngresos', true)
 
@@ -33,12 +31,9 @@ export const MovimientosPage = () => {
     // We use null initial value to detect if we need to set defaults from config
     const [gruposExcluidos, setGruposExcluidos] = useSessionStorage<number[] | null>('filtro_gruposExcluidos', null)
 
-    // Ensure ID 47 (Traslados) is NEVER in the active exclusion list for the API, 
-    // as it is handled by the explicit exclude_traslados flag.
-    // Ensure ID 47 (Traslados) is NEVER in the active exclusion list for the API, 
-    // as it is handled by the explicit exclude_traslados flag.
+    // Grupos excluidos finales para la API
     const actualGruposExcluidos = useMemo(() => {
-        return (gruposExcluidos || []).filter(id => id !== 47)
+        return gruposExcluidos || []
     }, [gruposExcluidos])
 
 
@@ -135,8 +130,6 @@ export const MovimientosPage = () => {
             tercero_id: parsedTerceroId,
             grupo_id: parsedGrupoId,
             concepto_id: parsedConceptoId,
-            excluir_traslados: excluirTraslados || undefined,
-            excluir_prestamos: undefined, // Legacy, now handled by grupos_excluidos
             grupos_excluidos: actualGruposExcluidos.length > 0 ? actualGruposExcluidos : undefined,
             solo_pendientes: soloPendientes || undefined,
             tipo_movimiento: tipoMovimiento
@@ -157,19 +150,13 @@ export const MovimientosPage = () => {
                 setLoading(false)
             })
 
-    }, [desde, hasta, cuentaId, terceroId, grupoId, conceptoId, excluirTraslados, excluirPrestamos, soloPendientes, mostrarIngresos, mostrarEgresos, actualGruposExcluidos])
+    }, [desde, hasta, cuentaId, terceroId, grupoId, conceptoId, soloPendientes, mostrarIngresos, mostrarEgresos, actualGruposExcluidos])
 
 
+    // Load on mount and whenever filters change
     useEffect(() => {
-        cargarMovimientos() // Sin resetPage - cargar todos
-    }, [])
-
-    // Reload when filters change
-    useEffect(() => {
-        if (movimientos.length > 0 || !loading) { // Only reload if we've already loaded once
-            cargarMovimientos()
-        }
-    }, [desde, hasta, cuentaId, terceroId, grupoId, conceptoId, excluirTraslados, soloPendientes, mostrarIngresos, mostrarEgresos, actualGruposExcluidos])
+        cargarMovimientos()
+    }, [cargarMovimientos])
 
     // ELIMINADO: useEffect para cambio de página
 
@@ -178,27 +165,18 @@ export const MovimientosPage = () => {
         apiService.movimientos.obtenerConfiguracionFiltrosExclusion()
             .then(data => {
                 setConfiguracionExclusion(data)
+
                 // If no user preference saved (null), use defaults from DB
                 if (gruposExcluidos === null) {
-                    // Excluir traslados (ID 47) de los defaults dinámicos porque ya se manejan con el checkbox explícito
-                    const defaults = data.filter((d: any) => d.activo_por_defecto && d.grupo_id !== 47).map((d: any) => d.grupo_id)
+                    // Set all filters with activo_por_defecto=true as excluded
+                    const defaults = data.filter((d: any) => d.activo_por_defecto).map((d: any) => d.grupo_id)
                     setGruposExcluidos(defaults)
-                } else {
-                    // Clean up potential stale ID 47 from session storage
-                    if (gruposExcluidos.includes(47)) {
-                        setGruposExcluidos(gruposExcluidos.filter(id => id !== 47))
-                    }
                 }
             })
             .catch(err => console.error("Error fetching filter config", err))
     }, [])
 
-    // Reload movements when gruposExcluidos changes (and is not null)
-    useEffect(() => {
-        if (gruposExcluidos !== null) {
-            cargarMovimientos()
-        }
-    }, [gruposExcluidos])
+    // Note: Reload when gruposExcluidos changes is handled by main useEffect via actualGruposExcluidos
 
 
 
@@ -210,8 +188,7 @@ export const MovimientosPage = () => {
         setTerceroId('')
         setGrupoId('')
         setConceptoId('')
-        setExcluirTraslados(true)
-        // setExcluirPrestamos(true) // Legacy
+        // Reset all exclusion filters to defaults from config
         if (configuracionExclusion.length > 0) {
             const defaults = configuracionExclusion.filter(d => d.activo_por_defecto).map(d => d.grupo_id)
             setGruposExcluidos(defaults)
@@ -260,12 +237,6 @@ export const MovimientosPage = () => {
                 grupos={grupos}
                 conceptos={conceptos}
                 showClasificacionFilters={true}
-                excluirTraslados={excluirTraslados}
-                onExcluirTrasladosChange={setExcluirTraslados}
-                showExcluirTraslados={true}
-                excluirPrestamos={excluirPrestamos}
-                onExcluirPrestamosChange={setExcluirPrestamos}
-                showExcluirPrestamos={false} // Hide legacy
                 soloPendientes={soloPendientes}
                 onSoloPendientesChange={setSoloPendientes}
                 showSoloPendientes={true}
@@ -460,7 +431,7 @@ export const MovimientosPage = () => {
                                             </div>
                                         </td>
                                         <td className="py-2 px-2 text-xs text-gray-600 overflow-hidden">
-                                            <div className="max-w-[90px] truncate">
+                                            <div className="max-w-[160px] truncate">
                                                 {mov.tercero_display || <span className="text-gray-300 italic">No asignado</span>}
                                             </div>
                                         </td>
@@ -481,7 +452,7 @@ export const MovimientosPage = () => {
                                                 {mov.valor < 0 ? '-' : ''}${Math.abs(mov.valor).toLocaleString('es-CO', { minimumFractionDigits: 0 })}
                                             </span>
                                         </td>
-                                        <td className="py-2 px-2 text-xs text-right font-mono text-gray-600">
+                                        <td className="py-2 px-2 text-xs text-right font-mono text-gray-600 w-20">
                                             {mov.usd ? `$${Math.abs(mov.usd).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}` : '-'}
                                         </td>
                                         <td className="py-2 px-2 text-xs text-right font-mono text-gray-600">

@@ -105,3 +105,35 @@ class PostgresConceptoRepository(ConceptoRepository):
         finally:
             cursor.close()
 
+    def buscar_por_nombre(self, nombre: str, grupoid: Optional[int] = None) -> Optional[Concepto]:
+        cursor = self.conn.cursor()
+        query = "SELECT conceptoid, concepto, grupoid_fk, activa FROM conceptos WHERE LOWER(concepto) = LOWER(%s) AND activa = TRUE"
+        params = [nombre]
+        
+        if grupoid:
+            query += " AND grupoid_fk = %s"
+            params.append(grupoid)
+            
+        cursor.execute(query, tuple(params))
+        row = cursor.fetchone()
+        cursor.close()
+        
+        if row:
+            return Concepto(
+                conceptoid=row[0], 
+                concepto=row[1], 
+                grupoid_fk=row[2],
+                activa=row[3]
+            )
+        return None
+
+    def obtener_id_traslados(self, grupoid: int) -> Optional[int]:
+        cursor = self.conn.cursor()
+        cursor.execute(
+            "SELECT conceptoid FROM conceptos WHERE grupoid_fk = %s AND concepto ILIKE '%%traslado%%' LIMIT 1", 
+            (grupoid,)
+        )
+        row = cursor.fetchone()
+        cursor.close()
+        return row[0] if row else None
+

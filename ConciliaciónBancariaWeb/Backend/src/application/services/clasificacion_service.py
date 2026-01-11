@@ -5,6 +5,8 @@ from src.domain.ports.movimiento_repository import MovimientoRepository
 from src.domain.ports.reglas_repository import ReglasRepository
 from src.domain.ports.tercero_repository import TerceroRepository
 from src.domain.ports.tercero_descripcion_repository import TerceroDescripcionRepository
+from src.domain.ports.grupo_repository import GrupoRepository
+from src.domain.ports.concepto_repository import ConceptoRepository
 
 class ClasificacionService:
     """
@@ -16,11 +18,15 @@ class ClasificacionService:
                  movimiento_repo: MovimientoRepository,
                  reglas_repo: ReglasRepository,
                  tercero_repo: TerceroRepository,
-                 tercero_descripcion_repo: TerceroDescripcionRepository = None):
+                 tercero_descripcion_repo: TerceroDescripcionRepository = None,
+                 concepto_repo: ConceptoRepository = None,
+                 grupo_repo: GrupoRepository = None):
         self.movimiento_repo = movimiento_repo
         self.reglas_repo = reglas_repo
         self.tercero_repo = tercero_repo
         self.tercero_descripcion_repo = tercero_descripcion_repo
+        self.concepto_repo = concepto_repo
+        self.grupo_repo = grupo_repo
 
     def clasificar_movimiento(self, movimiento: Movimiento) -> Tuple[bool, str]:
         """
@@ -134,18 +140,26 @@ class ClasificacionService:
         # ============================================
         # CASO ESPECIAL: FONDO RENTA (cuenta_id=3)
         # ============================================
-        # Para Fondo Renta: tercero siempre es "Fondo Renta" (ID 85)
-        # Para valores pequeños (<100.000): grupo="Impuestos" (22), concepto="Rte Fuente" (123)
         if movimiento.cuenta_id == 3:
-            sugerencia['tercero_id'] = 85  # Fondo Renta
-            sugerencia['razon'] = "Cuenta Fondo Renta → Tercero Fondo Renta"
-            sugerencia['tipo_match'] = 'cuenta_fondo_renta'
-            
-            # Para valores pequeños, auto-asignar Impuestos/Rte Fuente
-            if movimiento.valor is not None and abs(movimiento.valor) < 100000:
-                sugerencia['grupo_id'] = 22   # Impuestos
-                sugerencia['concepto_id'] = 123  # Rte Fuente
-                sugerencia['razon'] = "Fondo Renta (valor < $100.000) → Impuestos / Rte Fuente"
+            tercero_fr = self.tercero_repo.buscar_exacto("Fondo Renta")
+            if tercero_fr:
+                sugerencia['tercero_id'] = tercero_fr.terceroid
+                sugerencia['razon'] = "Cuenta Fondo Renta → Tercero Fondo Renta"
+                sugerencia['tipo_match'] = 'cuenta_fondo_renta'
+                
+                # Para valores pequeños, auto-asignar Impuestos/Rte Fuente
+                if (movimiento.valor is not None and abs(movimiento.valor) < 100000 
+                    and self.grupo_repo and self.concepto_repo):
+                    
+                    # Buscar grupo Impuestos
+                    grupo_imp = self.grupo_repo.buscar_por_nombre("Impuestos")
+                    if grupo_imp:
+                        # Buscar concepto Rte Fuente dentro de ese grupo
+                        concepto_rf = self.concepto_repo.buscar_por_nombre("Rte Fuente", grupoid=grupo_imp.grupoid)
+                        if concepto_rf:
+                            sugerencia['grupo_id'] = grupo_imp.grupoid
+                            sugerencia['concepto_id'] = concepto_rf.conceptoid
+                            sugerencia['razon'] = "Fondo Renta (valor < $100.000) → Impuestos / Rte Fuente"
         
         # ============================================
         # 1. BUSCAR POR REFERENCIA (>8 dígitos) en tercero_descripciones

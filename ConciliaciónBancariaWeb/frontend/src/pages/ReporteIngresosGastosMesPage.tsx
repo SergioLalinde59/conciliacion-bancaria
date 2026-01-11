@@ -51,8 +51,6 @@ export const ReporteIngresosGastosMesPage = () => {
     const [terceroId, setTerceroId] = useSessionStorage('rep_mes_filtro_terceroId', '')
     const [grupoId, setGrupoId] = useSessionStorage('rep_mes_filtro_grupoId', '')
     const [conceptoId, setConceptoId] = useSessionStorage('rep_mes_filtro_conceptoId', '')
-    const [excluirTraslados, setExcluirTraslados] = useSessionStorage('rep_mes_filtro_excluir_traslados', true)
-    const [excluirPrestamos, setExcluirPrestamos] = useSessionStorage('rep_mes_filtro_excluir_prestamos', true)
 
     // Dynamic Exclusion
     // Dynamic Exclusion
@@ -72,10 +70,8 @@ export const ReporteIngresosGastosMesPage = () => {
         tercero_id: terceroId ? Number(terceroId) : undefined,
         grupo_id: grupoId ? Number(grupoId) : undefined,
         concepto_id: conceptoId ? Number(conceptoId) : undefined,
-        excluir_traslados: excluirTraslados,
-        excluir_prestamos: undefined,
         grupos_excluidos: actualGruposExcluidos.length > 0 ? actualGruposExcluidos : undefined
-    }), [desde, hasta, cuentaId, terceroId, grupoId, conceptoId, excluirTraslados, actualGruposExcluidos])
+    }), [desde, hasta, cuentaId, terceroId, grupoId, conceptoId, actualGruposExcluidos])
 
     const { data: datosRaw, isLoading: loading } = useReporteIngresosGastosMes(paramsReporte)
 
@@ -127,7 +123,7 @@ export const ReporteIngresosGastosMesPage = () => {
     // Load Exclusion Config Defaults
     useEffect(() => {
         if (configuracionExclusion.length > 0 && gruposExcluidos === null) {
-            const defaults = (configuracionExclusion as ConfigFiltroExclusion[]).filter(d => d.activo_por_defecto && !d.es_traslado).map(d => d.grupo_id)
+            const defaults = (configuracionExclusion as ConfigFiltroExclusion[]).filter(d => d.activo_por_defecto).map(d => d.grupo_id)
             setGruposExcluidos(defaults)
         }
     }, [configuracionExclusion, gruposExcluidos])
@@ -140,8 +136,6 @@ export const ReporteIngresosGastosMesPage = () => {
         setTerceroId('')
         setGrupoId('')
         setConceptoId('')
-        setExcluirTraslados(true)
-        // setExcluirPrestamos(true)
         if (configuracionExclusion.length > 0) {
             const defaults = configuracionExclusion.filter(d => d.activo_por_defecto).map(d => d.grupo_id)
             setGruposExcluidos(defaults)
@@ -213,8 +207,6 @@ export const ReporteIngresosGastosMesPage = () => {
                 tercero_id: terceroId ? Number(terceroId) : undefined,
                 grupo_id: grupoId ? Number(grupoId) : undefined,
                 concepto_id: conceptoId ? Number(conceptoId) : undefined,
-                excluir_traslados: excluirTraslados,
-                excluir_prestamos: undefined,
                 grupos_excluidos: actualGruposExcluidos.length > 0 ? actualGruposExcluidos : undefined
             } as any)
             setTerceroModal(prev => ({ ...prev, data: (data as ItemDesglose[]) || [] }))
@@ -248,8 +240,6 @@ export const ReporteIngresosGastosMesPage = () => {
                 cuenta_id: cuentaId ? Number(cuentaId) : undefined,
                 tercero_id: item.id,
                 concepto_id: conceptoId ? Number(conceptoId) : undefined,
-                excluir_traslados: excluirTraslados,
-                excluir_prestamos: undefined,
                 grupos_excluidos: actualGruposExcluidos.length > 0 ? actualGruposExcluidos : undefined
             } as any)
             setGrupoModal(prev => ({ ...prev, data: (data as ItemDesglose[]) || [] }))
@@ -285,8 +275,6 @@ export const ReporteIngresosGastosMesPage = () => {
                 tercero_id: grupoModal.terceroId,
                 grupo_id: item.id,
                 concepto_id: conceptoId ? Number(conceptoId) : undefined,
-                excluir_traslados: excluirTraslados,
-                excluir_prestamos: undefined,
                 grupos_excluidos: actualGruposExcluidos.length > 0 ? actualGruposExcluidos : undefined
             } as any)
             setConceptoModal(prev => ({ ...prev, data: (data as ItemDesglose[]) || [] }))
@@ -461,15 +449,6 @@ export const ReporteIngresosGastosMesPage = () => {
                 cuentaId={cuentaId}
                 onCuentaChange={setCuentaId}
                 cuentas={cuentas}
-
-                excluirTraslados={excluirTraslados}
-                onExcluirTrasladosChange={setExcluirTraslados}
-                showExcluirTraslados={true}
-
-                excluirPrestamos={excluirPrestamos}
-                onExcluirPrestamosChange={setExcluirPrestamos}
-                showExcluirPrestamos={false} // Legacy off
-
                 terceroId={terceroId}
                 onTerceroChange={setTerceroId}
                 grupoId={grupoId}
@@ -479,22 +458,11 @@ export const ReporteIngresosGastosMesPage = () => {
                 terceros={terceros}
                 grupos={grupos}
                 conceptos={conceptos}
-                showClasificacionFilters={true} // Enabled for this report
-
-                // This report doesn't really use "Ingresos/Egresos" checkboxes to filter data API-side (it fetches all and splits them)
-                // but the UI had no such checkboxes.
-                // However, the chart might want to use them? The user requested to use shared filter component.
-                // The previous code did NOT have Ingresos/Egresos checkboxes in the filter panel.
-                // I will hide them for now to match previous behavior, or enable them if useful?
-                // The user said: "ReporteIngresosGastosMesPage does not currently use FiltrosReporte... duplicates many date range helpers..."
-                // Let's enable them only if they are useful. The previous implementation didn't filter by type in API.
-                // So I will set showIngresosEgresos={false} for now.
+                showClasificacionFilters={true}
                 showIngresosEgresos={false}
-
                 configuracionExclusion={configuracionExclusion}
                 gruposExcluidos={actualGruposExcluidos}
                 onGruposExcluidosChange={setGruposExcluidos}
-
                 onLimpiar={handleLimpiar}
             />
 

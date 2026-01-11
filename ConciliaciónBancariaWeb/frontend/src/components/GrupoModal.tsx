@@ -82,7 +82,7 @@ export const GrupoModal = ({ isOpen, grupo, grupos, onClose, onSave }: Props) =>
                         if (errorNombre) setErrorNombre('')
                     }}
                     onBlur={(e) => validarNombreUnico(e.target.value)}
-                    placeholder="Ej: Alimentación"
+                    placeholder="Ej: Préstamos"
                     error={errorNombre}
                     autoFocus
                 />

@@ -43,7 +43,6 @@ export const DescargarMovimientosPage: React.FC = () => {
     const [terceroId, setTerceroId] = useSessionStorage('desc_filtro_terceroId', '')
     const [grupoId, setGrupoId] = useSessionStorage('desc_filtro_grupoId', '')
     const [conceptoId, setConceptoId] = useSessionStorage('desc_filtro_conceptoId', '')
-    const [excluirTraslados, setExcluirTraslados] = useSessionStorage('desc_filtro_excluirTraslados', false)
 
     // Dynamic Exclusion
     const [configuracionExclusion, setConfiguracionExclusion] = useState<Array<{ grupo_id: number; etiqueta: string; activo_por_defecto: boolean }>>([])
@@ -97,8 +96,6 @@ export const DescargarMovimientosPage: React.FC = () => {
             tercero_id: parsedTerceroId,
             grupo_id: parsedGrupoId,
             concepto_id: parsedConceptoId,
-            excluir_traslados: excluirTraslados || undefined,
-            excluir_prestamos: undefined,
             grupos_excluidos: actualGruposExcluidos.length > 0 ? actualGruposExcluidos : undefined,
         }
 
@@ -117,7 +114,7 @@ export const DescargarMovimientosPage: React.FC = () => {
     // Effect to reload when filters change
     useEffect(() => {
         cargarDatos()
-    }, [desde, hasta, cuentaId, terceroId, grupoId, conceptoId, excluirTraslados, actualGruposExcluidos])
+    }, [desde, hasta, cuentaId, terceroId, grupoId, conceptoId, actualGruposExcluidos])
 
     const handleLimpiar = () => {
         const mesActual = getMesActual()
@@ -127,7 +124,6 @@ export const DescargarMovimientosPage: React.FC = () => {
         setTerceroId('')
         setGrupoId('')
         setConceptoId('')
-        setExcluirTraslados(true)
         if (configuracionExclusion.length > 0) {
             const defaults = configuracionExclusion.filter(d => d.activo_por_defecto).map(d => d.grupo_id)
             setGruposExcluidos(defaults)
@@ -482,9 +478,6 @@ export const DescargarMovimientosPage: React.FC = () => {
                     grupos={grupos}
                     conceptos={conceptos}
                     showClasificacionFilters={true}
-                    excluirTraslados={excluirTraslados}
-                    onExcluirTrasladosChange={setExcluirTraslados}
-                    showExcluirTraslados={true}
                     configuracionExclusion={configuracionExclusion}
                     gruposExcluidos={actualGruposExcluidos}
                     onGruposExcluidosChange={setGruposExcluidos}

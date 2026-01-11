@@ -16,10 +16,13 @@ def test_filtrar_movimientos_por_fecha(client):
     assert response.status_code == 200
     assert isinstance(response.json(), list)
 
-def test_excluir_traslados(client):
-    """Verifica que el flag excluir_traslados sea aceptado"""
-    response = client.get("/api/movimientos?excluir_traslados=true")
+def test_grupos_excluidos(client):
+    """Verifica que el filtro grupos_excluidos sea aceptado"""
+    # Sin grupos excluidos
+    response = client.get("/api/movimientos")
     assert response.status_code == 200
     
-    response_false = client.get("/api/movimientos?excluir_traslados=false")
-    assert response_false.status_code == 200
+    # Con grupos excluidos (ejemplo: grupo 46)
+    response_con_exclusion = client.get("/api/movimientos?grupos_excluidos=46")
+    assert response_con_exclusion.status_code == 200
+

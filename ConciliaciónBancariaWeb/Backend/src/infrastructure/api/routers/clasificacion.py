@@ -2,11 +2,20 @@ from fastapi import APIRouter, Depends, HTTPException
 from typing import List, Optional, Dict, Any
 from pydantic import BaseModel
 
-from src.infrastructure.api.dependencies import get_movimiento_repository, get_reglas_repository, get_tercero_repository, get_tercero_descripcion_repository
+from src.infrastructure.api.dependencies import (
+    get_movimiento_repository, 
+    get_reglas_repository, 
+    get_tercero_repository, 
+    get_tercero_descripcion_repository,
+    get_grupo_repository,
+    get_concepto_repository
+)
 from src.domain.ports.movimiento_repository import MovimientoRepository
 from src.domain.ports.reglas_repository import ReglasRepository
 from src.domain.ports.tercero_repository import TerceroRepository
 from src.domain.ports.tercero_descripcion_repository import TerceroDescripcionRepository
+from src.domain.ports.grupo_repository import GrupoRepository
+from src.domain.ports.concepto_repository import ConceptoRepository
 from src.application.services.clasificacion_service import ClasificacionService
 from src.infrastructure.api.routers.movimientos import MovimientoResponse, _to_response # Reuse existing DTOs
 
@@ -36,9 +45,18 @@ def get_clasificacion_service(
     mov_repo: MovimientoRepository = Depends(get_movimiento_repository),
     reglas_repo: ReglasRepository = Depends(get_reglas_repository),
     tercero_repo: TerceroRepository = Depends(get_tercero_repository),
-    tercero_desc_repo: TerceroDescripcionRepository = Depends(get_tercero_descripcion_repository)
+    tercero_desc_repo: TerceroDescripcionRepository = Depends(get_tercero_descripcion_repository),
+    grupo_repo: GrupoRepository = Depends(get_grupo_repository),
+    concepto_repo: ConceptoRepository = Depends(get_concepto_repository)
 ) -> ClasificacionService:
-    return ClasificacionService(mov_repo, reglas_repo, tercero_repo, tercero_desc_repo)
+    return ClasificacionService(
+        mov_repo, 
+        reglas_repo, 
+        tercero_repo, 
+        tercero_desc_repo, 
+        concepto_repo, 
+        grupo_repo
+    )
 
 @router.get("/sugerencia/{id}", response_model=ContextoClasificacionResponse)
 def obtener_sugerencia(

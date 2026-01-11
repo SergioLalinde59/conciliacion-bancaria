@@ -1,30 +1,14 @@
 from fastapi import APIRouter, Depends
 from typing import List, Dict
-import psycopg2
 from pydantic import BaseModel
 from src.infrastructure.logging.config import logger
+from src.infrastructure.database.connection import get_db_connection
 
 from src.infrastructure.database.postgres_tercero_repository import PostgresTerceroRepository
 from src.infrastructure.database.postgres_grupo_repository import PostgresGrupoRepository
 from src.infrastructure.database.postgres_concepto_repository import PostgresConceptoRepository
 from src.infrastructure.database.postgres_cuenta_repository import PostgresCuentaRepository
 from src.infrastructure.database.postgres_moneda_repository import PostgresMonedaRepository
-
-# Configuración BD
-DB_CONFIG = {
-    'host': 'localhost',
-    'port': '5433',
-    'database': 'Mvtos',
-    'user': 'postgres',
-    'password': 'SLB'
-}
-
-def get_db_connection():
-    conn = psycopg2.connect(**DB_CONFIG)
-    try:
-        yield conn
-    finally:
-        conn.close()
 
 router = APIRouter()
 

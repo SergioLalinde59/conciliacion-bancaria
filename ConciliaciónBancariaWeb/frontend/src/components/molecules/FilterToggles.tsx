@@ -2,14 +2,6 @@
 import { Checkbox } from '../atoms/Checkbox'
 
 interface FilterTogglesProps {
-    excluirTraslados?: boolean
-    onExcluirTrasladosChange?: (checked: boolean) => void
-    showExcluirTraslados?: boolean
-
-    excluirPrestamos?: boolean
-    onExcluirPrestamosChange?: (checked: boolean) => void
-    showExcluirPrestamos?: boolean
-
     soloPendientes?: boolean
     onSoloPendientesChange?: (checked: boolean) => void
     showSoloPendientes?: boolean
@@ -20,21 +12,13 @@ interface FilterTogglesProps {
     onMostrarEgresosChange?: (checked: boolean) => void
     showIngresosEgresos?: boolean
 
-    // Dynamic Filters
+    // Dynamic Exclusion Filters - ALL exclusion filters come from here
     configuracionExclusion?: Array<{ grupo_id: number; etiqueta: string }>;
     gruposExcluidos?: number[];
     onGruposExcluidosChange?: (ids: number[]) => void;
 }
 
 export const FilterToggles = ({
-    excluirTraslados = false,
-    onExcluirTrasladosChange,
-    showExcluirTraslados = false,
-
-    excluirPrestamos = false,
-    onExcluirPrestamosChange,
-    showExcluirPrestamos = false,
-
     soloPendientes = false,
     onSoloPendientesChange,
     showSoloPendientes = false,
@@ -62,20 +46,9 @@ export const FilterToggles = ({
                 />
             )}
 
-            {/* Excluir Traslados */}
-            {showExcluirTraslados && onExcluirTrasladosChange && (
-                <Checkbox
-                    label="Excluir Traslados"
-                    checked={!!excluirTraslados}
-                    onChange={(e) => onExcluirTrasladosChange(e.target.checked)}
-                />
-            )}
-
-            {/* Dynamic Exclusion Filters (e.g. Tita) */}
+            {/* Dynamic Exclusion Filters - All from config_filtros_grupos */}
             {configuracionExclusion
-                // Exclude Traslados (ID 47) if the manual checkbox is shown
-                .filter(config => !(showExcluirTraslados && config.grupo_id === 47))
-                .sort((a, b) => b.etiqueta.localeCompare(a.etiqueta))
+                .sort((a, b) => a.etiqueta.localeCompare(b.etiqueta))
                 .map(config => (
                     <Checkbox
                         key={config.grupo_id}
@@ -92,15 +65,6 @@ export const FilterToggles = ({
                         }}
                     />
                 ))}
-
-            {/* Excluir Préstamos */}
-            {showExcluirPrestamos && onExcluirPrestamosChange && (
-                <Checkbox
-                    label="Excluir Préstamos"
-                    checked={!!excluirPrestamos}
-                    onChange={(e) => onExcluirPrestamosChange(e.target.checked)}
-                />
-            )}
 
             {/* Income/Expense Filters */}
             {showIngresosEgresos && onMostrarIngresosChange && onMostrarEgresosChange && (

@@ -135,8 +135,6 @@ def listar_movimientos(
     tercero_id: Optional[int] = None,
     grupo_id: Optional[int] = None,
     concepto_id: Optional[int] = None,
-    excluir_traslados: bool = False,
-    excluir_prestamos: bool = False,
     grupos_excluidos: Optional[List[int]] = Query(None),
     solo_pendientes: bool = False,
     tipo_movimiento: Optional[str] = None,
@@ -153,8 +151,6 @@ def listar_movimientos(
             tercero_id=tercero_id,
             grupo_id=grupo_id,
             concepto_id=concepto_id,
-            excluir_traslados=excluir_traslados,
-            excluir_prestamos=excluir_prestamos,
             grupos_excluidos=grupos_excluidos,
             solo_pendientes=solo_pendientes,
             tipo_movimiento=tipo_movimiento,
@@ -235,8 +231,6 @@ def reporte_clasificacion(
     tercero_id: Optional[int] = None,
     grupo_id: Optional[int] = None,
     concepto_id: Optional[int] = None,
-    excluir_traslados: bool = True,
-    excluir_prestamos: bool = True,
     grupos_excluidos: Optional[List[int]] = Query(None),
     tipo_movimiento: Optional[str] = None,
     repo: MovimientoRepository = Depends(get_movimiento_repository)
@@ -250,8 +244,6 @@ def reporte_clasificacion(
             tercero_id=tercero_id,
             grupo_id=grupo_id,
             concepto_id=concepto_id,
-            excluir_traslados=excluir_traslados,
-            excluir_prestamos=excluir_prestamos,
             grupos_excluidos=grupos_excluidos,
             tipo_movimiento=tipo_movimiento
         )
@@ -267,8 +259,6 @@ def reporte_ingresos_gastos_mes(
     tercero_id: Optional[int] = None,
     grupo_id: Optional[int] = None,
     concepto_id: Optional[int] = None,
-    excluir_traslados: bool = True,
-    excluir_prestamos: bool = True,
     grupos_excluidos: Optional[List[int]] = Query(None),
     repo: MovimientoRepository = Depends(get_movimiento_repository)
 ):
@@ -280,8 +270,6 @@ def reporte_ingresos_gastos_mes(
             tercero_id=tercero_id,
             grupo_id=grupo_id,
             concepto_id=concepto_id,
-            excluir_traslados=excluir_traslados,
-            excluir_prestamos=excluir_prestamos,
             grupos_excluidos=grupos_excluidos
         )
     except Exception as e:
@@ -297,8 +285,6 @@ def reporte_desglose_gastos(
     tercero_id: Optional[int] = None,
     grupo_id: Optional[int] = None,
     concepto_id: Optional[int] = None,
-    excluir_traslados: bool = True,
-    excluir_prestamos: bool = True,
     grupos_excluidos: Optional[List[int]] = Query(None),
     repo: MovimientoRepository = Depends(get_movimiento_repository)
 ):
@@ -311,8 +297,6 @@ def reporte_desglose_gastos(
             tercero_id=tercero_id,
             grupo_id=grupo_id,
             concepto_id=concepto_id,
-            excluir_traslados=excluir_traslados,
-            excluir_prestamos=excluir_prestamos,
             grupos_excluidos=grupos_excluidos
         )
     except Exception as e:

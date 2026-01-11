@@ -64,9 +64,15 @@ app = FastAPI(
 logger.info("Iniciando aplicación FastAPI de Mvtos")
 
 # Configurar CORS
+origins = [
+    "http://localhost",
+    "http://localhost:80",
+    "http://localhost:5173", # Vite dev server
+]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # En producción, especificar orígenes permitidos
+    allow_origins=origins,
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

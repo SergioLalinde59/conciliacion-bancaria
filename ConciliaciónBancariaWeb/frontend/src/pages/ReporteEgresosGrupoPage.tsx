@@ -39,8 +39,6 @@ export const ReporteEgresosGrupoPage = () => {
     const [conceptoId, setConceptoId] = useSessionStorage('rep_egresos_grupo_conceptoId', '')
     const [mostrarIngresos, setMostrarIngresos] = useSessionStorage('rep_egresos_grupo_ingresos', false)
     const [mostrarEgresos, setMostrarEgresos] = useSessionStorage('rep_egresos_grupo_egresos', true)
-    const [excluirTraslados, setExcluirTraslados] = useSessionStorage('rep_egresos_grupo_excluir_traslados', true)
-    const [excluirPrestamos, setExcluirPrestamos] = useSessionStorage('rep_egresos_grupo_excluir_prestamos', true)
 
     // Dynamic Exclusion
     const [gruposExcluidos, setGruposExcluidos] = useSessionStorage<number[] | null>('rep_egresos_grupo_gruposExcluidos', null)
@@ -77,8 +75,6 @@ export const ReporteEgresosGrupoPage = () => {
         tercero_id: terceroId ? Number(terceroId) : undefined,
         grupo_id: grupoId ? Number(grupoId) : undefined,
         concepto_id: conceptoId ? Number(conceptoId) : undefined,
-        excluir_traslados: excluirTraslados,
-        excluir_prestamos: undefined,
         grupos_excluidos: actualGruposExcluidos.length > 0 ? actualGruposExcluidos : undefined
     }
 
@@ -94,7 +90,7 @@ export const ReporteEgresosGrupoPage = () => {
     // Set defaults when config loads
     useEffect(() => {
         if (configuracionExclusion.length > 0 && gruposExcluidos === null) {
-            const defaults = (configuracionExclusion as ConfigFiltroExclusion[]).filter(d => d.activo_por_defecto && !d.es_traslado).map(d => d.grupo_id)
+            const defaults = (configuracionExclusion as ConfigFiltroExclusion[]).filter(d => d.activo_por_defecto).map(d => d.grupo_id)
             setGruposExcluidos(defaults)
         }
     }, [configuracionExclusion, gruposExcluidos, setGruposExcluidos])
@@ -118,8 +114,6 @@ export const ReporteEgresosGrupoPage = () => {
             tercero_id: undefined,
             grupo_id: item.id,
             concepto_id: conceptoId ? Number(conceptoId) : undefined,
-            excluir_traslados: excluirTraslados,
-            excluir_prestamos: undefined,
             grupos_excluidos: actualGruposExcluidos.length > 0 ? actualGruposExcluidos : undefined
         } as any).then(data => {
             setTerceroModal(prev => ({ ...prev, data: (data as ItemDesglose[]) || [] }))
@@ -146,8 +140,6 @@ export const ReporteEgresosGrupoPage = () => {
             tercero_id: item.id,
             grupo_id: terceroModal.parentId,
             concepto_id: conceptoId ? Number(conceptoId) : undefined,
-            excluir_traslados: excluirTraslados,
-            excluir_prestamos: undefined,
             grupos_excluidos: actualGruposExcluidos.length > 0 ? actualGruposExcluidos : undefined
         } as any).then(data => {
             setConceptoModal(prev => ({ ...prev, data: (data as ItemDesglose[]) || [] }))
@@ -184,8 +176,6 @@ export const ReporteEgresosGrupoPage = () => {
         setConceptoId('')
         setMostrarIngresos(false)
         setMostrarEgresos(true)
-        setExcluirTraslados(true)
-        // setExcluirPrestamos(true)
         if (configuracionExclusion.length > 0) {
             const defaults = configuracionExclusion.filter(d => d.activo_por_defecto).map(d => d.grupo_id)
             setGruposExcluidos(defaults)
@@ -385,12 +375,6 @@ export const ReporteEgresosGrupoPage = () => {
                 mostrarEgresos={mostrarEgresos}
                 onMostrarEgresosChange={setMostrarEgresos}
                 showIngresosEgresos={false}
-                excluirTraslados={excluirTraslados}
-                onExcluirTrasladosChange={setExcluirTraslados}
-                showExcluirTraslados={true}
-                excluirPrestamos={excluirPrestamos}
-                onExcluirPrestamosChange={setExcluirPrestamos}
-                showExcluirPrestamos={false} // Legacy off
                 configuracionExclusion={configuracionExclusion}
                 gruposExcluidos={actualGruposExcluidos}
                 onGruposExcluidosChange={setGruposExcluidos}

@@ -13,18 +13,35 @@ class PostgresMovimientoRepository(MovimientoRepository):
     def __init__(self, connection):
         self.conn = connection
 
+    def _get_ids_traslados(self) -> tuple[Optional[int], Optional[int]]:
+        """Busca dinámicamente el ID de grupo y concepto para 'Traslados'"""
+        cursor = self.conn.cursor()
+        try:
+            # 1. Buscar grupo en config_filtros_grupos (label 'Excluir Traslados')
+            cursor.execute("SELECT grupo_id FROM config_filtros_grupos WHERE etiqueta ILIKE %s LIMIT 1", ('%traslado%',))
+            row_grupo = cursor.fetchone()
+            grupoid = row_grupo[0] if row_grupo else None
+            
+            if not grupoid:
+                return None, None
+                
+            # 2. Buscar concepto 'Traslado' en ese grupo
+            cursor.execute("SELECT conceptoid FROM conceptos WHERE grupoid_fk = %s AND concepto ILIKE %s LIMIT 1", (grupoid, '%traslado%'))
+            row_concepto = cursor.fetchone()
+            conceptoid = row_concepto[0] if row_concepto else None
+            
+            return grupoid, conceptoid
+        finally:
+            cursor.close()
+
     def _construir_filtros(self, 
-                          fecha_inicio: Optional[date] = None, 
-                          fecha_fin: Optional[date] = None,
-                          cuenta_id: Optional[int] = None,
-                          tercero_id: Optional[int] = None,
-                          grupo_id: Optional[int] = None,
-                          concepto_id: Optional[int] = None,
-                          excluir_traslados: bool = False,
-                          excluir_prestamos: bool = False,
-                          grupos_excluidos: Optional[List[int]] = None,
-                          solo_pendientes: bool = False,
-                          tipo_movimiento: Optional[str] = None
+                           fecha_inicio: Optional[date] = None, 
+                           fecha_fin: Optional[date] = None,
+                           cuenta_id: Optional[int] = None,
+                           tercero_id: Optional[int] = None,
+                           grupo_id: Optional[int] = None,
+                           concepto_id: Optional[int] = None,
+                           grupos_excluidos: Optional[List[int]] = None
     ) -> tuple[str, list]:
         """
         Construye la cláusula WHERE y los parámetros para los filtros comunes.
@@ -52,19 +69,6 @@ class PostgresMovimientoRepository(MovimientoRepository):
         if concepto_id:
             conditions.append("m.ConceptoID = %s")
             params.append(concepto_id)
-            
-        if excluir_traslados:
-             # Excluir explícitamente el grupo Traslados (ID 47)
-             conditions.append("(m.GrupoID IS NULL OR m.GrupoID != 47)")
-             
-        # Legacy: excluir_prestamos flag
-        # If the frontend passes this flag, we should ideally exclude loans.
-        # However, since we are moving to dynamic exclusion, we expect the frontend 
-        # to send the loan group ID in 'grupos_excluidos'.
-        # We REMOVE the hardcoded check for ID 35 here to clean up the code.
-        # if excluir_prestamos:
-        #      conditions.append("(m.GrupoID IS NULL OR m.GrupoID != 35)")
-        pass
              
         if grupos_excluidos and len(grupos_excluidos) > 0:
             conditions.append("(m.GrupoID IS NULL OR m.GrupoID NOT IN %s)")
@@ -359,8 +363,6 @@ class PostgresMovimientoRepository(MovimientoRepository):
                        tercero_id: Optional[int] = None,
                        grupo_id: Optional[int] = None,
                        concepto_id: Optional[int] = None,
-                       excluir_traslados: bool = False,
-                       excluir_prestamos: bool = False,
                        grupos_excluidos: Optional[List[int]] = None,
                        solo_pendientes: bool = False,
                        tipo_movimiento: Optional[str] = None,
@@ -400,8 +402,6 @@ class PostgresMovimientoRepository(MovimientoRepository):
             tercero_id=tercero_id,
             grupo_id=grupo_id,
             concepto_id=concepto_id,
-            excluir_traslados=excluir_traslados,
-            excluir_prestamos=excluir_prestamos,
             grupos_excluidos=grupos_excluidos,
             solo_pendientes=solo_pendientes,
             tipo_movimiento=tipo_movimiento
@@ -440,8 +440,6 @@ class PostgresMovimientoRepository(MovimientoRepository):
                                  tercero_id: Optional[int] = None,
                                  grupo_id: Optional[int] = None,
                                  concepto_id: Optional[int] = None,
-                                 excluir_traslados: bool = True,
-                                 excluir_prestamos: bool = True,
                                  grupos_excluidos: Optional[List[int]] = None,
                                  tipo_movimiento: Optional[str] = None
     ) -> List[dict]:
@@ -479,8 +477,6 @@ class PostgresMovimientoRepository(MovimientoRepository):
             tercero_id=tercero_id,
             grupo_id=grupo_id,
             concepto_id=concepto_id,
-            excluir_traslados=excluir_traslados,
-            excluir_prestamos=excluir_prestamos,
             grupos_excluidos=grupos_excluidos,
             tipo_movimiento=tipo_movimiento
         )
@@ -606,8 +602,6 @@ class PostgresMovimientoRepository(MovimientoRepository):
                                  tercero_id: Optional[int] = None,
                                  grupo_id: Optional[int] = None,
                                  concepto_id: Optional[int] = None,
-                                 excluir_traslados: bool = True,
-                                 excluir_prestamos: bool = True,
                                  grupos_excluidos: Optional[List[int]] = None
     ) -> List[dict]:
         cursor = self.conn.cursor()
@@ -634,8 +628,6 @@ class PostgresMovimientoRepository(MovimientoRepository):
             tercero_id=tercero_id,
             grupo_id=grupo_id,
             concepto_id=concepto_id,
-            excluir_traslados=excluir_traslados,
-            excluir_prestamos=excluir_prestamos,
             grupos_excluidos=grupos_excluidos
         )
         
@@ -671,10 +663,16 @@ class PostgresMovimientoRepository(MovimientoRepository):
                 SUM(ABS(m.Valor)) as VolumenTotal
             FROM movimientos m
             JOIN terceros t ON m.TerceroID = t.terceroid
-            LEFT JOIN grupos g ON m.GrupoID = g.grupoid
-            WHERE (m.GrupoID IS NULL OR m.GrupoID != 47)
+            WHERE 1=1
         """
         params = []
+        
+        # Exclude traslados dynamically
+        grupoid_t, _ = self._get_ids_traslados()
+        if grupoid_t:
+            query += " AND (m.GrupoID IS NULL OR m.GrupoID != %s)"
+            params.append(grupoid_t)
+        
         if fecha_inicio:
             query += " AND m.Fecha >= %s"
             params.append(fecha_inicio)
@@ -728,10 +726,14 @@ class PostgresMovimientoRepository(MovimientoRepository):
             LEFT JOIN terceros t ON m.TerceroID = t.terceroid
             LEFT JOIN grupos g ON m.GrupoID = g.grupoid
             LEFT JOIN conceptos con ON m.ConceptoID = con.conceptoid
-            WHERE m.TerceroID = %s 
-              AND (m.GrupoID IS NULL OR m.GrupoID != 47)
+            WHERE m.TerceroID = %s
         """
         params = [tercero_id]
+        
+        grupoid_t, _ = self._get_ids_traslados()
+        if grupoid_t:
+            query += " AND (m.GrupoID IS NULL OR m.GrupoID != %s)"
+            params.append(grupoid_t)
         
         if fecha_inicio:
             query += " AND m.Fecha >= %s"
@@ -753,9 +755,16 @@ class PostgresMovimientoRepository(MovimientoRepository):
         Si se proporcionan movimiento_ids, solo actualiza esos.
         """
         cursor = self.conn.cursor()
+        grupoid_t, conceptoid_t = self._get_ids_traslados()
+        
+        if not grupoid_t or not conceptoid_t:
+            # Si no hay configuración, no podemos reclasificar dinámicamente
+            # Podríamos lanzar error o usar fallback hardcoded (no recomendado por el usuario)
+            raise ValueError("No se encontró la configuración del grupo/concepto de Traslados en la base de datos.")
+
         try:
-            NEW_GRUPO_ID = 47
-            NEW_CONCEPTO_ID = 399
+            NEW_GRUPO_ID = grupoid_t
+            NEW_CONCEPTO_ID = conceptoid_t
             
             query = """
                 UPDATE movimientos
@@ -796,8 +805,6 @@ class PostgresMovimientoRepository(MovimientoRepository):
                                tercero_id: Optional[int] = None,
                                grupo_id: Optional[int] = None,
                                concepto_id: Optional[int] = None,
-                               excluir_traslados: bool = True,
-                               excluir_prestamos: bool = True,
                                grupos_excluidos: Optional[List[int]] = None
     ) -> List[dict]:
         cursor = self.conn.cursor()
@@ -833,20 +840,7 @@ class PostgresMovimientoRepository(MovimientoRepository):
             WHERE 1=1
         """
         
-        # Nota: El desglose siempre tiene que excluir traslados salvo que se especifique lo contrario?
-        # En la implementación anterior, se excluian traslados inline.
-        # Vamos a asumir comportamiento por defecto: Excluir Traslados = True.
-        # Pero mejor usemos _construir_filtros pasándole True.
-        
-        # Sin embargo, si nivel != 'grupo', el método anterior usaba una subquery.
-        # Al usar _construir_filtros, asumimos que 'g' (grupos) está en el JOIN.
-        # Pero aquí NO siempre está en el JOIN.
-        # Si nivel='tercero', solo hacemos JOIN con terceros.
-        # Si nivel='concepto', solo JOIN con conceptos.
-        
-        # SOLUCION: Agregar el JOIN con grupos siempre para poder filtrar por es_traslado.
-        # Solo agregarlo si no está ya.
-        
+        # SOLUCION: Agregar el JOIN con grupos siempre para poder filtrar por ID de grupo.
         joins_extra = ""
         if 'JOIN grupos' not in join_clause:
             joins_extra = " LEFT JOIN grupos g ON m.GrupoID = g.grupoid"
@@ -871,8 +865,6 @@ class PostgresMovimientoRepository(MovimientoRepository):
             tercero_id=tercero_id,
             grupo_id=grupo_id,
             concepto_id=concepto_id,
-            excluir_traslados=excluir_traslados,
-            excluir_prestamos=excluir_prestamos,
             grupos_excluidos=grupos_excluidos
         )
         

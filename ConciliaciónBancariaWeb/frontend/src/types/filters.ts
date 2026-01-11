@@ -99,7 +99,6 @@ export interface ClasificarMovimientoParams {
  */
 export interface GrupoCreateParams {
     grupo: string
-    es_traslado: boolean
 }
 
 /**
@@ -147,5 +146,4 @@ export interface ConfigFiltroExclusion {
     grupo_id: number
     etiqueta: string
     activo_por_defecto: boolean
-    es_traslado?: boolean
 }

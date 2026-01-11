@@ -17,17 +17,7 @@ export interface FiltrosReporteProps {
     onCuentaChange: (value: string) => void
     cuentas: Array<{ id: number; nombre: string }>
 
-    // Transfer filter
-    excluirTraslados?: boolean
-    onExcluirTrasladosChange?: (value: boolean) => void
-    showExcluirTraslados?: boolean
-
-    // Loan filter
-    excluirPrestamos?: boolean
-    onExcluirPrestamosChange?: (value: boolean) => void
-    showExcluirPrestamos?: boolean
-
-    // Dynamic Exclusion
+    // Dynamic Exclusion Filters - ALL exclusion filters come from here
     configuracionExclusion?: Array<{ grupo_id: number; etiqueta: string }>;
     gruposExcluidos?: number[];
     onGruposExcluidosChange?: (ids: number[]) => void
@@ -68,12 +58,6 @@ export const FiltrosReporte = ({
     cuentaId,
     onCuentaChange,
     cuentas,
-    excluirTraslados = true,
-    onExcluirTrasladosChange,
-    showExcluirTraslados = true,
-    excluirPrestamos = true,
-    onExcluirPrestamosChange,
-    showExcluirPrestamos = true,
     soloPendientes = false,
     onSoloPendientesChange,
     showSoloPendientes = false,
@@ -150,12 +134,6 @@ export const FiltrosReporte = ({
             <div className="flex flex-col md:flex-row justify-between items-center pt-3 mt-1 border-t border-gray-100 gap-2">
                 <div className="flex-grow">
                     <FilterToggles
-                        excluirTraslados={excluirTraslados}
-                        onExcluirTrasladosChange={onExcluirTrasladosChange}
-                        showExcluirTraslados={showExcluirTraslados}
-                        excluirPrestamos={excluirPrestamos}
-                        onExcluirPrestamosChange={onExcluirPrestamosChange}
-                        showExcluirPrestamos={showExcluirPrestamos}
                         soloPendientes={soloPendientes}
                         onSoloPendientesChange={onSoloPendientesChange}
                         showSoloPendientes={showSoloPendientes}
